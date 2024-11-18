@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\models\\shopcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\models\\shopcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\models\\typeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\models\\typeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|c:\\users\\mi162\\source\\repos\\shopmvc\\shopmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8D6C69-D118-45FB-B710-154BE67B73E6}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopCart.cs",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\ShopCart.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Models\\ShopCart.cs",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\ShopCart.cs",
+              "RelativeToolTip": "ShopMVC\\Models\\ShopCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:52:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeItem.cs",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\TypeItem.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Models\\TypeItem.cs",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\TypeItem.cs",
+              "RelativeToolTip": "ShopMVC\\Models\\TypeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:44:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Models\\Item.cs",
+              "RelativeToolTip": "ShopMVC\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:38:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\appsettings.json",
+              "RelativeToolTip": "ShopMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T15:20:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ShopMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ShopMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T14:31:26.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShopMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:15:21.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
