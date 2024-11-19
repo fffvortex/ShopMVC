@@ -5,16 +5,60 @@
       "PackagePath": "staticwebassets\\ShopMVC.eedcc0oynj.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\COPYRIGHT.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\COPYRIGHT.txt"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "PackagePath": "staticwebassets\\css\\My_nav_bar.css"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
+      "PackagePath": "staticwebassets\\css\\body.css"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
+      "PackagePath": "staticwebassets\\img\\bar.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
+      "PackagePath": "staticwebassets\\img\\menu-bar.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",

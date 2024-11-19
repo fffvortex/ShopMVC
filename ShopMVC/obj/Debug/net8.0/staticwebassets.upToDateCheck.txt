@@ -1,6 +1,17 @@
-wwwroot\css\site.css
+wwwroot\css\body.css
+wwwroot\css\My_nav_bar.css
 wwwroot\favicon.ico
-wwwroot\js\site.js
+wwwroot\Fonts\Bender\COPYRIGHT.txt
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Black.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BlackItalic.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Bold.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
+wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
+wwwroot\img\bar.png
+wwwroot\img\menu-bar.png
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

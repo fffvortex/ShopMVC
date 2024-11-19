@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+STZCpCASD3gx7T8EViUxIJQhlwLPcYuR8AbcuzmYZI=",
+  "Hash": "v9JK0Vm7uxGC2Glqy/gJJLwrDVRWAfIatn16DNlx7II=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1319,12 +1319,12 @@
       "OriginalItemSpec": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopMVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
       "BasePath": "_content/ShopMVC",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "RelativePath": "css/body#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1333,11 +1333,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "01p3n95mnx",
+      "Integrity": "dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\body.css"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/My_nav_bar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pma0svv7qv",
+      "Integrity": "0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
@@ -1361,12 +1382,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\COPYRIGHT.txt",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
       "BasePath": "_content/ShopMVC",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "RelativePath": "Fonts/Bender/COPYRIGHT#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,11 +1396,221 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "hvza9xvxr7",
+      "Integrity": "4y7iZGXJ2uHOaGbBuHkLTq+KlKXbeY3v/gMCFxO80BU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\COPYRIGHT.txt"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xbmx0rj04q",
+      "Integrity": "s5T+DDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-Black#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mnmumb0f0d",
+      "Integrity": "zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bre7kwfjyt",
+      "Integrity": "dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-Bold#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2di56j8iud",
+      "Integrity": "Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ut614yrjso",
+      "Integrity": "0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-Italic#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zlyzsl386d",
+      "Integrity": "99mvGuCmvkc8L9Uap982rL0poK9jkMz3+2Dn/FYVSqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-Light#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k8pfu4a31r",
+      "Integrity": "fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "Fonts/Bender/Jovanny Lemonad - Bender-LightItalic#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "evxx6ulz2y",
+      "Integrity": "ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/bar#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wi86j6w5dx",
+      "Integrity": "WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bar.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/menu-bar#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81itmtb94q",
+      "Integrity": "dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\menu-bar.png"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -2581,8 +2812,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
+      "Route": "css/body.01p3n95mnx.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +2822,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "425"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2830,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 18 Nov 2024 14:12:09 GMT"
+          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2613,21 +2844,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "01p3n95mnx"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/body.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
+      "Route": "css/body.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2636,7 +2867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "425"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 18 Nov 2024 14:12:09 GMT"
+          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2889,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
+        }
+      ]
+    },
+    {
+      "Route": "css/My_nav_bar.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 16:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/My_nav_bar.pma0svv7qv.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 16:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pma0svv7qv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/My_nav_bar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="
         }
       ]
     },
@@ -2741,6 +3054,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/COPYRIGHT.hvza9xvxr7.txt",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\COPYRIGHT.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4y7iZGXJ2uHOaGbBuHkLTq+KlKXbeY3v/gMCFxO80BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 11:19:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hvza9xvxr7"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/COPYRIGHT.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4y7iZGXJ2uHOaGbBuHkLTq+KlKXbeY3v/gMCFxO80BU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/COPYRIGHT.txt",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\COPYRIGHT.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4y7iZGXJ2uHOaGbBuHkLTq+KlKXbeY3v/gMCFxO80BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 11:19:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4y7iZGXJ2uHOaGbBuHkLTq+KlKXbeY3v/gMCFxO80BU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5T+DDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5T+DDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender.xbmx0rj04q.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5T+DDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xbmx0rj04q"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5T+DDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Black.mnmumb0f0d.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnmumb0f0d"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-Black.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Black.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Black.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.bre7kwfjyt.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bre7kwfjyt"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BlackItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Bold.2di56j8iud.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2di56j8iud"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-Bold.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Bold.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Bold.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.ut614yrjso.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-BoldItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ut614yrjso"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Italic.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"99mvGuCmvkc8L9Uap982rL0poK9jkMz3+2Dn/FYVSqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-99mvGuCmvkc8L9Uap982rL0poK9jkMz3+2Dn/FYVSqo="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Italic.zlyzsl386d.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Italic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"99mvGuCmvkc8L9Uap982rL0poK9jkMz3+2Dn/FYVSqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zlyzsl386d"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-Italic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-99mvGuCmvkc8L9Uap982rL0poK9jkMz3+2Dn/FYVSqo="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Light.k8pfu4a31r.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k8pfu4a31r"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-Light.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-Light.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-Light.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.evxx6ulz2y.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evxx6ulz2y"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.otf",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Jul 2021 10:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4="
         }
       ]
     },
@@ -4965,8 +6016,8 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "Route": "img/bar.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4975,35 +6026,35 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "176"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 18 Nov 2024 14:12:09 GMT"
+          "Value": "Tue, 19 Nov 2024 15:38:32 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "Route": "img/bar.wi86j6w5dx.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5012,19 +6063,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "176"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 18 Nov 2024 14:12:09 GMT"
+          "Value": "Tue, 19 Nov 2024 15:38:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5034,15 +6085,97 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "wi86j6w5dx"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "img/bar.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU="
+        }
+      ]
+    },
+    {
+      "Route": "img/menu-bar.81itmtb94q.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 15:24:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81itmtb94q"
+        },
+        {
+          "Name": "label",
+          "Value": "img/menu-bar.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw="
+        }
+      ]
+    },
+    {
+      "Route": "img/menu-bar.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Nov 2024 15:24:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw="
         }
       ]
     },

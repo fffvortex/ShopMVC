@@ -1,16 +1,28 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/site.c2tiyv64ts.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/body.01p3n95mnx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/ShopMVC/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 14:12:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"01p3n95mnx"},{"Name":"integrity","Value":"sha256-dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="},{"Name":"label","Value":"_content/ShopMVC/css/body.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 14:50:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/site.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/body.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 14:12:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 14:50:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/My_nav_bar.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\My_nav_bar.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1093"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 16:16:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/My_nav_bar.pma0svv7qv.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\My_nav_bar.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pma0svv7qv"},{"Name":"integrity","Value":"sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="},{"Name":"label","Value":"_content/ShopMVC/css/My_nav_bar.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1093"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 16:16:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -24,17 +36,137 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 14:12:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/js/site.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/COPYRIGHT.hvza9xvxr7.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\COPYRIGHT.txt'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 14:12:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hvza9xvxr7"},{"Name":"integrity","Value":"sha256-4y7iZGXJ2uHOaGbBuHkLTq\u002BKlKXbeY3v/gMCFxO80BU="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/COPYRIGHT.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00224y7iZGXJ2uHOaGbBuHkLTq\u002BKlKXbeY3v/gMCFxO80BU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 11:19:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/js/site.xtxxf3hu2r.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/COPYRIGHT.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\COPYRIGHT.txt'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/ShopMVC/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 14:12:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4y7iZGXJ2uHOaGbBuHkLTq\u002BKlKXbeY3v/gMCFxO80BU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00224y7iZGXJ2uHOaGbBuHkLTq\u002BKlKXbeY3v/gMCFxO80BU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 11:19:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Black.mnmumb0f0d.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Black.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnmumb0f0d"},{"Name":"integrity","Value":"sha256-zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Black.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54164"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Black.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Black.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54164"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022zo/XuHktb0zDBgmkHw9ZXe53w5vTIKZOcY6yb1XlV4I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.bre7kwfjyt.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-BlackItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bre7kwfjyt"},{"Name":"integrity","Value":"sha256-dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"50844"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BlackItalic.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-BlackItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"50844"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022dwqxP0RrfVMqT3y/hqC4P8unLyi078WVNCG3dIJrQGU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Bold.2di56j8iud.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Bold.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2di56j8iud"},{"Name":"integrity","Value":"sha256-Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Bold.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52988"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Bold.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Bold.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52988"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022Nt5iz4tlHjoF0ukzUpkvy2hLAu5yEJ/X4qPBNNV69PI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49736"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u00220pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.ut614yrjso.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ut614yrjso"},{"Name":"integrity","Value":"sha256-0pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-BoldItalic.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49736"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u00220pSSJUvPgohvyaHptHIVq4LuhXnMd2WkgGM/tKmcVQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Italic.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-99mvGuCmvkc8L9Uap982rL0poK9jkMz3\u002B2Dn/FYVSqo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49312"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u002299mvGuCmvkc8L9Uap982rL0poK9jkMz3\u002B2Dn/FYVSqo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Italic.zlyzsl386d.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zlyzsl386d"},{"Name":"integrity","Value":"sha256-99mvGuCmvkc8L9Uap982rL0poK9jkMz3\u002B2Dn/FYVSqo="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Italic.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49312"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u002299mvGuCmvkc8L9Uap982rL0poK9jkMz3\u002B2Dn/FYVSqo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Light.k8pfu4a31r.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k8pfu4a31r"},{"Name":"integrity","Value":"sha256-fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Light.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51024"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-Light.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"51024"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022fAQrcNwYRQzqveVrqf1cV6sEuRT5joD5X9y3rCC7IiY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.evxx6ulz2y.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"evxx6ulz2y"},{"Name":"integrity","Value":"sha256-ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49120"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender-LightItalic.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49120"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022ujcKjmmb15xzmj5tiySJIKELiN0HgzmTY26HiKjDOQ4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52536"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender.xbmx0rj04q.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbmx0rj04q"},{"Name":"integrity","Value":"sha256-s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52536"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/bar.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bar.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"176"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:38:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/bar.wi86j6w5dx.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bar.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wi86j6w5dx"},{"Name":"integrity","Value":"sha256-WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU="},{"Name":"label","Value":"_content/ShopMVC/img/bar.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:38:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/menu-bar.81itmtb94q.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\menu-bar.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"81itmtb94q"},{"Name":"integrity","Value":"sha256-dKXAuF7d3aCwJFfZmh23W5h\u002BxyFLhfaYSLQ4FU0qsZw="},{"Name":"label","Value":"_content/ShopMVC/img/menu-bar.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"485"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dKXAuF7d3aCwJFfZmh23W5h\u002BxyFLhfaYSLQ4FU0qsZw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:24:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/menu-bar.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\menu-bar.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dKXAuF7d3aCwJFfZmh23W5h\u002BxyFLhfaYSLQ4FU0qsZw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"485"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dKXAuF7d3aCwJFfZmh23W5h\u002BxyFLhfaYSLQ4FU0qsZw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:24:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

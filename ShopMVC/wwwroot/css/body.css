@@ -1,0 +1,23 @@
+﻿@font-face {
+    font-family: "Bender";
+    src:url('../Fonts/Bender/Jovanny Lemonad - Bender.otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: "Bender";
+    color: #c3b5b5;
+    font-weight: 400;
+    background-color: #080505;
+    background-size: cover;
+}
+
+
