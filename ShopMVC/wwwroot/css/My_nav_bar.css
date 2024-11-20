@@ -40,6 +40,7 @@
 header{
     position: relative;
     padding: 0 2rem;
+    border-bottom: solid #808080 3px;
 }
 
 .links{
@@ -47,17 +48,66 @@ header{
     font-weight: bold;
     display: flex;
     column-gap: 2rem;
+    margin-block: 1rem;
+    padding: 1rem;
 }
 
 .toggle_btn {
     cursor: pointer;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    display: none
 }
-    .toggle_btn img {
+    .toggle_btn i {
         max-width: 30px;
         filter: drop-shadow(4px 7px 15px #000000);
         transition: filter 0.7s ease-in-out;
     }
-    .toggle_btn img:hover {
+    .toggle_btn i:hover {
         filter: drop-shadow(4px 7px 15px #1df500);
     }
+
+.login_block{
+}
+
+.dropdown_menu {
+    display: none;
+    position: absolute;
+    right: 2rem;
+    top: 60px;
+    width: 200px;
+    background: #000000;
+    overflow: hidden;
+    opacity: 0.9;
+    height: 0;
+    transition: height 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.dropdown_menu li{
+    padding: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .dropdown_menu.open {
+        height: auto;
+        border: 2px #52814d solid;
+    }
+
+@media(max-width: 800px) {
+    .my_nav .links{
+        display: none;
+    }
+    .my_nav .toggle_btn{
+        display: block;
+    }
+    .dropdown_menu{
+        display: block;
+    }
+}
+
+@media(max-width: 576px){
+    .dropdown_menu{
+        left: 2rem;
+        width: unset;
+    }
+
+}

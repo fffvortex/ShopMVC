@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v9JK0Vm7uxGC2Glqy/gJJLwrDVRWAfIatn16DNlx7II=",
+  "Hash": "sMtLHrwjqHWxI/1YzjZn1DOu6nLfeWbf3l/a43Y5KyY=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pma0svv7qv",
-      "Integrity": "0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=",
+      "Fingerprint": "892fi1ysn6",
+      "Integrity": "1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
@@ -1611,6 +1611,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\menu-bar.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "js/drop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cyeextmzg8",
+      "Integrity": "NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\drop.js"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -2894,6 +2915,51 @@
       ]
     },
     {
+      "Route": "css/My_nav_bar.892fi1ysn6.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:17:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "892fi1ysn6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/My_nav_bar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg="
+        }
+      ]
+    },
+    {
       "Route": "css/My_nav_bar.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "Selectors": [],
@@ -2904,7 +2970,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1093"
+          "Value": "2003"
         },
         {
           "Name": "Content-Type",
@@ -2912,11 +2978,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\""
+          "Value": "\"1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 16:16:24 GMT"
+          "Value": "Wed, 20 Nov 2024 11:17:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2926,52 +2992,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="
-        }
-      ]
-    },
-    {
-      "Route": "css/My_nav_bar.pma0svv7qv.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1093"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 16:16:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pma0svv7qv"
-        },
-        {
-          "Name": "label",
-          "Value": "css/My_nav_bar.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0V10ZjjP4IoUP75wX32JDvZgkiZJXWLkjH6wkyKc3ZM="
+          "Value": "sha256-1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg="
         }
       ]
     },
@@ -6176,6 +6197,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-dKXAuF7d3aCwJFfZmh23W5h+xyFLhfaYSLQ4FU0qsZw="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop.cyeextmzg8.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:28:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cyeextmzg8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/drop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:28:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI="
         }
       ]
     },

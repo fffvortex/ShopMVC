@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\img\\menu-bar.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "PackagePath": "staticwebassets\\js\\drop.js"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

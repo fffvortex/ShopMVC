@@ -12,6 +12,7 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
 wwwroot\img\bar.png
 wwwroot\img\menu-bar.png
+wwwroot\js\drop.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
