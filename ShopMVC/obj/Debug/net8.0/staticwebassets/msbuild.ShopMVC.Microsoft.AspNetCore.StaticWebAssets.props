@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ShopMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ShopMVC</BasePath>
+      <RelativePath>css/LoginPartial.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8ujc8lj1fj</Fingerprint>
+      <Integrity>kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\My_nav_bar.css'))">
       <SourceType>Package</SourceType>
       <SourceId>ShopMVC</SourceId>
@@ -30,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>892fi1ysn6</Fingerprint>
-      <Integrity>1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=</Integrity>
+      <Fingerprint>re8hv991oa</Fingerprint>
+      <Integrity>LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\My_nav_bar.css'))</OriginalItemSpec>
@@ -264,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cyeextmzg8</Fingerprint>
-      <Integrity>NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=</Integrity>
+      <Fingerprint>pjqlu4ykum</Fingerprint>
+      <Integrity>pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\drop.js'))</OriginalItemSpec>

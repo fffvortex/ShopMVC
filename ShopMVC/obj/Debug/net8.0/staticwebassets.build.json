@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sMtLHrwjqHWxI/1YzjZn1DOu6nLfeWbf3l/a43Y5KyY=",
+  "Hash": "M/t6/sfOb0f7NSqdpC+9VrO1IaP5S6OlGMgyTTyp8Xw=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "wwwroot\\css\\body.css"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/LoginPartial#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ujc8lj1fj",
+      "Integrity": "kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\LoginPartial.css"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1354,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "892fi1ysn6",
-      "Integrity": "1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=",
+      "Fingerprint": "re8hv991oa",
+      "Integrity": "LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
@@ -1627,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cyeextmzg8",
-      "Integrity": "NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=",
+      "Fingerprint": "pjqlu4ykum",
+      "Integrity": "pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\drop.js"
@@ -2915,8 +2936,8 @@
       ]
     },
     {
-      "Route": "css/My_nav_bar.892fi1ysn6.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Route": "css/LoginPartial.8ujc8lj1fj.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2925,7 +2946,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2003"
+          "Value": "475"
         },
         {
           "Name": "Content-Type",
@@ -2933,11 +2954,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=\""
+          "Value": "\"kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:17:41 GMT"
+          "Value": "Wed, 20 Nov 2024 12:50:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2947,15 +2968,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "892fi1ysn6"
+          "Value": "8ujc8lj1fj"
         },
         {
           "Name": "label",
-          "Value": "css/My_nav_bar.css"
+          "Value": "css/LoginPartial.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg="
+          "Value": "sha256-kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag="
+        }
+      ]
+    },
+    {
+      "Route": "css/LoginPartial.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 12:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag="
         }
       ]
     },
@@ -2970,7 +3028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2003"
+          "Value": "2007"
         },
         {
           "Name": "Content-Type",
@@ -2978,11 +3036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg=\""
+          "Value": "\"LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:17:41 GMT"
+          "Value": "Wed, 20 Nov 2024 12:50:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2992,7 +3050,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1DCf8vmB0EODcEq/3cn3n25hxByW/cgMoHgop7vy4Bg="
+          "Value": "sha256-LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s="
+        }
+      ]
+    },
+    {
+      "Route": "css/My_nav_bar.re8hv991oa.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 12:50:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "re8hv991oa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/My_nav_bar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s="
         }
       ]
     },
@@ -6201,51 +6304,6 @@
       ]
     },
     {
-      "Route": "js/drop.cyeextmzg8.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "692"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:28:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cyeextmzg8"
-        },
-        {
-          "Name": "label",
-          "Value": "js/drop.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI="
-        }
-      ]
-    },
-    {
       "Route": "js/drop.js",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
       "Selectors": [],
@@ -6256,7 +6314,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "692"
+          "Value": "690"
         },
         {
           "Name": "Content-Type",
@@ -6264,11 +6322,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI=\""
+          "Value": "\"pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:28:34 GMT"
+          "Value": "Wed, 20 Nov 2024 11:55:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6278,7 +6336,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NLiqIzkjXBcPSXQVAvlQKX3TmB7zJ6YxGoGEInrKeHI="
+          "Value": "sha256-pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop.pjqlu4ykum.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjqlu4ykum"
+        },
+        {
+          "Name": "label",
+          "Value": "js/drop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo="
         }
       ]
     },

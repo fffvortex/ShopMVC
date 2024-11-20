@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
+      "PackagePath": "staticwebassets\\css\\LoginPartial.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "PackagePath": "staticwebassets\\css\\My_nav_bar.css"
     },

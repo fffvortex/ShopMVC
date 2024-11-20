@@ -1,4 +1,5 @@
 wwwroot\css\body.css
+wwwroot\css\LoginPartial.css
 wwwroot\css\My_nav_bar.css
 wwwroot\favicon.ico
 wwwroot\Fonts\Bender\COPYRIGHT.txt

@@ -18,6 +18,5 @@ toggleBtn.onclick = function() {
      const isOpen = toggleDownMenu.classList.contains('open')
 
      toggleBtnIcon.classList = isOpen ? 'fa-sharp fa-solid fa-xmark style="color: #2fdd2c;': 'fa-sharp fa-solid fa-bars style="color: #2fdd2c;'
-
 }
 

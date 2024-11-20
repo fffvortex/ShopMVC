@@ -39,7 +39,7 @@
 
 header{
     position: relative;
-    padding: 0 2rem;
+    padding: 0 0.7rem;
     border-bottom: solid #808080 3px;
 }
 
@@ -55,7 +55,8 @@ header{
 .toggle_btn {
     cursor: pointer;
     font-size: 1.5rem;
-    display: none
+    display: none;
+    margin-right: 0.2rem;
 }
     .toggle_btn i {
         max-width: 30px;
@@ -67,6 +68,10 @@ header{
     }
 
 .login_block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .dropdown_menu {
@@ -79,7 +84,7 @@ header{
     overflow: hidden;
     opacity: 0.9;
     height: 0;
-    transition: height 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .dropdown_menu li{
     padding: 0.7rem;
@@ -88,9 +93,11 @@ header{
     justify-content: center;
 }
     .dropdown_menu.open {
-        height: auto;
+        height: 6rem;
         border: 2px #52814d solid;
     }
+
+
 
 @media(max-width: 800px) {
     .my_nav .links{
