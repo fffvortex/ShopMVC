@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\Fonts\\Bender\\Jovanny Lemonad - Bender.otf"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "PackagePath": "staticwebassets\\css\\Card.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
       "PackagePath": "staticwebassets\\css\\LoginPartial.css"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
       "PackagePath": "staticwebassets\\img\\bar.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
+      "PackagePath": "staticwebassets\\img\\lightning-Photoroom.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",

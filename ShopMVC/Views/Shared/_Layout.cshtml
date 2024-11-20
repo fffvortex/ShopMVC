@@ -17,28 +17,28 @@
             </div>
             <ul class="links">
                 <li class="nav_li">
-                    <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Items">Items</a>
                 </li>
                 <li class="nav_li">
                     <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                 </li>
             </ul>
-            <div class="login_block" >
+            <div class="login_block">
                 <partial name="_LoginPartial" />
             </div>
-            <div onclick="" onmouseout="" onmouseover="" class="toggle_btn" >
+            <div onclick="" onmouseout="" onmouseover="" class="toggle_btn">
                 <i class="fa-sharp fa-solid fa-bars" style="color: #2fdd2c;"></i>
             </div>
         </nav>
         <div class="dropdown_menu">
-                <li class="nav_li">
-                    <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                </li>
-                <li class="nav_li">
-                    <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                </li>
+            <li class="nav_li">
+                <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Items">Items</a>
+            </li>
+            <li class="nav_li">
+                <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </li>
         </div>
-        <script defer src ="/js/drop.js"></script>
+        <script defer src="/js/drop.js"></script>
     </header>
     <div>
         <main role="main">
@@ -46,8 +46,10 @@
         </main>
     </div>
     <footer>
-        <div>
-            &copy; 2024 - ShopMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="foot">
+            <div class="footer_text">
+                &copy; 2024 - ShopMVC - Author: <a href="https://t.me/fffvortex">fffvortex</a> <a asp-area="" asp-controller="Home" asp-action="Privacy"> - Privacy</a>
+            </div>
         </div>
     </footer>
     @await RenderSectionAsync("Scripts", required: false)

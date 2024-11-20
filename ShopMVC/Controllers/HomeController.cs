@@ -18,6 +18,11 @@ namespace ShopMVC.Controllers
             return View();
         }
 
+        public IActionResult Items()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

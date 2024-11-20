@@ -1,4 +1,5 @@
 wwwroot\css\body.css
+wwwroot\css\Card.css
 wwwroot\css\LoginPartial.css
 wwwroot\css\My_nav_bar.css
 wwwroot\favicon.ico
@@ -12,6 +13,7 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
 wwwroot\img\bar.png
+wwwroot\img\lightning-Photoroom.png
 wwwroot\img\menu-bar.png
 wwwroot\js\drop.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

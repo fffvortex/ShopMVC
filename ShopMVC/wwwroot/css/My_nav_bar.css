@@ -85,7 +85,9 @@ header{
     opacity: 0.9;
     height: 0;
     transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    z-index: 100;
 }
+
 .dropdown_menu li{
     padding: 0.7rem;
     display: flex;
@@ -93,11 +95,35 @@ header{
     justify-content: center;
 }
     .dropdown_menu.open {
-        height: 6rem;
+/*        swap height*/
+        height: 6rem; 
         border: 2px #52814d solid;
     }
 
 
+.foot {
+    border-top: solid 4px #808080;
+    color: antiquewhite;
+    height: 6rem;
+    align-items: center;
+    display: flex;
+}
+
+    .foot a {
+        color: #61b219;
+        text-decoration: none;
+    }
+
+        .foot a:hover {
+            color: #4cff00;
+        }
+
+        .foot a:active {
+            color: #ffffff;
+        }
+.footer_text{
+    margin-left: 3rem;
+}
 
 @media(max-width: 800px) {
     .my_nav .links{
@@ -118,3 +144,4 @@ header{
     }
 
 }
+

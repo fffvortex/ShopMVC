@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/t6/sfOb0f7NSqdpC+9VrO1IaP5S6OlGMgyTTyp8Xw=",
+  "Hash": "zPG7GlOnnR4qWpmtRQ/tvN2nUKjokX5dq/cOxCLsU6E=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "wwwroot\\css\\body.css"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/Card#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulmfkboqcl",
+      "Integrity": "MsCsYUx49AlOpibtHqUIfgCpUKkyXq2KIaG7H8d7gZ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Card.css"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1354,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8ujc8lj1fj",
-      "Integrity": "kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=",
+      "Fingerprint": "4dft7qy4uc",
+      "Integrity": "+N0riuYlStft+bb4cOC7JoD03ThTdgXGVzxIRBGvCvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\LoginPartial.css"
@@ -1375,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "re8hv991oa",
-      "Integrity": "LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=",
+      "Fingerprint": "vvdyvlcuft",
+      "Integrity": "NVIatNtaSVrwLTT44gS5csDiRD+c/4DjnsmrsCpHxYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
@@ -1611,6 +1632,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bar.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/lightning-Photoroom#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "naejulnvym",
+      "Integrity": "4a5D/pNgqOXfHUBiIaQbJlk7qSAji487iJNwQxU8lYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\lightning-Photoroom.png"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
@@ -2936,8 +2978,8 @@
       ]
     },
     {
-      "Route": "css/LoginPartial.8ujc8lj1fj.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
+      "Route": "css/Card.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2946,7 +2988,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "475"
+          "Value": "2172"
         },
         {
           "Name": "Content-Type",
@@ -2954,11 +2996,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=\""
+          "Value": "\"MsCsYUx49AlOpibtHqUIfgCpUKkyXq2KIaG7H8d7gZ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 12:50:44 GMT"
+          "Value": "Wed, 20 Nov 2024 16:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsCsYUx49AlOpibtHqUIfgCpUKkyXq2KIaG7H8d7gZ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Card.ulmfkboqcl.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsCsYUx49AlOpibtHqUIfgCpUKkyXq2KIaG7H8d7gZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:42:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2968,7 +3047,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8ujc8lj1fj"
+          "Value": "ulmfkboqcl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Card.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsCsYUx49AlOpibtHqUIfgCpUKkyXq2KIaG7H8d7gZ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/LoginPartial.4dft7qy4uc.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+N0riuYlStft+bb4cOC7JoD03ThTdgXGVzxIRBGvCvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dft7qy4uc"
         },
         {
           "Name": "label",
@@ -2976,7 +3100,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag="
+          "Value": "sha256-+N0riuYlStft+bb4cOC7JoD03ThTdgXGVzxIRBGvCvY="
         }
       ]
     },
@@ -2991,7 +3115,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "475"
+          "Value": "1149"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +3123,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag=\""
+          "Value": "\"+N0riuYlStft+bb4cOC7JoD03ThTdgXGVzxIRBGvCvY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 12:50:44 GMT"
+          "Value": "Wed, 20 Nov 2024 16:17:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3137,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kCQjTVRzBUCWJPIUlZNWRnGYknYghN7zM76Xv4okLag="
+          "Value": "sha256-+N0riuYlStft+bb4cOC7JoD03ThTdgXGVzxIRBGvCvY="
         }
       ]
     },
@@ -3028,7 +3152,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2007"
+          "Value": "2564"
         },
         {
           "Name": "Content-Type",
@@ -3036,11 +3160,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=\""
+          "Value": "\"NVIatNtaSVrwLTT44gS5csDiRD+c/4DjnsmrsCpHxYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 12:50:24 GMT"
+          "Value": "Wed, 20 Nov 2024 16:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3050,12 +3174,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s="
+          "Value": "sha256-NVIatNtaSVrwLTT44gS5csDiRD+c/4DjnsmrsCpHxYw="
         }
       ]
     },
     {
-      "Route": "css/My_nav_bar.re8hv991oa.css",
+      "Route": "css/My_nav_bar.vvdyvlcuft.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3065,7 +3189,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2007"
+          "Value": "2564"
         },
         {
           "Name": "Content-Type",
@@ -3073,11 +3197,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s=\""
+          "Value": "\"NVIatNtaSVrwLTT44gS5csDiRD+c/4DjnsmrsCpHxYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 12:50:24 GMT"
+          "Value": "Wed, 20 Nov 2024 16:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3087,7 +3211,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "re8hv991oa"
+          "Value": "vvdyvlcuft"
         },
         {
           "Name": "label",
@@ -3095,7 +3219,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LahTF2U2+F3jdnIyJEyG3sb/TjFrYkhrNQxuHmmck/s="
+          "Value": "sha256-NVIatNtaSVrwLTT44gS5csDiRD+c/4DjnsmrsCpHxYw="
         }
       ]
     },
@@ -6218,6 +6342,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WIRK9OW0YKn4V22gBvUk57/VGdjR5IrnJhOfeuEFTNU="
+        }
+      ]
+    },
+    {
+      "Route": "img/lightning-Photoroom.naejulnvym.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a5D/pNgqOXfHUBiIaQbJlk7qSAji487iJNwQxU8lYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 12:41:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "naejulnvym"
+        },
+        {
+          "Name": "label",
+          "Value": "img/lightning-Photoroom.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a5D/pNgqOXfHUBiIaQbJlk7qSAji487iJNwQxU8lYg="
+        }
+      ]
+    },
+    {
+      "Route": "img/lightning-Photoroom.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a5D/pNgqOXfHUBiIaQbJlk7qSAji487iJNwQxU8lYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 12:41:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a5D/pNgqOXfHUBiIaQbJlk7qSAji487iJNwQxU8lYg="
         }
       ]
     },
