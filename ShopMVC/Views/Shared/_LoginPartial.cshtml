@@ -6,17 +6,21 @@
     @if (SignInManager.IsSignedIn(User))
     {
         <div class="login_list">
+
         <li class="login_li_in">
             <a class="login_a" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
-                Hello @User.Identity?.Name! @if (User.IsInRole("Admin"))
+                Hello @User.Identity?.Name.Substring(0, User.Identity.Name.IndexOf("@")) @if (User.IsInRole("Admin"))
                     {
                     <span>[ADMIN]</span>
                     }
             </a>
         </li>
-        <li class="login_li">
+        <a href="" class="cart_div">
+            <i class="fa-sharp fa-solid fa-cart-shopping" style="color: #22d82e;"><span class="quantity_micro">10</span></i>
+        </a>
+        <li >
             <form class="login_form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-                <button class="logout_btn" type="submit">logout</button>
+                <button class="logout_btn_nav" type="submit">logout</button>
             </form>
         </li>
         </div>
@@ -31,6 +35,6 @@
             <a class="login_a" asp-area="Identity" asp-page="/Account/Login">Login</a>
         </li>
         </div>
-        
+
     }
 </ul>

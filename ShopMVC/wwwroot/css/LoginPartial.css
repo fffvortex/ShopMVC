@@ -1,10 +1,11 @@
 ﻿
-.login_list{
+.login_list {
     display: flex;
     align-items: center;
-    max-width : 10rem;
+    max-width: 10rem;
     margin-top: 1.6rem;
     margin-bottom: 1rem;
+    margin-inline: 3rem;
 }
 
 .login_li {
@@ -16,6 +17,10 @@
 .login_a {
     color: #837d7d;
     text-decoration: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-right:0.3rem;
 }
 
 .login_a:hover{
@@ -49,9 +54,101 @@
         box-shadow: 0px 0px 13px 5px rgba(49, 255, 0, 0.2);
     }
 
-.login_li_in {
-    font-size: small;
-    text-decoration: none;
-    margin-top: 0.6rem;
-    list-style: none;
+.logout_btn_nav {
+    margin-top: 1rem;
+    background-color: #000000;
+    color: #59a42b;
+    font-weight: bold;
+    margin-inline: 0.3rem;
+    transition: all 0.4s ease-in-out;
+    border: solid 2px #000000;
+    margin-bottom: 0.6rem;
 }
+    .logout_btn_nav:hover {
+        border: 2px #52ce19 solid;
+        color: #52ce19;
+    }
+
+    .login_li_in {
+        font-size: small;
+        text-decoration: none;
+        margin-top: 0.6rem;
+        list-style: none;
+    }
+.quantity_micro{
+    font-size: x-small;
+}
+.cart_div {
+    margin-top: 0.5rem;
+}
+.user_invalid:user-invalid {
+    border: solid 3px #ff0000;
+}
+.user_invalid:valid{
+    border: solid 3px #00ff21;
+}
+.form-label .chek_input {
+    background-color: #00ff21;
+    border-radius: 0px;
+    cursor: pointer;
+}
+    .form-label .chek_input:checked {
+        background-color: white;
+    }
+
+.links{
+    color: #868080;
+    text-decoration:none;
+}
+    .links:hover {
+        color: #00ff21;
+    }
+
+.hover_link:hover{
+    border: solid 1px #00ff21;
+}
+
+.nav-pills .nav-link.active {
+    color: #52ce19;
+    font-weight: bold;
+    background-color: #837d7d;
+    border-radius: 0px;
+}
+.nav-link {
+    color: #837d7d;
+    border-radius: 0px;
+}
+    .nav-link:hover {
+        color: #00ff21;
+        border-radius: 0px;
+    }
+
+.form-control{
+    border-radius: 0px;
+
+}
+
+.btn-primary {
+    border-radius: 0px;
+    margin-top: 1rem;
+    background-color: #837d7d;
+    color: #000000;
+    font-weight: bold;
+    margin-inline: 0.3rem;
+    transition: all 0.4s ease-in-out;
+    border: solid 1px #000000;
+    padding: 2px;
+    margin-bottom: 0.6rem
+}
+    .btn-primary:hover {
+        background-color: #000000;
+        color: #00ff21;
+        border: solid 1px #00ff21;
+        box-shadow: 0px 0px 13px 5px rgba(49, 255, 0, 0.2);
+    }
+    .btn-primary:active {
+        background-color: #000000;
+        color: #ffffff;
+        border: solid 1px #00ff21;
+        box-shadow: 0px 0px 13px 5px rgba(49, 255, 0, 0.2);
+    }

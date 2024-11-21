@@ -22,17 +22,26 @@
     .mini-logo:hover {
         filter: drop-shadow(4px 7px 15px #1df500);
     }
+.fa-sharp {
+    cursor: pointer;
+    filter: drop-shadow(4px 7px 15px #000000);
+    transition: filter 0.7s ease-in-out;
+}
+    .fa-sharp:hover {
+        filter: drop-shadow(4px 7px 15px #1df500);
+    }
 
-.nav_li{
-    list-style : none;
+.nav_li {
+    list-style: none;
 }
 
 .nav_a{
     text-decoration: none;
-    color: #5a9223;
+    color: #1df500;
 }
 
     .nav_a:hover {
+        color: #4cff00;
         color: #4cff00;
     }
 
@@ -67,11 +76,11 @@ header{
         filter: drop-shadow(4px 7px 15px #1df500);
     }
 
-.login_block{
+
+.login_block {
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
 .dropdown_menu {
@@ -102,6 +111,7 @@ header{
 
 
 .foot {
+    margin-top: 6rem;
     border-top: solid 4px #808080;
     color: antiquewhite;
     height: 6rem;
@@ -135,12 +145,20 @@ header{
     .dropdown_menu{
         display: block;
     }
+    .mini-logo {
+        width: 1rem;
+        font-size: 1rem;
+    }
 }
 
 @media(max-width: 576px){
     .dropdown_menu{
         left: 2rem;
         width: unset;
+    }
+    .mini-logo {
+        width: 1rem;
+        font-size: 1rem;
     }
 
 }

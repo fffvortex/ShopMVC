@@ -2,6 +2,8 @@ wwwroot\css\body.css
 wwwroot\css\Card.css
 wwwroot\css\LoginPartial.css
 wwwroot\css\My_nav_bar.css
+wwwroot\css\search.css
+wwwroot\css\text.css
 wwwroot\favicon.ico
 wwwroot\Fonts\Bender\COPYRIGHT.txt
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender.otf
@@ -12,10 +14,9 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
-wwwroot\img\bar.png
 wwwroot\img\lightning-Photoroom.png
-wwwroot\img\menu-bar.png
 wwwroot\js\drop.js
+wwwroot\js\text.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

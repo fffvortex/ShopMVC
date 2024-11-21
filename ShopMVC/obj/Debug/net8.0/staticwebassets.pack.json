@@ -57,24 +57,28 @@
       "PackagePath": "staticwebassets\\css\\body.css"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\search.css",
+      "PackagePath": "staticwebassets\\css\\search.css"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\bar.png",
-      "PackagePath": "staticwebassets\\img\\bar.png"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\text.css",
+      "PackagePath": "staticwebassets\\css\\text.css"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
       "PackagePath": "staticwebassets\\img\\lightning-Photoroom.png"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\menu-bar.png",
-      "PackagePath": "staticwebassets\\img\\menu-bar.png"
-    },
-    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
       "PackagePath": "staticwebassets\\js\\drop.js"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
+      "PackagePath": "staticwebassets\\js\\text.js"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",

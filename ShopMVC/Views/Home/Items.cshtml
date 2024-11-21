@@ -2,149 +2,60 @@
     ViewData["Title"] = "Items ";
 }
 <link rel="stylesheet" href="/css/Card.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/search.css" asp-append-version="true" />
 
 
 <div class="items_title">
     <h1>Items</h1>
 </div>
+
+<div class="search_panel">
+
+    <div class="search_form">
+        <form class="row gy-2 gx-3 align-items-center">
+            <div class="col-auto">
+                <label class="visually-hidden" for="typeId">Types</label>
+                <select class="form-select" id="typeId">
+                    <option selected>Choose...</option>
+                    <option value="1">One1</option>
+                    <option value="2">Two2</option>
+                    <option value="3">Three3</option>
+                </select>
+            </div>
+            <div class="col-auto">
+                <label class="visually-hidden" for="autoSizingInputGroup">Search by title</label>
+                <div class="input-group">
+                    <div class="input-group-text"></div>
+                    <input type="text" class="form-control" id="" placeholder="Search by title">
+                </div>
+            </div>
+            
+            <div class="col-auto">
+                <button type="submit" style="margin-top: 0.5rem;" class="btn btn-primary">search</button>
+            </div>
+        </form>
+    </div>
+</div>
+
 <section class="cards">
     <div class="container_div container_cards">
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
+        @for (int i = 1; i <= 19; i++)
+        {
+            <div class="card_item">
+                <div class="card_top">
+                    <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
                 </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
+                <div class="card_bottom">
+                    <div class="card_price">100</div>
+                    <p class="card_title">Item title</p>
+                    <div class="card_description">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
+                    </div>
+                    <div class="button_div">
+                        <button class="card_button">add to cart</button>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
-        <div class="card_item">
-            <div class="card_top">
-                <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div>
-            </div>
-            <div class="card_bottom">
-                <div class="card_price">100</div>
-                <p class="card_title">Item title</p>
-                <div class="card_description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper.
-                </div>
-                <div class="button_div">
-                    <button class="card_button">add to cart</button>
-                </div>
-            </div>
-        </div>
+        }
     </div>
 </section>
-
-@* <div class="card_item"> *@
-@*     <div class="card_top"> *@
-@*         <div class="card_img"><img src="/img/lightning-Photoroom.png" alt="item" /></div> *@
-@*     </div> *@
-@*     <div class="card_bottom"> *@
-@*         <div class="card_price">100</div> *@
-@*         <p class="card_title">Item title</p> *@
-@*         <div class="card_description"> *@
-@*             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna a tellus vehicula mattis ac eget quam. Quisque interdum lectus orci, eget varius enim dignissim at. Curabitur ultricies bibendum arcu. Etiam ligula odio, egestas id augue in, sagittis condimentum ligula. Nullam accumsan malesuada iaculis. Fusce imperdiet, velit sed semper. *@
-@*         </div> *@
-@*         <div class="button_div"> *@
-@*             <button class="card_button">add to cart</button> *@
-@*         </div> *@
-
-@*     </div> *@
-@* </div> *@

@@ -1,0 +1,7 @@
+﻿
+
+.search_form{
+    display: flex;
+    background: #000000;
+    justify-content:space-evenly;
+}
