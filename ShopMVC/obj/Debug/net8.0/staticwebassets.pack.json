@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets\\js\\drop.js"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
       "PackagePath": "staticwebassets\\js\\text.js"
     },

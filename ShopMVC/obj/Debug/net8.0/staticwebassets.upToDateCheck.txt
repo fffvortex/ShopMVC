@@ -16,6 +16,7 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
 wwwroot\img\lightning-Photoroom.png
 wwwroot\js\drop.js
+wwwroot\js\search.js
 wwwroot\js\text.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
