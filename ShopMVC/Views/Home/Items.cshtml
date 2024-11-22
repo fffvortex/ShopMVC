@@ -28,10 +28,10 @@
                         <input type="text" class="form-control" value="@Model.STerm" name="sTerm" id="sTerm" placeholder="Search by title">
                     </div>
                 </div>
-                <div style="display: flex; justify-content:center; align-items:center; margin-bottom: 0.1rem ">
+                <div style="display: flex; justify-content:center; align-items:center; margin-top: 0.1rem ">
                     <button type="submit" style="margin-top: 0.5rem;" class="btn btn-primary search_button">search</button>
                 </div>
-                <div style="display: flex; justify-content:center; align-items:center; margin-bottom: 0.1rem ">
+                <div style="display: flex; justify-content:center; align-items:center; margin-top: 0.1rem ">
                     <a style="margin-top: 0.5rem;" class="btn btn-primary search_button" href="/Home/Items">reset</a>
                 </div>
             </div>
@@ -46,7 +46,9 @@
             <div class="card_item">
                 <div class="card_top">
                     <div class="card_img">
-
+                        <div class="type_tag">
+                            @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length-1)
+                        </div>
                         @if (string.IsNullOrEmpty(item.Image))
                         {
                             <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName"/>
@@ -55,6 +57,7 @@
                         {
                             <img src="@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
                         }
+                        
                     </div>
                 </div>
                 <div class="card_bottom">
