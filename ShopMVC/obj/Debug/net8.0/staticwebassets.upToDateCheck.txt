@@ -14,9 +14,12 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
-wwwroot\img\lightning-Photoroom.png
+wwwroot\img\no image.png
+wwwroot\img\pistols\G291-CO2 pistol replica.png
+wwwroot\img\rifles\Airsoft rifle Specna Arms SA-A33 ONE™.png
+wwwroot\img\rifles\SA-H02 ONE.png
+wwwroot\img\sniper rifles\MB4410D replica with scope and bipod.png
 wwwroot\js\drop.js
-wwwroot\js\search.js
 wwwroot\js\text.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

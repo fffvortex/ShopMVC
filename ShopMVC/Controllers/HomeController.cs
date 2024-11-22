@@ -1,16 +1,19 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ShopMVC.Models;
+using ShopMVC.Models.DTOs;
 
 namespace ShopMVC.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IItemRepository _itemRepository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IItemRepository itemRepository)
         {
             _logger = logger;
+            _itemRepository = itemRepository;
         }
 
         public IActionResult Index()
@@ -18,9 +21,21 @@ namespace ShopMVC.Controllers
             return View();
         }
 
-        public IActionResult Items()
+        public async Task<IActionResult> Items(string sTerm = "", int typeId = 0)
         {
-            return View();
+            
+            IEnumerable<Item> items = await _itemRepository.GetItems(sTerm, typeId);
+            IEnumerable<TypeItem> types = await _itemRepository.TypesItem();
+
+            ItemDisplayModel itemModel = new()
+            {
+                Items = items,
+                TypeItems = types,
+                STerm = sTerm,
+                TypeId = typeId
+            };
+
+            return View(itemModel);
         }
 
         public IActionResult Privacy()

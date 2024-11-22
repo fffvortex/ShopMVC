@@ -69,16 +69,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\lightning-Photoroom.png",
-      "PackagePath": "staticwebassets\\img\\lightning-Photoroom.png"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",
+      "PackagePath": "staticwebassets\\img\\no image.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\pistols\\G291-CO2 pistol replica.png",
+      "PackagePath": "staticwebassets\\img\\pistols\\G291-CO2 pistol replica.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\SA-H02 ONE.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
+      "PackagePath": "staticwebassets\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
       "PackagePath": "staticwebassets\\js\\drop.js"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\search.js",
-      "PackagePath": "staticwebassets\\js\\search.js"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
