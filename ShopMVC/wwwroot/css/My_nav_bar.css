@@ -84,7 +84,6 @@ header{
 }
 
 .dropdown_menu {
-    display: none;
     position: absolute;
     right: 2rem;
     top: 60px;

@@ -5,6 +5,8 @@
 
 <link rel="stylesheet" href="/css/Card.css" asp-append-version="true" />
 <link rel="stylesheet" href="/css/search.css" asp-append-version="true" />
+<script defer src="/js/drop_character.js"></script>
+
 
 
 <div class="items_title">
@@ -14,11 +16,12 @@
 <div class="search_panel">
     <div class="search_form">
         <form asp-action="Items" class="row gy-3 gx-3 align-items-center">
-            <label class="visually-hidden" for="typeId" >Types</label>
+            <label class="visually-hidden" for="typeId">Types</label>
             <select class="form-select" id="typeId" name="typeId">
                 <option selected>select..</option>
-                @foreach(var type in Model.TypeItems){
-                    <option selected="@(type.Id == Model.TypeId)" value="@type.Id">@type.TypeTitle.Replace('_',' ')</option>
+                @foreach (var type in Model.TypeItems)
+                {
+                    <option selected="@(type.Id == Model.TypeId)" value="@type.Id">@type.TypeTitle.Replace('_', ' ')</option>
                 }
             </select>
             <div style="display:flex; justify-content: space-between;text-align:center;align-items:center; ">
@@ -38,7 +41,6 @@
         </form>
     </div>
 </div>
-
 <section class="cards">
     <div class="container_div container_cards">
         @foreach (var item in Model.Items)
@@ -47,17 +49,21 @@
                 <div class="card_top">
                     <div class="card_img">
                         <div class="type_tag">
-                            @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length-1)
+                            @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length - 1)
                         </div>
                         @if (string.IsNullOrEmpty(item.Image))
                         {
-                            <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName"/>
+                            <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
                         }
                         else
                         {
                             <img src="@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
                         }
                         
+                        <div onclick="" class="btn_character $class{@item.Id}">open</div>
+                        <div id="@item.Id" class="down_character">
+                            @item.Id
+                        </div>
                     </div>
                 </div>
                 <div class="card_bottom">
@@ -73,4 +79,5 @@
             </div>
         }
     </div>
+    
 </section>

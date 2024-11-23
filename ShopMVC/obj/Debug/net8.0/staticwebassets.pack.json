@@ -77,20 +77,68 @@
       "PackagePath": "staticwebassets\\img\\pistols\\G291-CO2 pistol replica.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft assault rifle Cyma CM028.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
       "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\CM042A Carbine Replica.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\CM048A assault airsoft rifle.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
       "PackagePath": "staticwebassets\\img\\rifles\\SA-H02 ONE.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
+      "PackagePath": "staticwebassets\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
       "PackagePath": "staticwebassets\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
-      "PackagePath": "staticwebassets\\js\\drop.js"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "PackagePath": "staticwebassets\\js\\drop2.js"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
+      "PackagePath": "staticwebassets\\js\\drop_character.js"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",

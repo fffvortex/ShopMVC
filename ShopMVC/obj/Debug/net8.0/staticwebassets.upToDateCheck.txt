@@ -16,10 +16,22 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
 wwwroot\img\no image.png
 wwwroot\img\pistols\G291-CO2 pistol replica.png
+wwwroot\img\rifles\Airsoft assault rifle Cyma CM028.png
+wwwroot\img\rifles\Airsoft rifle JG Works 4015T Black.png
+wwwroot\img\rifles\Airsoft rifle Specna Arms RRA SA-E03.png
 wwwroot\img\rifles\Airsoft rifle Specna Arms SA-A33 ONE™.png
+wwwroot\img\rifles\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png
+wwwroot\img\rifles\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png
+wwwroot\img\rifles\CM042A Carbine Replica.png
+wwwroot\img\rifles\CM048A assault airsoft rifle.png
+wwwroot\img\rifles\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png
+wwwroot\img\rifles\SA-H01 ONE™ Assault Rifle Replica.png
 wwwroot\img\rifles\SA-H02 ONE.png
+wwwroot\img\rifles\Specna Arms SA-C19 Daniel Defense®.png
+wwwroot\img\rifles\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png
 wwwroot\img\sniper rifles\MB4410D replica with scope and bipod.png
-wwwroot\js\drop.js
+wwwroot\js\drop_character.js
+wwwroot\js\drop2.js
 wwwroot\js\text.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

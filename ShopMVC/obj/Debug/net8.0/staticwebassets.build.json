@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vE+y4yTXfXzzVwMFz6wtDw+PEQ+ONbrDm3ldfjFKyE4=",
+  "Hash": "ep3dEL8KvNXrWb1VDfKkiB75xRSDVgI/0JqH8wLTgDk=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z48f38e9ug",
-      "Integrity": "DQaCYNpFz8OLTkv/9ofe0sqzgSOx/Ms7loDNJXGEc8E=",
+      "Fingerprint": "9dgwx4biwc",
+      "Integrity": "I2Ta3/XT6Nqae/Q39rqM681v5rSHMrcrTt/6PdjpV14=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Card.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q54w76x1f6",
-      "Integrity": "DmzQ9XjH+4oSkJXFBOGQsdReIyyr4dRjHoKrhqh1uk0=",
+      "Fingerprint": "2hfhy4gtmz",
+      "Integrity": "amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
@@ -1697,6 +1697,69 @@
       "OriginalItemSpec": "wwwroot\\img\\pistols\\G291-CO2 pistol replica.png"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Airsoft assault rifle Cyma CM028#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2lw71pxi9r",
+      "Integrity": "SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Airsoft rifle JG Works 4015T Black#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hs1fjmp96",
+      "Integrity": "Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjonm1mez2",
+      "Integrity": "8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1716,6 +1779,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ndm8h4vhkh",
+      "Integrity": "tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ylmdezebq",
+      "Integrity": "nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/CM042A Carbine Replica#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ig9mpymii6",
+      "Integrity": "YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\CM042A Carbine Replica.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/CM048A assault airsoft rifle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "15vjmwtuys",
+      "Integrity": "ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qr69yvg5zc",
+      "Integrity": "evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/SA-H01 ONE™ Assault Rifle Replica#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uit956vcfc",
+      "Integrity": "tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
@@ -1739,6 +1928,48 @@
       "OriginalItemSpec": "wwwroot\\img\\rifles\\SA-H02 ONE.png"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Specna Arms SA-C19 Daniel Defense®#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9f1sj3gnq9",
+      "Integrity": "y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upsru0r8gl",
+      "Integrity": "3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1760,12 +1991,12 @@
       "OriginalItemSpec": "wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
       "BasePath": "_content/ShopMVC",
-      "RelativePath": "js/drop#[.{fingerprint}]?.js",
+      "RelativePath": "js/drop_character#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1774,11 +2005,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pjqlu4ykum",
-      "Integrity": "pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=",
+      "Fingerprint": "h06ysfwjlz",
+      "Integrity": "8UrHR09pkLofcrCKFHHy1Wlw4gqPJuW444/erUcKtP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\drop.js"
+      "OriginalItemSpec": "wwwroot\\js\\drop_character.js"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "js/drop2#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qum6ndg61g",
+      "Integrity": "MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\drop2.js"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
@@ -3083,6 +3335,51 @@
       ]
     },
     {
+      "Route": "css/Card.9dgwx4biwc.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I2Ta3/XT6Nqae/Q39rqM681v5rSHMrcrTt/6PdjpV14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 12:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dgwx4biwc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Card.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I2Ta3/XT6Nqae/Q39rqM681v5rSHMrcrTt/6PdjpV14="
+        }
+      ]
+    },
+    {
       "Route": "css/Card.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
       "Selectors": [],
@@ -3093,7 +3390,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2307"
+          "Value": "3224"
         },
         {
           "Name": "Content-Type",
@@ -3101,11 +3398,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DQaCYNpFz8OLTkv/9ofe0sqzgSOx/Ms7loDNJXGEc8E=\""
+          "Value": "\"I2Ta3/XT6Nqae/Q39rqM681v5rSHMrcrTt/6PdjpV14=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 13:57:52 GMT"
+          "Value": "Sat, 23 Nov 2024 12:21:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3115,52 +3412,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DQaCYNpFz8OLTkv/9ofe0sqzgSOx/Ms7loDNJXGEc8E="
-        }
-      ]
-    },
-    {
-      "Route": "css/Card.z48f38e9ug.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2307"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DQaCYNpFz8OLTkv/9ofe0sqzgSOx/Ms7loDNJXGEc8E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 13:57:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z48f38e9ug"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Card.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DQaCYNpFz8OLTkv/9ofe0sqzgSOx/Ms7loDNJXGEc8E="
+          "Value": "sha256-I2Ta3/XT6Nqae/Q39rqM681v5rSHMrcrTt/6PdjpV14="
         }
       ]
     },
@@ -3247,6 +3499,51 @@
       ]
     },
     {
+      "Route": "css/My_nav_bar.2hfhy4gtmz.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 09:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hfhy4gtmz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/My_nav_bar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik="
+        }
+      ]
+    },
+    {
       "Route": "css/My_nav_bar.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "Selectors": [],
@@ -3257,7 +3554,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2965"
+          "Value": "2945"
         },
         {
           "Name": "Content-Type",
@@ -3265,11 +3562,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DmzQ9XjH+4oSkJXFBOGQsdReIyyr4dRjHoKrhqh1uk0=\""
+          "Value": "\"amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:15:29 GMT"
+          "Value": "Sat, 23 Nov 2024 09:18:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3279,52 +3576,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DmzQ9XjH+4oSkJXFBOGQsdReIyyr4dRjHoKrhqh1uk0="
-        }
-      ]
-    },
-    {
-      "Route": "css/My_nav_bar.q54w76x1f6.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2965"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DmzQ9XjH+4oSkJXFBOGQsdReIyyr4dRjHoKrhqh1uk0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:15:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q54w76x1f6"
-        },
-        {
-          "Name": "label",
-          "Value": "css/My_nav_bar.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DmzQ9XjH+4oSkJXFBOGQsdReIyyr4dRjHoKrhqh1uk0="
+          "Value": "sha256-amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik="
         }
       ]
     },
@@ -6697,6 +6949,252 @@
       ]
     },
     {
+      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.2lw71pxi9r.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lw71pxi9r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Airsoft assault rifle Cyma CM028.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.3hs1fjmp96.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hs1fjmp96"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Airsoft rifle JG Works 4015T Black.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.zjonm1mez2.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjonm1mez2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        }
+      ]
+    },
+    {
       "Route": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
       "Selectors": [],
@@ -6775,6 +7273,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.ndm8h4vhkh.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndm8h4vhkh"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.4ylmdezebq.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ylmdezebq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/CM042A Carbine Replica.ig9mpymii6.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ig9mpymii6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/CM042A Carbine Replica.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/CM042A Carbine Replica.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/CM048A assault airsoft rifle.15vjmwtuys.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15vjmwtuys"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/CM048A assault airsoft rifle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/CM048A assault airsoft rifle.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.qr69yvg5zc.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr69yvg5zc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.uit956vcfc.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uit956vcfc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
         }
       ]
     },
@@ -6861,6 +7851,170 @@
       ]
     },
     {
+      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.9f1sj3gnq9.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9f1sj3gnq9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
+        }
+      ]
+    },
+    {
+      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.upsru0r8gl.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upsru0r8gl"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
+        }
+      ]
+    },
+    {
       "Route": "img/sniper rifles/MB4410D replica with scope and bipod.hbsrvsegey.png",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
       "Selectors": [],
@@ -6943,8 +8097,8 @@
       ]
     },
     {
-      "Route": "js/drop.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Route": "js/drop_character.h06ysfwjlz.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6953,7 +8107,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "690"
+          "Value": "381"
         },
         {
           "Name": "Content-Type",
@@ -6961,48 +8115,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=\""
+          "Value": "\"8UrHR09pkLofcrCKFHHy1Wlw4gqPJuW444/erUcKtP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:55:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo="
-        }
-      ]
-    },
-    {
-      "Route": "js/drop.pjqlu4ykum.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "690"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 11:55:27 GMT"
+          "Value": "Sat, 23 Nov 2024 17:02:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7012,15 +8129,134 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pjqlu4ykum"
+          "Value": "h06ysfwjlz"
         },
         {
           "Name": "label",
-          "Value": "js/drop.js"
+          "Value": "js/drop_character.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pQc+mSLk5MMPR/9UsOLSfqGyQ4ApfVytRZGgNgmvuKo="
+          "Value": "sha256-8UrHR09pkLofcrCKFHHy1Wlw4gqPJuW444/erUcKtP8="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop_character.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UrHR09pkLofcrCKFHHy1Wlw4gqPJuW444/erUcKtP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 17:02:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UrHR09pkLofcrCKFHHy1Wlw4gqPJuW444/erUcKtP8="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop2.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop2.qum6ndg61g.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qum6ndg61g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/drop2.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
         }
       ]
     },
