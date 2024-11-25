@@ -1,0 +1,61 @@
+﻿@model ShopCart
+@{
+    ViewData["Title"] = "Your Cart ";
+}
+
+<h1>Get User Cart</h1>
+<br />
+@if (Model != null && Model.CartDetails != null && Model.CartDetails.Count > 0)
+{
+    <div class="my_cart">
+        <h3> Cart </h3>
+        <table class="table table-bordered">
+            <tr>
+                <th>Item</th>
+                <th>Image</th>
+                <th>ItemType</th>
+                <th>Price</th>
+                <th>Qty</th>
+                <th>Total price</th>
+            </tr>
+            @foreach (var item in Model.CartDetails)
+            {
+                <tr style="color: white">
+                    <td>@item.Item.ItemTitle</td>
+                    <td>@if (string.IsNullOrEmpty(item.Item.Image))
+                        {
+                        <img style="height: 60px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                        }
+                        else
+                        {
+                            <img style="height: 60px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                        }
+                    </td>
+                    <td>@item.Item.ItemType.TypeTitle</td>
+                    <td>@item.Item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Item.Price * item.Quantity)</td>
+                    <td>
+                        <a style="color: white"  href="/Cart/AddItem?itemId=@item.ItemId&&redirect=1">[+]</a>
+                        <a style="color: white"  href="/Cart/RemoveItem?itemId=@item.ItemId">[-]</a>
+                    </td>
+                </tr>
+            }
+        </table>
+
+        <div class="total_sum">
+            <h5>Total: </h5>
+            <p>@(Model.CartDetails.Select(item => item.Item.Price * item.Quantity).Sum())</p>
+        </div>
+
+        <div>
+            <a href="">Checkout</a>
+        </div>
+
+    </div>
+}
+else
+{
+    <h5>Empty Cart))</h5>
+}
+

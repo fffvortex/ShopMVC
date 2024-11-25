@@ -13,5 +13,7 @@ namespace ShopMVC.Models
 
         public bool isDeleted { get; set; }=false;
 
+        public ICollection<CartDetail> CartDetails { get; set; }
+
     }
 }

@@ -1,5 +1,7 @@
 
-items = document.getElementsByClassName('btn_character');
+let items = document.getElementsByClassName('btn_character');
+
+
 
 for (let i = 0; i <= items.length+1; i++) {
     items[i].onclick = function () {
@@ -7,7 +9,13 @@ for (let i = 0; i <= items.length+1; i++) {
         
         var classname = items[i].className.replace(/\D/g, '')
         stats = document.getElementById(classname)
-        
-        stats.classList.toggle('openCharacter')
+
+        if (stats.classList.contains('openCharacter')) {
+            stats.classList.remove('openCharacter')
+        }
+        else {
+            stats.classList.add('openCharacter')
+        }
     }
 }
+

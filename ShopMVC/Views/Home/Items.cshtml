@@ -46,7 +46,7 @@
         @foreach (var item in Model.Items)
         {
             <div class="card_item">
-                <div class="card_top">
+                <div onclick="" class="card_top">
                     <div class="card_img">
                         <div class="type_tag">
                             @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length - 1)
@@ -59,10 +59,10 @@
                         {
                             <img src="@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
                         }
-                        
-                        <div onclick="" class="btn_character $class{@item.Id}">open</div>
+
+                        <div class="btn_character $class{@item.Id}">stats</div>
                         <div id="@item.Id" class="down_character">
-                            @item.Id
+                            @item.Stats
                         </div>
                     </div>
                 </div>
@@ -73,11 +73,37 @@
                         @item.Description
                     </div>
                     <div class="button_div">
-                        <button class="card_button">add to cart</button>
+                        <button type="button" onclick="add(@item.Id)" class="card_button">add to cart</button>
                     </div>
                 </div>
             </div>
         }
     </div>
-    
+
 </section>
+
+@section Scripts {
+    <script>
+        var userNameEl = document.getElementById("username");
+
+        if(userNameEl == null){
+            window.location.href="/Identity/Account/Login";
+        }
+        async function add(itemId){
+            var response = await fetch(`/Cart/AddItem?itemId=${itemId}`);
+            try {
+                if(response.status == 200){
+                var result = await response.json();
+                var cartCountEl = document.getElementById("cartCount");
+                cartCountEl.innerHTML = result;
+                window.location.href="#cartCount";
+            }
+            }
+            catch(err){
+                console.log(err);
+            }
+
+        }
+    </script>
+}
+

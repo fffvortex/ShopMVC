@@ -18,6 +18,7 @@ builder.Services
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IItemRepository, ItemRepository>();
+builder.Services.AddTransient<ICartRepository, CartRepository>();
 
 var app = builder.Build();
 

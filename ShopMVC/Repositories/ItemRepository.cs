@@ -32,7 +32,8 @@ namespace ShopMVC.Repositories
                              TypeId = item.TypeId,
                              Price = item.Price,
                              Description = item.Description,
-                             TypeName = types.TypeTitle
+                             TypeName = types.TypeTitle,
+                             Stats = item.Stats
                          }
                          ).ToListAsync();
             if(typeId > 0)

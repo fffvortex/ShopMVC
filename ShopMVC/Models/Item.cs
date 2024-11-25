@@ -22,6 +22,9 @@ namespace ShopMVC.Models
         [Required]
         public int TypeId { get; set; }
 
+        [MaxLength(170)]
+        public string Stats { get; set; }
+
         public TypeItem ItemType { get; set; }
         public List<OrderDetail> OrderDetail { get; set; }
         public List<CartDetail> CartDetail { get; set; }

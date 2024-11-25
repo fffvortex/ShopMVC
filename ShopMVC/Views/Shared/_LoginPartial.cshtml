@@ -1,4 +1,5 @@
-﻿@using Microsoft.AspNetCore.Identity
+﻿
+@using Microsoft.AspNetCore.Identity
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 <link rel="stylesheet" href="/css/LoginPartial.css" asp-append-version="true" />
@@ -9,14 +10,14 @@
 
         <li class="login_li_in">
             <a class="login_a" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
-                Hello @User.Identity?.Name.Substring(0, User.Identity.Name.IndexOf("@")) @if (User.IsInRole("Admin"))
+                Hello <span id="username" >@User.Identity?.Name.Substring(0, User.Identity.Name.IndexOf("@"))</span>  @if (User.IsInRole("Admin"))
                     {
                     <span>[ADMIN]</span>
                     }
             </a>
         </li>
-        <a href="" class="cart_div">
-            <i class="fa-sharp fa-solid fa-cart-shopping" style="color: #22d82e;"><span class="quantity_micro">10</span></i>
+        <a asp-controller="Cart" asp-action="GetUserCart" class="cart_div">
+            <i class="fa-sharp fa-solid fa-cart-shopping" style="color: #22d82e;"><span id="cartCount" class="quantity_micro">0</span></i>
         </a>
         <li >
             <form class="login_form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
