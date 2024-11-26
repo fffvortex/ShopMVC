@@ -6,6 +6,7 @@
     margin-top: 1.6rem;
     margin-bottom: 1rem;
     margin-inline: 3rem;
+    list-style: none;
 }
 
 .login_li {
@@ -21,6 +22,7 @@
     white-space: nowrap;
     text-overflow: ellipsis;
     padding-right:0.3rem;
+    font-size:small;
 }
 
 .login_a:hover{
@@ -72,16 +74,39 @@
     .login_li_in {
         font-size: small;
         text-decoration: none;
-        margin-top: 0.6rem;
+        margin-top: 0.4rem;
         list-style: none;
     }
 .quantity_micro {
-    font-size: x-small;
+    font-size: small;
 }
 
 .cart_div {
+    padding:0.1rem;
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
     margin-top: 0.5rem;
+    border: solid #000000 2px;
+
 }
+    .cart_div:hover{
+        border: solid #52ce19 2px;
+    }
+#cartCount {
+    color: #52ce19;
+    transition: 0.3s;
+}
+    #cartCount.change {
+        transform: rotate(360deg);
+        color: #ffffff;
+    }
+.fa-sharp.fa-solid.fa-cart-shopping{
+    transition: 0.3s;
+}
+    .fa-sharp.fa-solid.fa-cart-shopping.anim{
+        transform:translateY(0.2rem);
+    }
 .user_invalid:user-invalid {
     border: solid 3px #ff0000;
 }

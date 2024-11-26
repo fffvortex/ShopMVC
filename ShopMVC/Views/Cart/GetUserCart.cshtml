@@ -22,9 +22,10 @@
             {
                 <tr style="color: white">
                     <td>@item.Item.ItemTitle</td>
-                    <td>@if (string.IsNullOrEmpty(item.Item.Image))
+                    <td>
+                        @if (string.IsNullOrEmpty(item.Item.Image))
                         {
-                        <img style="height: 60px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                            <img style="height: 60px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
                         }
                         else
                         {
@@ -49,7 +50,7 @@
         </div>
 
         <div>
-            <a href="">Checkout</a>
+            <a href="/Cart/Checkout">Checkout</a>
         </div>
 
     </div>

@@ -38,5 +38,15 @@ namespace ShopMVC.Controllers
             int cartItemCount = await _cartRepository.GetCartItemsCount();
             return Ok(cartItemCount);
         }
+
+        public async Task<IActionResult> Checkout()
+        {
+            bool isCheckOut = await _cartRepository.DoCheckout();
+            if (!isCheckOut)
+            {
+                throw new Exception("Something happend in server side");
+            }
+            return RedirectToAction("Items", "Home");
+        }
     }
 }

@@ -90,19 +90,28 @@
             window.location.href="/Identity/Account/Login";
         }
         async function add(itemId){
+            
+            function resetClass(){
+                cartIcon.classList.remove('anim');
+                cartCountEl.classList.remove("change");
+
+            }
             var response = await fetch(`/Cart/AddItem?itemId=${itemId}`);
             try {
                 if(response.status == 200){
                 var result = await response.json();
+                cartIcon = document.getElementById('cart-icon');
                 var cartCountEl = document.getElementById("cartCount");
                 cartCountEl.innerHTML = result;
                 window.location.href="#cartCount";
+                cartIcon.classList.add('anim');
+                cartCountEl.classList.add("change");
+                setTimeout(resetClass,500);
             }
             }
             catch(err){
                 console.log(err);
             }
-
         }
     </script>
 }

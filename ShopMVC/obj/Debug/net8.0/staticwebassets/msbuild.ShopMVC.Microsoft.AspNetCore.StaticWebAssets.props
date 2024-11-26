@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>npx3bungew</Fingerprint>
-      <Integrity>a2AI4FyldnVuLcIhxzsVXAS+NNx/KR105+/3eKSiTpo=</Integrity>
+      <Fingerprint>jh87hl8z4g</Fingerprint>
+      <Integrity>SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2hfhy4gtmz</Fingerprint>
-      <Integrity>amXx5lYh4EHj6ytfUPRSql5dc5AZUy1EQPbBKj0SFik=</Integrity>
+      <Fingerprint>f3bmgi44yi</Fingerprint>
+      <Integrity>VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\My_nav_bar.css'))</OriginalItemSpec>

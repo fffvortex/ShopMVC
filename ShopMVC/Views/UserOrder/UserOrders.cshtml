@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "User Cart ";
+}
+
+
+<br />
+@if (Model != null && Model.Count() > 0)
+{
+    <h1 style="text-align:center; margin:1rem;">My orders</h1>
+
+    <table class="table">
+        <tr style="color:antiquewhite;">
+            <th>Date</th>
+            <th>Status</th>
+        </tr>
+        @foreach (var order in Model)
+        {
+            <tr style="color:antiquewhite;">
+                <td>@order.CreatedAt.ToString("dd-MM-yyyy")</td>
+                <td>@order.OrderStatus.StatusName</td>
+            </tr>
+            @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+            {
+                <tr>
+                    <td>
+                        Total:
+                    </td>
+                    <td>
+                        <p>@(order.OrderDetail.Select(item => item.Item.Price * item.Quantity).Sum())</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Item</th>
+                                <th>Image</th>
+                                <th>ItemType</th>
+                                <th>Price</th>
+                                <th>Qty</th>
+                                <th>Total price</th>
+                            </tr>
+                            @foreach (var item in order.OrderDetail)
+                            {
+                                
+                                <tr style="color: white">
+                                    <td>@item.Item.ItemTitle</td>
+                                    <td>
+                                        @if (string.IsNullOrEmpty(item.Item.Image))
+                                        {
+                                            <img style="height: 60px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                        }
+                                        else
+                                        {
+                                            <img style="height: 60px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                        }
+                                    </td>
+                                    <td>@item.Item.ItemType.TypeTitle</td>
+                                    <td>@item.Item.Price</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@(item.Item.Price * item.Quantity)</td>
+                                </tr>
+                            }
+                        </table>
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+
+}
+else
+{
+    <h5>No orders</h5>
+}
+
+<a class="btn-primary" href="/Identity/Account/Manage" style="text-decoration: none;padding: 0.4rem; margin-left: 0.5rem;">Back</a>
+
+

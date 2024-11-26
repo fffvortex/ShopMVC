@@ -17,7 +17,8 @@
             </a>
         </li>
         <a asp-controller="Cart" asp-action="GetUserCart" class="cart_div">
-            <i class="fa-sharp fa-solid fa-cart-shopping" style="color: #22d82e;"><span id="cartCount" class="quantity_micro">0</span></i>
+            <i id="cart-icon" class="fa-sharp fa-solid fa-cart-shopping" style="color: #22d82e;"></i>
+            <span id="cartCount" class="quantity_micro">0</span>
         </a>
         <li >
             <form class="login_form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">

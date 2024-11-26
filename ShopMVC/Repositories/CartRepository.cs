@@ -47,22 +47,24 @@ namespace ShopMVC.Repositories
                 }
                 else
                 {
+                    var item = _dbContext.Items.Find(itemId);
                     cartItem = new CartDetail
                     {
                         ItemId = itemId,
                         ShopCartId = cart.Id,
                         Quantity = qty,
+                        UnitPrice = item.Price
                     };
                     _dbContext.CartDetails.Add(cartItem);
 
                 }
                 _dbContext.SaveChanges();
                 transaction.Commit();
-                
+
             }
             catch (Exception ex)
             {
-                
+
             }
             var cartItemCount = await GetCartItemsCount(userId);
             return cartItemCount;
@@ -100,7 +102,7 @@ namespace ShopMVC.Repositories
             }
             catch (Exception ex)
             {
-                
+
             }
             var cartItemCount = await GetCartItemsCount(userId);
             return cartItemCount;
@@ -135,15 +137,67 @@ namespace ShopMVC.Repositories
             {
                 userId = GetUserId();
             }
-            var data = await (from cart in _dbContext.ShopCarts 
-                              join cartDetail in _dbContext.CartDetails 
-                              on cart.Id equals cartDetail.ShopCartId 
+            var data = await (from cart in _dbContext.ShopCarts
+                              join cartDetail in _dbContext.CartDetails
+                              on cart.Id equals cartDetail.ShopCartId
                               where cart.UserId == userId
                               select new { cartDetail.Id })
                               .ToListAsync();
             return data.Count;
         }
 
+        public async Task<bool> DoCheckout()
+        {
+            using var transaction = _dbContext.Database.BeginTransaction();
+            try
+            {
+                var userId = GetUserId();
+                if (string.IsNullOrEmpty(userId))
+                {
+                    throw new Exception("User is not logged-in");
+                }
+                var cart = await GetCart(userId) ?? throw new Exception("Invalid cart");
+                var cartDetail = _dbContext.CartDetails
+                    .Where(a => a.ShopCartId == cart.Id).ToList();
+
+                if (cartDetail.Count == 0)
+                {
+                    throw new Exception("Cart is empty");
+                }
+                var order = new Order
+                {
+                    UserId = userId,
+                    CreatedAt = DateTime.UtcNow,
+                    OrderStatusId = 1
+                };
+                _dbContext.Orders.Add(order);
+                _dbContext.SaveChanges();
+                foreach(var item in cartDetail)
+                {
+                    var orderDetail = new OrderDetail
+                    {
+                        ItemId = item.ItemId,
+                        OrderId = order.Id,
+                        Quantity = item.Quantity,
+                        UnitPrice = item.UnitPrice
+                    };
+                    _dbContext.OrderDetails.Add(orderDetail);
+                }
+                _dbContext.SaveChanges();
+
+                _dbContext.CartDetails.RemoveRange(cartDetail);
+
+                _dbContext.SaveChanges();
+
+                transaction.Commit();
+
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
         private string GetUserId()
         {
             ClaimsPrincipal principal = _httpContextAccessor.HttpContext.User;

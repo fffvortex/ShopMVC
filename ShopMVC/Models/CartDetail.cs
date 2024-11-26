@@ -15,6 +15,8 @@ namespace ShopMVC.Models
         public int ItemId {  get; set; }
         [Required]
         public int Quantity { get; set; }
+        [Required]
+        public double UnitPrice { get; set; }
 
         public Item Item { get; set; }
 
