@@ -2,61 +2,65 @@
 @{
     ViewData["Title"] = "Your Cart ";
 }
+<link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
 
-<h1>Get User Cart</h1>
+<h1 style="text-align: center;margin: 1rem;">Your cart</h1>
 <br />
 @if (Model != null && Model.CartDetails != null && Model.CartDetails.Count > 0)
 {
     <div class="my_cart">
-        <h3> Cart </h3>
-        <table class="table table-bordered">
-            <tr>
-                <th>Item</th>
-                <th>Image</th>
-                <th>ItemType</th>
-                <th>Price</th>
-                <th>Qty</th>
-                <th>Total price</th>
-            </tr>
+        <table class="user_table">
             @foreach (var item in Model.CartDetails)
             {
-                <tr style="color: white">
-                    <td>@item.Item.ItemTitle</td>
+                <tr>
+                    <td><div class="title_item_td">@item.Item.ItemTitle</div></td>
                     <td>
                         @if (string.IsNullOrEmpty(item.Item.Image))
                         {
-                            <img style="height: 60px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                            <img style="height: 40px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
                         }
                         else
                         {
-                            <img style="height: 60px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                            <img style="height: 40px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
                         }
                     </td>
-                    <td>@item.Item.ItemType.TypeTitle</td>
-                    <td>@item.Item.Price</td>
+                    <td>@item.Item.ItemType.TypeTitle.Replace("_"," ").Remove(item.Item.ItemType.TypeTitle.Length - 1)</td>
                     <td>@item.Quantity</td>
-                    <td>@(item.Item.Price * item.Quantity)</td>
-                    <td>
-                        <a style="color: white"  href="/Cart/AddItem?itemId=@item.ItemId&&redirect=1">[+]</a>
-                        <a style="color: white"  href="/Cart/RemoveItem?itemId=@item.ItemId">[-]</a>
+                    <td style="color:#5eb522">@(Math.Round(item.Item.Price * item.Quantity, 2))</td>
+                    <td style="padding: 0; margin:0;">
+                        <div>
+                            <div style="padding: 0; margin:0;border: solid 1px #3773b5;background-color: #3773b5;">
+                                <a class="btn_plus" href="/Cart/AddItem?itemId=@item.ItemId&&redirect=1">+</a>
+                            </div>
+                            <div style="padding: 0; margin:0;border: solid 1px #a03838;background-color: #a03838;">
+                                <a class="btn_minus" href="/Cart/RemoveItem?itemId=@item.ItemId">-</a>
+                            </div>
+                        </div>
                     </td>
                 </tr>
             }
         </table>
 
         <div class="total_sum">
-            <h5>Total: </h5>
-            <p>@(Model.CartDetails.Select(item => item.Item.Price * item.Quantity).Sum())</p>
+            <h5 style="margin-top:1rem;" >Total </h5>
+            <p style="font-weight: bolder;color:limegreen" class="total_price">@(Math.Round(Model.CartDetails.Select(item => item.Item.Price * item.Quantity).Sum(), 4))</p>
         </div>
 
         <div>
-            <a href="/Cart/Checkout">Checkout</a>
+            <a class="checkout_btn" href="/Cart/Checkout">checkout</a>
         </div>
 
     </div>
 }
 else
 {
-    <h5>Empty Cart))</h5>
+    <h5 style="text-align: center;margin: 1rem;align-items:center;">Empty Cart</h5>
+    <div style="align-items:center;text-align:center;margin-left:1.6rem">
+        <img style="width: 60%; " src="/img/empty_cart.png" />
+        
+    </div>
+    <div style="text-align: center;margin: 3rem;align-items:center;">
+        <a class="to_items_a" href="/Home/Items">Go to items page to add items...</a>
+    </div>
 }
 

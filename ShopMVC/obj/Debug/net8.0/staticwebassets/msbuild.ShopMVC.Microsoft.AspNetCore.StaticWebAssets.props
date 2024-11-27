@@ -30,11 +30,47 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wcgqodnvz1</Fingerprint>
-      <Integrity>UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw=</Integrity>
+      <Fingerprint>9myobg2gr3</Fingerprint>
+      <Integrity>v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Card.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cart.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ShopMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ShopMVC</BasePath>
+      <RelativePath>css/cart.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xpizitw5ip</Fingerprint>
+      <Integrity>hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cart.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ShopMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ShopMVC</BasePath>
+      <RelativePath>css/confirm.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jt7mea9qk0</Fingerprint>
+      <Integrity>6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))">
       <SourceType>Package</SourceType>
@@ -48,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jh87hl8z4g</Fingerprint>
-      <Integrity>SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM=</Integrity>
+      <Fingerprint>qxooruzrzj</Fingerprint>
+      <Integrity>PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))</OriginalItemSpec>
@@ -84,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qep8d7wbkp</Fingerprint>
-      <Integrity>XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q=</Integrity>
+      <Fingerprint>t8uvzz2jl9</Fingerprint>
+      <Integrity>IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\search.css'))</OriginalItemSpec>
@@ -287,6 +323,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\empty_cart.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ShopMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ShopMVC</BasePath>
+      <RelativePath>img/empty_cart.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7x1467iws4</Fingerprint>
+      <Integrity>u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\empty_cart.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\no image.png'))">
       <SourceType>Package</SourceType>
@@ -606,8 +660,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yjb1d17qhd</Fingerprint>
-      <Integrity>vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0=</Integrity>
+      <Fingerprint>h1ecfxpryl</Fingerprint>
+      <Integrity>FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\drop_character.js'))</OriginalItemSpec>

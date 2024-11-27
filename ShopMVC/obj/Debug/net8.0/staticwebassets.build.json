@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SPkZUzyCxoG/xTupubQie8WHeHxax3kN+gJjnVEZmd4=",
+  "Hash": "K9mlqADQAxDYVQGHneoLhhcaeCUNo/3rWPZxg697/MI=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1354,11 +1354,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wcgqodnvz1",
-      "Integrity": "UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw=",
+      "Fingerprint": "9myobg2gr3",
+      "Integrity": "v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Card.css"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/cart#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xpizitw5ip",
+      "Integrity": "hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cart.css"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/confirm#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jt7mea9qk0",
+      "Integrity": "6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\confirm.css"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
@@ -1375,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jh87hl8z4g",
-      "Integrity": "SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM=",
+      "Fingerprint": "qxooruzrzj",
+      "Integrity": "PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\LoginPartial.css"
@@ -1417,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qep8d7wbkp",
-      "Integrity": "XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q=",
+      "Fingerprint": "t8uvzz2jl9",
+      "Integrity": "IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\search.css"
@@ -1653,6 +1695,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "img/empty_cart#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7x1467iws4",
+      "Integrity": "u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\empty_cart.png"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",
@@ -2005,8 +2068,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yjb1d17qhd",
-      "Integrity": "vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0=",
+      "Fingerprint": "h1ecfxpryl",
+      "Integrity": "FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\drop_character.js"
@@ -3335,6 +3398,51 @@
       ]
     },
     {
+      "Route": "css/Card.9myobg2gr3.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 14:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9myobg2gr3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Card.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U="
+        }
+      ]
+    },
+    {
       "Route": "css/Card.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
       "Selectors": [],
@@ -3345,7 +3453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3287"
+          "Value": "3556"
         },
         {
           "Name": "Content-Type",
@@ -3353,11 +3461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw=\""
+          "Value": "\"v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 08:46:03 GMT"
+          "Value": "Wed, 27 Nov 2024 14:21:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3367,13 +3475,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw="
+          "Value": "sha256-v+/wogBlOyn5WG5dBBA4fUxgFhhtqymLxxh7WsXKK7U="
         }
       ]
     },
     {
-      "Route": "css/Card.wcgqodnvz1.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\Card.css",
+      "Route": "css/cart.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3382,7 +3490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3287"
+          "Value": "1970"
         },
         {
           "Name": "Content-Type",
@@ -3390,11 +3498,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw=\""
+          "Value": "\"hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 08:46:03 GMT"
+          "Value": "Wed, 27 Nov 2024 13:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A="
+        }
+      ]
+    },
+    {
+      "Route": "css/cart.xpizitw5ip.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 13:21:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3404,15 +3549,97 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wcgqodnvz1"
+          "Value": "xpizitw5ip"
         },
         {
           "Name": "label",
-          "Value": "css/Card.css"
+          "Value": "css/cart.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UHG/YxAwBjwN2Qprpjy6KaApgI97SiH/SOKRGWjJOlw="
+          "Value": "sha256-hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 16:33:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.jt7mea9qk0.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 16:33:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jt7mea9qk0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/confirm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6egAQHIhOWey40KsyIQzxH8lBe5CyArbO2L8hrJqazc="
         }
       ]
     },
@@ -3427,7 +3654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3780"
+          "Value": "3748"
         },
         {
           "Name": "Content-Type",
@@ -3435,11 +3662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM=\""
+          "Value": "\"PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 14:15:58 GMT"
+          "Value": "Wed, 27 Nov 2024 15:04:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3449,12 +3676,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM="
+          "Value": "sha256-PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ="
         }
       ]
     },
     {
-      "Route": "css/LoginPartial.jh87hl8z4g.css",
+      "Route": "css/LoginPartial.qxooruzrzj.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\LoginPartial.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3464,7 +3691,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3780"
+          "Value": "3748"
         },
         {
           "Name": "Content-Type",
@@ -3472,11 +3699,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM=\""
+          "Value": "\"PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 14:15:58 GMT"
+          "Value": "Wed, 27 Nov 2024 15:04:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3486,7 +3713,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jh87hl8z4g"
+          "Value": "qxooruzrzj"
         },
         {
           "Name": "label",
@@ -3494,7 +3721,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SXRYtX8agOa6FwXBnICCd3Fb8mjeE2vfIY2FHp9BcmM="
+          "Value": "sha256-PrcjMchxG4BmTmMNX0/iF0su6J7VFDtpiEkGBfxqiMQ="
         }
       ]
     },
@@ -3591,7 +3818,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1148"
+          "Value": "1670"
         },
         {
           "Name": "Content-Type",
@@ -3599,11 +3826,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q=\""
+          "Value": "\"IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:19:26 GMT"
+          "Value": "Wed, 27 Nov 2024 15:42:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3613,12 +3840,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q="
+          "Value": "sha256-IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I="
         }
       ]
     },
     {
-      "Route": "css/search.qep8d7wbkp.css",
+      "Route": "css/search.t8uvzz2jl9.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\search.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3628,7 +3855,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1148"
+          "Value": "1670"
         },
         {
           "Name": "Content-Type",
@@ -3636,11 +3863,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q=\""
+          "Value": "\"IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:19:26 GMT"
+          "Value": "Wed, 27 Nov 2024 15:42:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3650,7 +3877,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qep8d7wbkp"
+          "Value": "t8uvzz2jl9"
         },
         {
           "Name": "label",
@@ -3658,7 +3885,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XmRLsO7gQV/PWXZYlj74zbziexgyC3Jb6pBEmuzRv3Q="
+          "Value": "sha256-IwZu6pjbxULMUYh7bA0nH7dG8HKDh/j/Ghb5Q9aMB7I="
         }
       ]
     },
@@ -6785,6 +7012,88 @@
       ]
     },
     {
+      "Route": "img/empty_cart.7x1467iws4.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7x1467iws4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/empty_cart.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw="
+        }
+      ]
+    },
+    {
+      "Route": "img/empty_cart.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u0QabgJ88Hh18sTGNd49nby0euThGDkpsJWheBotAsw="
+        }
+      ]
+    },
+    {
       "Route": "img/no image.cl401rfwot.png",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",
       "Selectors": [],
@@ -8097,6 +8406,51 @@
       ]
     },
     {
+      "Route": "js/drop_character.h1ecfxpryl.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1ecfxpryl"
+        },
+        {
+          "Name": "label",
+          "Value": "js/drop_character.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE="
+        }
+      ]
+    },
+    {
       "Route": "js/drop_character.js",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "Selectors": [],
@@ -8107,7 +8461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "528"
         },
         {
           "Name": "Content-Type",
@@ -8115,11 +8469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0=\""
+          "Value": "\"FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 10:12:50 GMT"
+          "Value": "Wed, 27 Nov 2024 14:27:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8129,52 +8483,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0="
-        }
-      ]
-    },
-    {
-      "Route": "js/drop_character.yjb1d17qhd.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "533"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 10:12:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yjb1d17qhd"
-        },
-        {
-          "Name": "label",
-          "Value": "js/drop_character.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vrGJs1TGjtVb1DC1nBuTgSAmP63+2cbGUVCMv6fZ+R0="
+          "Value": "sha256-FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE="
         }
       ]
     },

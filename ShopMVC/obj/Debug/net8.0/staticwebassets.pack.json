@@ -57,6 +57,14 @@
       "PackagePath": "staticwebassets\\css\\body.css"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "PackagePath": "staticwebassets\\css\\confirm.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\search.css",
       "PackagePath": "staticwebassets\\css\\search.css"
     },
@@ -67,6 +75,10 @@
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
+      "PackagePath": "staticwebassets\\img\\empty_cart.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",

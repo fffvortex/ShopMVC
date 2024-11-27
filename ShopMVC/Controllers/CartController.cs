@@ -39,14 +39,35 @@ namespace ShopMVC.Controllers
             return Ok(cartItemCount);
         }
 
-        public async Task<IActionResult> Checkout()
+        
+        public IActionResult Checkout()
         {
-            bool isCheckOut = await _cartRepository.DoCheckout();
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Checkout(CheckoutModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+            bool isCheckOut = await _cartRepository.DoCheckout(model);
             if (!isCheckOut)
             {
-                throw new Exception("Something happend in server side");
+                return RedirectToAction(nameof(OrderFailure));
             }
-            return RedirectToAction("Items", "Home");
+            return RedirectToAction(nameof(OrderSuccess));
+        }
+
+        public IActionResult OrderSuccess()
+        {
+            return View();
+        }
+
+        public IActionResult OrderFailure()
+        {
+            return View();
         }
     }
 }

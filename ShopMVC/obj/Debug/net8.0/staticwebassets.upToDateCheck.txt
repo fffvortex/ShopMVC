@@ -1,5 +1,7 @@
 wwwroot\css\body.css
 wwwroot\css\Card.css
+wwwroot\css\cart.css
+wwwroot\css\confirm.css
 wwwroot\css\LoginPartial.css
 wwwroot\css\My_nav_bar.css
 wwwroot\css\search.css
@@ -14,6 +16,7 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
+wwwroot\img\empty_cart.png
 wwwroot\img\no image.png
 wwwroot\img\pistols\G291-CO2 pistol replica.png
 wwwroot\img\rifles\Airsoft assault rifle Cyma CM028.png

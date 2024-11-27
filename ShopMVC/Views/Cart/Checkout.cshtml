@@ -1,0 +1,43 @@
+﻿@model CheckoutModel
+@{
+    ViewData["Title"] = "Checkout";
+}
+<link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
+
+<h1 style="text-align:center;" >Checkout</h1>
+
+<form asp-action="Checkout">
+    <div class="div_forms">
+        <label asp-for="Name" >[name]</label>
+        <input class="form-select" type="text" class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class=""></span>
+    </div>
+    <div class="div_forms">
+        <label asp-for="Email">[email]</label>
+        <input class="form-select" type="text" class="form-control" asp-for="Email" />
+        <span asp-validation-for="Email" class=""></span>
+    </div>
+    <div class="div_forms">
+        <label asp-for="MobileNumber">[mobile number]</label>
+        <input class="form-select" type="text" class="form-control" asp-for="MobileNumber" />
+        <span asp-validation-for="MobileNumber" class=""></span>
+    </div>
+    <div class="div_forms" >
+        <label asp-for="Address">[address]</label>
+        <textarea class="form-select" asp-for="Address" rows="5"></textarea>
+        <span asp-validation-for="Address" class=""></span>
+    </div>
+    <div class="div_forms">
+        <select class="form-control" asp-for="PaymentMethod">
+            <option value="" >select payment method..</option>
+            @foreach(var method in Enum.GetValues(typeof(ShopMVC.Constants.PaymentMethods))){
+                <option value="@method.ToString()" >@method.ToString()</option>
+            }
+        </select>
+        <span asp-validation-for="PaymentMethod" ></span>
+    </div>
+
+    <div class="button_confirm_div" style="text-align:center;">
+        <button style="padding:0.6rem;" type="submit" class="btn-primary confirm_button">confirm</button>
+    </div>
+</form>

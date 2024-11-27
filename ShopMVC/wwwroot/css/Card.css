@@ -97,11 +97,10 @@
     width: 14rem;
     background: #000000;
     overflow: hidden;
-    opacity: 0.8;
+    opacity: 0.3;
     height: 0rem;
     transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     z-index: 100;
-    color: aliceblue;
 }
 
     .down_character.openCharacter {
@@ -109,20 +108,27 @@
         border: 1px #4ec118 solid;
         padding-inline: 0.2rem;
         align-content: center;
+        opacity: 0.8;
+        z-index: 999;
     }
+        .down_character.openCharacter:hover{
+            background-color: black;
+            color: #4ec118;
+            opacity:0.9;
+        }
 
-.card_button {
-    display: block;
-    width: 80%;
-    margin-inline: 10%;
-    background-color: #837d7d;
-    color: #000000;
-    font-weight: bold;
-    transition: all 0.4s ease-in-out;
-    border: solid 1px #000000;
-    padding: 2px;
-    margin-top: auto;
-}
+        .card_button {
+            display: block;
+            width: 80%;
+            margin-inline: 10%;
+            background-color: #837d7d;
+            color: #000000;
+            font-weight: bold;
+            transition: all 0.4s ease-in-out;
+            border: solid 1px #000000;
+            padding: 2px;
+            margin-top: auto;
+        }
 
     .card_button:hover {
         background-color: #000000;
