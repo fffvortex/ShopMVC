@@ -1,0 +1,47 @@
+﻿@model OrderDetailModelDTO
+
+<link rel="stylesheet" href="/css/modal.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+@* <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"> *@
+
+<div class="modal fade" id="modal-@Model.DivId" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <table class="user_table">
+                    @foreach (var item in Model.OrderDetail)
+                    {
+                        <tr>
+                            <td><div class="title_item_td">@item.Item.ItemTitle</div></td>
+                            <td>
+                                @if (string.IsNullOrEmpty(item.Item.Image))
+                                {
+                                    <img style="height: 40px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                }
+                                else
+                                {
+                                    <img style="height: 40px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                }
+                            </td>
+                            <td>@item.Item.ItemType.TypeTitle</td>
+                            <td>@item.Quantity</td>
+                            <td style="color:#5eb522">@(Math.Round(item.Item.Price * item.Quantity, 2))</td>
+                        </tr>
+                    }
+                </table>
+                <p style="color :black;" >Total price this order: @(Model.OrderDetail.Select(item => item.Item.Price * item.Quantity).Sum())</p>
+            </div>
+            
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+

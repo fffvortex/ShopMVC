@@ -23,6 +23,16 @@
                 <li class="nav_li">
                     <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                 </li>
+                @if(User.IsInRole(Roles.Admin.ToString())){
+                    <li class="nav_li">
+                        <a class="nav_a" asp-area="" asp-controller="AdminOperations" asp-action="AllOrders">All orders</a>
+                    </li>
+                }
+                else if(User.IsInRole(Roles.User.ToString())){
+                    <li class="nav_li">
+                        <a class="nav_a" asp-area="" asp-controller="UserOrder" asp-action="UserOrders">My orders</a>
+                    </li>
+                }
             </ul>
             <div class="login_block">
                 <partial name="_LoginPartial" />
@@ -39,6 +49,17 @@
             <li class="nav_li">
                 <a class="nav_a" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
             </li>
+            @if (User.IsInRole(Roles.Admin.ToString()))
+            {
+                <li class="nav_li">
+                    <a class="nav_a" asp-area="" asp-controller="AdminOperations" asp-action="AllOrders">All orders</a>
+                </li>
+            }
+            else if(User.IsInRole(Roles.User.ToString())){
+                <li class="nav_li">
+                    <a class="nav_a" asp-area="" asp-controller="UserOrder" asp-action="UserOrders">My orders</a>
+                </li>
+            }
         </div>
         <script defer src="/js/drop2.js"></script>
     </header>

@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\css\\confirm.css"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\modal.css",
+      "PackagePath": "staticwebassets\\css\\modal.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\search.css",
       "PackagePath": "staticwebassets\\css\\search.css"
     },

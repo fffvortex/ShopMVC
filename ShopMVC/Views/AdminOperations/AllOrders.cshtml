@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Order>
+@{
+    ViewData["Title"] = " All Orders ";
+}
+<link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/modal.css" asp-append-version="true" />
+<h1 style="text-align: center; margin-top: 1rem;">All orders</h1>
+
+
+<div style="width: 100%; text-align: center; margin-block:1rem; margin-inline: auto;">
+    @if (Model != null && Model.Count() > 0)
+    {
+        <table style="text-align: center" class="table big_table">
+
+            @foreach (var order in Model)
+            {
+                <tr style="color:antiquewhite;text-align:center;">
+                    <td>@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</td>
+                    <td>@order.Name</td>
+                    <td>@order.Email</td>
+                    <td>@order.MobileNumber</td>
+                    <td>@order.Address</td>
+                    <td>@order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")</td>
+                    <td>@order.OrderStatus.StatusName</td>
+                    <td>
+                        <a asp-action="UpdatePaymenetStatus" asp-route-orderId="@order.Id">change order status</a>
+                        <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">change payment status</a>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
+                        @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
+                                 new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
+                    </td>
+                </tr>
+            }
+        </table>
+        <div class="all_orders_table_mobile">
+            @foreach (var order in Model)
+            {
+                <div style="font-size: small; border: solid 1px white; display: block">
+                    <div style="border: solid 1px white;"><h4>order @order.Id</h4></div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">order date</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">name</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.Name
+                        </div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">email</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.Email
+                        </div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">number</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.MobileNumber
+                        </div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">address</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.Address
+                        </div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">payment status</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")
+                        </div>
+                    </div>
+                    <div class="div_mobile_table">
+                        <div style="padding: 0.2em; margin: 0.2em;">order status</div>
+                        <div style="padding: 0.2em; margin: 0.2em;">
+                            @order.OrderStatus.StatusName
+                        </div>
+                    </div>
+                    <div style="border: solid 1px white;">
+                        <a asp-action="UpdatePaymenetStatus" asp-route-orderId="@order.Id">change order status</a>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
+                        @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
+                                 new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
+                        <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">change payment status</a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <h3 style="text-align: center;"> No orders </h3>
+    }
+</div>

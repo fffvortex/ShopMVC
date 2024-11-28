@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6zpOJMUHEm3VmAp/R86+AFfYzy9HRm3WN0UUEql4PXw=",
+  "Hash": "Ow3d7+RGOLVtLHWX7sH8HRmRUGB/EDJ6JvHIKlMMblM=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "58h3gay36b",
-      "Integrity": "9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4=",
+      "Fingerprint": "zhu1yt942b",
+      "Integrity": "WSnURAeT0Ri3x2AwhMeeAai6H2AMdyZDmdCm7ba3nGs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\cart.css"
@@ -1424,6 +1424,27 @@
       "OriginalItemSpec": "wwwroot\\css\\LoginPartial.css"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\modal.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "css/modal#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xyr1eemnbd",
+      "Integrity": "J9ZweYV3QG+K/FCHQZ0/ODqTDT74s78eli8XF6Sj+6E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\modal.css"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1438,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f3bmgi44yi",
-      "Integrity": "VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo=",
+      "Fingerprint": "crkthpvrh4",
+      "Integrity": "qIzYdPerLxDmMN656ahWiYfPtbrRFMFV8YCNjaHeVbM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\My_nav_bar.css"
@@ -3480,51 +3501,6 @@
       ]
     },
     {
-      "Route": "css/cart.58h3gay36b.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2267"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 17:27:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "58h3gay36b"
-        },
-        {
-          "Name": "label",
-          "Value": "css/cart.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4="
-        }
-      ]
-    },
-    {
       "Route": "css/cart.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
       "Selectors": [],
@@ -3535,7 +3511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2267"
+          "Value": "2839"
         },
         {
           "Name": "Content-Type",
@@ -3543,11 +3519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4=\""
+          "Value": "\"WSnURAeT0Ri3x2AwhMeeAai6H2AMdyZDmdCm7ba3nGs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 17:27:02 GMT"
+          "Value": "Thu, 28 Nov 2024 13:21:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3557,7 +3533,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4="
+          "Value": "sha256-WSnURAeT0Ri3x2AwhMeeAai6H2AMdyZDmdCm7ba3nGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/cart.zhu1yt942b.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSnURAeT0Ri3x2AwhMeeAai6H2AMdyZDmdCm7ba3nGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 13:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhu1yt942b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cart.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSnURAeT0Ri3x2AwhMeeAai6H2AMdyZDmdCm7ba3nGs="
         }
       ]
     },
@@ -3726,6 +3747,133 @@
       ]
     },
     {
+      "Route": "css/modal.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\modal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J9ZweYV3QG+K/FCHQZ0/ODqTDT74s78eli8XF6Sj+6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 15:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J9ZweYV3QG+K/FCHQZ0/ODqTDT74s78eli8XF6Sj+6E="
+        }
+      ]
+    },
+    {
+      "Route": "css/modal.xyr1eemnbd.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\modal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J9ZweYV3QG+K/FCHQZ0/ODqTDT74s78eli8XF6Sj+6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 15:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xyr1eemnbd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/modal.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J9ZweYV3QG+K/FCHQZ0/ODqTDT74s78eli8XF6Sj+6E="
+        }
+      ]
+    },
+    {
+      "Route": "css/My_nav_bar.crkthpvrh4.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qIzYdPerLxDmMN656ahWiYfPtbrRFMFV8YCNjaHeVbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 10:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crkthpvrh4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/My_nav_bar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qIzYdPerLxDmMN656ahWiYfPtbrRFMFV8YCNjaHeVbM="
+        }
+      ]
+    },
+    {
       "Route": "css/My_nav_bar.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
       "Selectors": [],
@@ -3744,11 +3892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo=\""
+          "Value": "\"qIzYdPerLxDmMN656ahWiYfPtbrRFMFV8YCNjaHeVbM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 12:21:29 GMT"
+          "Value": "Thu, 28 Nov 2024 10:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3758,52 +3906,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo="
-        }
-      ]
-    },
-    {
-      "Route": "css/My_nav_bar.f3bmgi44yi.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\My_nav_bar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2946"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 12:21:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f3bmgi44yi"
-        },
-        {
-          "Name": "label",
-          "Value": "css/My_nav_bar.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VUbHZerEDtu2RcAHLmlkfM+6iaVu1Uj714WG4iJDGWo="
+          "Value": "sha256-qIzYdPerLxDmMN656ahWiYfPtbrRFMFV8YCNjaHeVbM="
         }
       ]
     },

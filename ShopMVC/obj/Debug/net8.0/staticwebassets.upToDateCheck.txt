@@ -3,6 +3,7 @@ wwwroot\css\Card.css
 wwwroot\css\cart.css
 wwwroot\css\confirm.css
 wwwroot\css\LoginPartial.css
+wwwroot\css\modal.css
 wwwroot\css\My_nav_bar.css
 wwwroot\css\search.css
 wwwroot\css\text.css
