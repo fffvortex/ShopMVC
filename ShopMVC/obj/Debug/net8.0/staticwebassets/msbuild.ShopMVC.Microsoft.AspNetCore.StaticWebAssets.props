@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xpizitw5ip</Fingerprint>
-      <Integrity>hW/6iEt/M64OnBM9quUWWNR45hn2vU6zTqghArRDy2A=</Integrity>
+      <Fingerprint>58h3gay36b</Fingerprint>
+      <Integrity>9dFTTpFkxuB8QfXK9ePQEQbCRThg2DuEPrGV3uzsGJ4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cart.css'))</OriginalItemSpec>
@@ -660,8 +660,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h1ecfxpryl</Fingerprint>
-      <Integrity>FbUnQ5EZwvVapRFtKG+j65ZF0nO2jRxdhyjdtV9hpLE=</Integrity>
+      <Fingerprint>ws21l6s7jq</Fingerprint>
+      <Integrity>cFFvUwyYdPQz7s0lwZspQA+e3TbCB/shNBk+8nf5BIY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\drop_character.js'))</OriginalItemSpec>

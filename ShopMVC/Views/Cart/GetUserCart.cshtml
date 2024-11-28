@@ -27,12 +27,12 @@
                     <td>@item.Item.ItemType.TypeTitle.Replace("_"," ").Remove(item.Item.ItemType.TypeTitle.Length - 1)</td>
                     <td>@item.Quantity</td>
                     <td style="color:#5eb522">@(Math.Round(item.Item.Price * item.Quantity, 2))</td>
-                    <td style="padding: 0; margin:0;">
-                        <div>
-                            <div style="padding: 0; margin:0;border: solid 1px #3773b5;background-color: #3773b5;">
+                    <td style="padding: 0; margin:0; max-width:2.3rem;">
+                        <div style="display:block;">
+                            <div style="padding: 0; margin:0;border-bottom: solid 2px;background-color: black; display:flex; justify-content:center;">
                                 <a class="btn_plus" href="/Cart/AddItem?itemId=@item.ItemId&&redirect=1">+</a>
                             </div>
-                            <div style="padding: 0; margin:0;border: solid 1px #a03838;background-color: #a03838;">
+                            <div style="padding: 0; margin:0;border: solid 2px black;background-color: black;display:flex; justify-content:center;">
                                 <a class="btn_minus" href="/Cart/RemoveItem?itemId=@item.ItemId">-</a>
                             </div>
                         </div>

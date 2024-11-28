@@ -23,28 +23,28 @@ td {
 
 .btn_plus {
     font-weight: bold;
-    color: #ffffff;
-    padding: 0.3em;
+    color: #3bd515;
     text-decoration: none;
     padding-block: 0.2rem;
     padding-inline: 1.1rem;
+    width: 100%;
 }
 
     .btn_plus:hover {
-        color: #000000;
+        color: #ffffff;
     }
 
 .btn_minus {
     font-weight: bold;
-    color: #ffffff;
-    padding: 0.2em;
+    color: #d91d11;
     text-decoration: none;
-    padding-block:0.2rem;
+    padding-block: 0.2rem;
     padding-inline: 1.1rem;
+    width:100%;
 }
 
     .btn_minus:hover {
-        color: #000000;
+        color: #ffffff;
     }
 
 .checkout_btn {
@@ -97,6 +97,14 @@ td {
 
     .user_table {
         width: 100%;
+    }
+    
+}
+@media (min-width: 740px){
+    td {
+        border: solid 2px #b59f9f;
+        font-size:medium;
+        padding: 0.3em;
     }
 }
 

@@ -85,7 +85,7 @@
 @section Scripts {
     <script>
         let openedCharacters = document.getElementsByClassName("down_character")
-        for (let i = 0; i < openedCharacters.length; i++) {
+        for (let i = 0; i <= openedCharacters.length; i++) {
             openedCharacters[i].onclick = function () {
                 if(openedCharacters[i].classList.contains('openCharacter')){
                     openedCharacters[i].classList.remove('openCharacter')
@@ -98,8 +98,6 @@
                 }
             }
         }
-
-
         var userNameEl = document.getElementById("username");
 
         if(userNameEl == null){
@@ -110,7 +108,6 @@
             function resetClass(){
                 cartIcon.classList.remove('anim');
                 cartCountEl.classList.remove("change");
-
             }
             var response = await fetch(`/Cart/AddItem?itemId=${itemId}`);
             try {
