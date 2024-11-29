@@ -1,0 +1,23 @@
+﻿@model StockDTO
+@{
+    ViewData["Title"] = " Manage Stock ";
+}
+<link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
+
+<a asp-action="Index" asp-controller="Stock" class="btn btn-primary" >back</a>
+<h1 style="text-align: center; margin-top: 1rem;"> Manage Stock</h1>
+
+<form style="text-align: center;margin-top: 1rem;" asp-action="ManageStock">
+    <input type="hidden" asp-for="ItemId" />
+    <div>
+        <input class="form-control" type="number" asp-for="Quantity" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">update</button>
+    </div>
+</form>
+
+
+

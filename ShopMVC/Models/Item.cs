@@ -28,6 +28,7 @@ namespace ShopMVC.Models
         public TypeItem ItemType { get; set; }
         public List<OrderDetail> OrderDetail { get; set; }
         public List<CartDetail> CartDetail { get; set; }
+        public Stock Stock { get; set; }
 
         [NotMapped]
         public string TypeName { get; set; }

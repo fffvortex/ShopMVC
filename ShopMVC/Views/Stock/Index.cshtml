@@ -1,0 +1,31 @@
+﻿@model IEnumerable<StockDisplayModel>
+@{
+    ViewData["Title"] = " Stock ";
+}
+<link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
+
+<h2 style="text-align:center">Stocks</h2>
+<div style="display: flex; justify-content: center;">
+    <a href="/Identity/Account/Manage" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
+</div>
+<form asp-action="Index" method="get" >
+    <input style="margin-inline:auto;" type="text" name="sTerm" class="form-control" placeholder="search by items" />
+    <div style="margin-inline: auto; text-align: center;">
+        <button style="padding-inline:0.4rem;" type="submit" class="btn btn-primary">find</button>
+        <a style="padding-inline:0.4rem;" asp-action="Index" asp-controller="Stock" class="btn btn-primary">clear</a>
+    </div>
+</form>
+
+<table style="margin-inline:auto;" class="user_table" >
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.ItemTitle</td>
+            <td>@item.Quantity</td>
+            <td>
+                <a asp-action="ManageStock" asp-controller="Stock" asp-route-itemId="@item.ItemId">update</a>
+            </td>
+        </tr>
+    }
+</table>
