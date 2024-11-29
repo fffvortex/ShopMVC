@@ -192,6 +192,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXRpb25zXEFsbE9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mi162/source/repos/ShopMVC/ShopMVC/Views/AdminOperations/UpdatePaymentStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXRpb25zXFVwZGF0ZVBheW1lbnRTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mi162/source/repos/ShopMVC/ShopMVC/Views/AdminOperations/_OrderDetailModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXRpb25zXF9PcmRlckRldGFpbE1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

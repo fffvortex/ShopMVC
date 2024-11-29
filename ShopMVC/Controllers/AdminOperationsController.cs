@@ -38,7 +38,8 @@ namespace ShopMVC.Controllers
 
         public async Task<IActionResult> UpdatePaymentStatus(int orderId)
         {
-            var order = await _userOrderRepository.GetOrderById(orderId) ?? throw new InvalidOperationException($"Order with id: {orderId} does not found.");
+            var order = await _userOrderRepository.GetOrderById(orderId) ??
+                throw new InvalidOperationException($"Order with id: {orderId} does not found.");
 
             var orderStatusList = (await _userOrderRepository.GetOrderStatuses()).Select(orderStatus =>
             {
@@ -58,13 +59,14 @@ namespace ShopMVC.Controllers
             return View(data);
         }
         [HttpPost]
-        public async Task<IActionResult> UpdatePaymenetStatus(UpdateOrderStatusModel data)
+        public async Task<IActionResult> UpdatePaymentStatus(UpdateOrderStatusModel data)
         {
             try
             {
                 if (!ModelState.IsValid)
                 {
-                    data.OrderStatusList = (await _userOrderRepository.GetOrderStatuses()).Select(orderStatus =>
+                    data.OrderStatusList = (await _userOrderRepository.GetOrderStatuses())
+                        .Select(orderStatus =>
                     {
                         return new SelectListItem
                         {
@@ -76,13 +78,13 @@ namespace ShopMVC.Controllers
                     return View(data);
                 }
                 await _userOrderRepository.ChangeOrderStatus(data);
-                TempData["msg"] = "Updated success";
+                TempData["msg"] = "updated success";
             }
             catch (Exception)
             {
-                TempData["msg"] = "Something went wrong";
+                TempData["msg"] = "something went wrong";
             }
-            return RedirectToAction(nameof(UpdatePaymenetStatus), new { orderId = data.OrderId });
+            return RedirectToAction(nameof(UpdatePaymentStatus), new { orderId = data.OrderId });
         }
     }
 }

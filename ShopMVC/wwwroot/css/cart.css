@@ -96,6 +96,7 @@ td {
     border: 2px solid #ac9999;
     text-align: center;
     margin-inline: auto;
+
 }
 .all_orders_table_mobile {
     display: none;
@@ -147,7 +148,7 @@ a:hover{
     }
 }
 
-@media (max-width: 800px){
+@media (max-width: 1200px){
     .all_orders_table_mobile{
         display: contents;
     }

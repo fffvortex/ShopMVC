@@ -29,10 +29,11 @@ label{
     margin:auto;
     font-size:small;
 }
-    .form-select > option {
-        border-radius: 0px;
-        border: none;
-    }
+.form-select > option {
+    border-radius: 0px;
+    border: none;
+    cursor: pointer;
+}
 
     .form-select > selected {
         border-radius: 0px;
@@ -53,8 +54,9 @@ label{
     background-color: #000000;
     color: #00ff21;
     transition: 0.9s;
-    margin-inline:auto;
-    width:13rem;
+    margin-inline: 9rem;
+    width: 13rem;
+    cursor: pointer;
 }
 
     .form-control:focus {
@@ -88,3 +90,8 @@ label{
     }
 }
 
+@media (max-width: 768px){
+    .form-control{
+        padding-inline: auto;
+    }
+}

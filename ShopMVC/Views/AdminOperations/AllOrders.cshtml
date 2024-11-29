@@ -7,36 +7,52 @@
 <h1 style="text-align: center; margin-top: 1rem;">All orders</h1>
 
 
-<div style="width: 100%; text-align: center; margin-block:1rem; margin-inline: auto;">
+<div style="margin-block:1rem; margin-inline: auto;">
     @if (Model != null && Model.Count() > 0)
     {
-        <table style="text-align: center" class="table big_table">
+        <div style="display:flex;justify-content:center;">
+            <table style="text-align: center;" class="table big_table">
 
-            @foreach (var order in Model)
-            {
-                <tr style="color:antiquewhite;text-align:center;">
-                    <td>@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</td>
-                    <td>@order.Name</td>
-                    <td>@order.Email</td>
-                    <td>@order.MobileNumber</td>
-                    <td>@order.Address</td>
-                    <td>@order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")</td>
-                    <td>@order.OrderStatus.StatusName</td>
-                    <td>
-                        <a asp-action="UpdatePaymenetStatus" asp-route-orderId="@order.Id">change order status</a>
-                        <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">change payment status</a>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
-                        @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
-                                 new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
-                    </td>
-                </tr>
-            }
-        </table>
+                @foreach (var order in Model)
+                {
+                    <tr style="color:antiquewhite;text-align:center;">
+                        <td>Order @order.Id</td>
+                        <td>@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</td>
+                        <td>@order.Name</td>
+                        <td>@order.Email</td>
+                        <td>@order.MobileNumber</td>
+                        <td>@order.Address</td>
+                        <td>
+                            <div style="padding: 0.2em; margin: 0.2em;">
+                                <a style="font-size: smaller;" asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">payment_status</a>
+                            </div>
+                            <div style="padding: 0.2em; margin: 0.2em;">
+                                @order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")
+                            </div>
+                        </td>
+                        <td>
+                            <div style="padding: 0.2em; margin: 0.2em;">
+                                <a style="font-size: smaller;" asp-action="UpdatePaymentStatus" asp-route-orderId="@order.Id">order_status</a>
+                            </div>
+                            <div style="padding: 0.2em; margin: 0.2em;">
+                                @order.OrderStatus.StatusName
+                            </div>
+                        </td>
+                        <td>
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
+                            @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
+                                     new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+
         <div class="all_orders_table_mobile">
             @foreach (var order in Model)
             {
                 <div style="font-size: small; border: solid 1px white; display: block">
-                    <div style="border: solid 1px white;"><h4>order @order.Id</h4></div>
+                    <div style="border: solid 1px green; padding: 0.2em; margin: 0.2em;"><h4 style="text-align: center;">order @order.Id</h4></div>
                     <div class="div_mobile_table">
                         <div style="padding: 0.2em; margin: 0.2em;">order date</div>
                         <div style="padding: 0.2em; margin: 0.2em;">@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</div>
@@ -66,23 +82,16 @@
                         </div>
                     </div>
                     <div class="div_mobile_table">
-                        <div style="padding: 0.2em; margin: 0.2em;">payment status</div>
+                        <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">payment_status</a>
                         <div style="padding: 0.2em; margin: 0.2em;">
                             @order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")
                         </div>
                     </div>
                     <div class="div_mobile_table">
-                        <div style="padding: 0.2em; margin: 0.2em;">order status</div>
+                        <a asp-action="UpdatePaymentStatus" asp-route-orderId="@order.Id">order_status</a>
                         <div style="padding: 0.2em; margin: 0.2em;">
                             @order.OrderStatus.StatusName
                         </div>
-                    </div>
-                    <div style="border: solid 1px white;">
-                        <a asp-action="UpdatePaymenetStatus" asp-route-orderId="@order.Id">change order status</a>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
-                        @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
-                                 new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
-                        <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id">change payment status</a>
                     </div>
                 </div>
             }
