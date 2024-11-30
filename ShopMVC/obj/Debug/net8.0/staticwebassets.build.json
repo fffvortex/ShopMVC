@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MKZCLK+/ldY1jgCojBXtG/So4Py2M2l5EKXCBomv7v8=",
+  "Hash": "z35TYogyr17iY9jDzAGvlcZx+3zLHDFGQivPLGhbk60=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "aq3z116smg",
-      "Integrity": "Xl2DKHRGGKqxthrjs3fILxDTH7FjcxuJ4ycd3qKkKJo=",
+      "Fingerprint": "3zk28z2sc8",
+      "Integrity": "UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\cart.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iedlbtl0pd",
-      "Integrity": "GgYnomBlEAFg3ALsYN+j6v+IYerZuxAmSwPbk8XuPiA=",
+      "Fingerprint": "4w450bdwsm",
+      "Integrity": "BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\confirm.css"
@@ -3501,7 +3501,7 @@
       ]
     },
     {
-      "Route": "css/cart.aq3z116smg.css",
+      "Route": "css/cart.3zk28z2sc8.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\cart.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3511,7 +3511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2893"
+          "Value": "2950"
         },
         {
           "Name": "Content-Type",
@@ -3519,11 +3519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xl2DKHRGGKqxthrjs3fILxDTH7FjcxuJ4ycd3qKkKJo=\""
+          "Value": "\"UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 13:07:37 GMT"
+          "Value": "Sat, 30 Nov 2024 09:08:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3533,7 +3533,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aq3z116smg"
+          "Value": "3zk28z2sc8"
         },
         {
           "Name": "label",
@@ -3541,7 +3541,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xl2DKHRGGKqxthrjs3fILxDTH7FjcxuJ4ycd3qKkKJo="
+          "Value": "sha256-UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c="
         }
       ]
     },
@@ -3556,7 +3556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2893"
+          "Value": "2950"
         },
         {
           "Name": "Content-Type",
@@ -3564,11 +3564,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xl2DKHRGGKqxthrjs3fILxDTH7FjcxuJ4ycd3qKkKJo=\""
+          "Value": "\"UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 13:07:37 GMT"
+          "Value": "Sat, 30 Nov 2024 09:08:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,7 +3578,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xl2DKHRGGKqxthrjs3fILxDTH7FjcxuJ4ycd3qKkKJo="
+          "Value": "sha256-UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.4w450bdwsm.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4w450bdwsm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/confirm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
         }
       ]
     },
@@ -3593,7 +3638,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2099"
+          "Value": "2958"
         },
         {
           "Name": "Content-Type",
@@ -3601,11 +3646,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GgYnomBlEAFg3ALsYN+j6v+IYerZuxAmSwPbk8XuPiA=\""
+          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 13:52:02 GMT"
+          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3615,52 +3660,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GgYnomBlEAFg3ALsYN+j6v+IYerZuxAmSwPbk8XuPiA="
-        }
-      ]
-    },
-    {
-      "Route": "css/confirm.iedlbtl0pd.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2099"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GgYnomBlEAFg3ALsYN+j6v+IYerZuxAmSwPbk8XuPiA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 13:52:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iedlbtl0pd"
-        },
-        {
-          "Name": "label",
-          "Value": "css/confirm.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GgYnomBlEAFg3ALsYN+j6v+IYerZuxAmSwPbk8XuPiA="
+          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
         }
       ]
     },

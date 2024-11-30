@@ -14,28 +14,24 @@
 </div>
 
 <div class="search_panel">
-    <div class="search_form">
-        <form asp-action="Items" class="row gy-3 gx-3 align-items-center">
+    <div style="margin-inline: 1rem; display:flex; justify-content: center; text-align: center;" class="search_form">
+        <form style="margin-inline: auto;" asp-action="Items">
             <label class="visually-hidden" for="typeId">Types</label>
-            <select class="form-select" id="typeId" name="typeId">
-                <option selected>select..</option>
+            <select style="text-align:center;width:10rem;margin-inline:auto;" class="form-select" id="typeId" name="typeId">
+                <option selected>type...</option>
                 @foreach (var type in Model.TypeItems)
                 {
                     <option selected="@(type.Id == Model.TypeId)" value="@type.Id">@type.TypeTitle.Replace('_', ' ')</option>
                 }
             </select>
-            <div style="display:flex; justify-content: space-between;text-align:center;align-items:center; ">
-                <div>
+            <div style="text-align:center;align-items:center;margin-top:0.2rem;">
+                <div style="width:10rem;">
                     <label class="visually-hidden" for="sTerm">search by title</label>
-                    <div style="max-height: 2rem; display: flex;text-align:center;" class="input-group">
-                        <input type="text" class="form-control" value="@Model.STerm" name="sTerm" id="sTerm" placeholder="Search by title">
-                    </div>
+                    <input style="width: 10rem ;text-align:center; margin-inline:auto;" type="text" class="form-control" value="@Model.STerm" name="sTerm" id="sTerm" placeholder="search by title">
                 </div>
                 <div style="display: flex; justify-content:center; align-items:center; margin-top: 0.1rem ">
+                    <a style="margin-top: 0.5rem;" class="btn btn-primary search_button" href="/Home/Items">clear</a>
                     <button type="submit" style="margin-top: 0.5rem;" class="btn btn-primary search_button">search</button>
-                </div>
-                <div style="display: flex; justify-content:center; align-items:center; margin-top: 0.1rem ">
-                    <a style="margin-top: 0.5rem;" class="btn btn-primary search_button" href="/Home/Items">reset</a>
                 </div>
             </div>
         </form>

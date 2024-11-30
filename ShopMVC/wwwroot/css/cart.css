@@ -56,6 +56,7 @@ td {
     color: #000000;
     background-color: #a38e8e;
     transition: 0.7s;
+    box-shadow: 4px 4px 32px 5px rgba(49, 236, 4, 0.2);
 }
 
     .checkout_btn:hover {

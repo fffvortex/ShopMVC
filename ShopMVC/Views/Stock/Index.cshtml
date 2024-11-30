@@ -5,19 +5,19 @@
 <link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
 <link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
 
-<h2 style="text-align:center">Stocks</h2>
+<h2 style="text-align:center; margin-top: 1rem;">Stocks</h2>
 <div style="display: flex; justify-content: center;">
     <a href="/Identity/Account/Manage" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
 </div>
 <form asp-action="Index" method="get" >
-    <input style="margin-inline:auto;" type="text" name="sTerm" class="form-control" placeholder="search by items" />
-    <div style="margin-inline: auto; text-align: center;">
-        <button style="padding-inline:0.4rem;" type="submit" class="btn btn-primary">find</button>
+    <div style=" width:20rem;margin-inline: auto; text-align: center; display: flex; justify-content:space-between;">
         <a style="padding-inline:0.4rem;" asp-action="Index" asp-controller="Stock" class="btn btn-primary">clear</a>
+        <input style="margin-inline:auto;" type="text" name="sTerm" class="form-control" placeholder="search by items" />
+        <button style="padding-inline:0.4rem;" type="submit" class="btn btn-primary">find</button>
     </div>
 </form>
 
-<table style="margin-inline:auto;" class="user_table" >
+<table style="margin-inline:auto;margin-top:1rem;" class="user_table" >
     @foreach(var item in Model)
     {
         <tr>

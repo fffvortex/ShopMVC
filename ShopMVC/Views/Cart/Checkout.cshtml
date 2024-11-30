@@ -28,7 +28,7 @@
         <span asp-validation-for="Address" class=""></span>
     </div>
     <div class="div_forms">
-        <select class="form-control" asp-for="PaymentMethod">
+        <select style="margin: auto" class="form-control" asp-for="PaymentMethod">
             <option value="" >select payment method..</option>
             @foreach(var method in Enum.GetValues(typeof(ShopMVC.Constants.PaymentMethods))){
                 <option value="@method.ToString()" >@method.ToString()</option>

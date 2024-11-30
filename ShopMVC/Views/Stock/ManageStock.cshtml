@@ -5,18 +5,18 @@
 <link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
 <link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
 
-<a asp-action="Index" asp-controller="Stock" class="btn btn-primary" >back</a>
 <h1 style="text-align: center; margin-top: 1rem;"> Manage Stock</h1>
 
-<form style="text-align: center;margin-top: 1rem;" asp-action="ManageStock">
-    <input type="hidden" asp-for="ItemId" />
+<form style="text-align: center;margin-top: 1rem;margin-inline: auto;" asp-action="ManageStock">
+    <input style="margin-inline: auto;" type="hidden" asp-for="ItemId" />
     <div>
-        <input class="form-control" type="number" asp-for="Quantity" />
+        <input style="margin-inline: auto;width:6rem;text-align:center" class="form-control" type="number" asp-for="Quantity" />
         <span asp-validation-for="Quantity" class="text-danger"></span>
     </div>
     <div>
         <button type="submit" class="btn btn-primary">update</button>
     </div>
+    <a asp-action="Index" style="margin-inline: auto; text-align: center;" asp-controller="Stock" class="btn btn-primary">back</a>
 </form>
 
 
