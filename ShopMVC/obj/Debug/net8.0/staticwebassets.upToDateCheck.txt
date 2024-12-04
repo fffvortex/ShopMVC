@@ -35,8 +35,9 @@ wwwroot\img\rifles\SA-H02 ONE.png
 wwwroot\img\rifles\Specna Arms SA-C19 Daniel Defense®.png
 wwwroot\img\rifles\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png
 wwwroot\img\sniper rifles\MB4410D replica with scope and bipod.png
+wwwroot\js\drop.js
 wwwroot\js\drop_character.js
-wwwroot\js\drop2.js
+wwwroot\js\slider.js
 wwwroot\js\text.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -109,7 +109,8 @@
         padding-inline: 0.2rem;
         align-content: center;
         opacity: 0.8;
-        z-index: 999;
+        z-index: 101;
+        font-size: smaller;
     }
 
         .down_character.openCharacter:hover {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HiT8KRfl4iSyFsBq3xTjUS/y6TkZslYw9M8cEgexzN0=",
+  "Hash": "6+JVUiN1v6p8EiMue3dRnNEn70eUCx/ti4BFjgOQqKg=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3r8b2a0bt1",
-      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "Fingerprint": "yt8qezhghb",
+      "Integrity": "ygaBzJ6uB6KVyXIz8zts/o+R3N5/dTGRYlE3LcIKaeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\slider.css"
@@ -2096,6 +2096,27 @@
       "OriginalItemSpec": "wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "js/drop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qum6ndg61g",
+      "Integrity": "MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\drop.js"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -2117,12 +2138,12 @@
       "OriginalItemSpec": "wwwroot\\js\\drop_character.js"
     },
     {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\slider.js",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
       "BasePath": "_content/ShopMVC",
-      "RelativePath": "js/drop2#[.{fingerprint}]?.js",
+      "RelativePath": "js/slider#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2131,11 +2152,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qum6ndg61g",
-      "Integrity": "MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=",
+      "Fingerprint": "bxkk0gvlx7",
+      "Integrity": "Eem7vMLllzu+Aw9t5kmMmdbvCO7JHoBt9+e++aylt+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\drop2.js"
+      "OriginalItemSpec": "wwwroot\\js\\slider.js"
     },
     {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
@@ -4014,51 +4035,6 @@
       ]
     },
     {
-      "Route": "css/slider.3r8b2a0bt1.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:37:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
-        },
-        {
-          "Name": "label",
-          "Value": "css/slider.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
-        }
-      ]
-    },
-    {
       "Route": "css/slider.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
       "Selectors": [],
@@ -4069,7 +4045,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "999"
         },
         {
           "Name": "Content-Type",
@@ -4077,11 +4053,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"ygaBzJ6uB6KVyXIz8zts/o+R3N5/dTGRYlE3LcIKaeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:37:58 GMT"
+          "Value": "Wed, 04 Dec 2024 15:13:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4091,7 +4067,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-ygaBzJ6uB6KVyXIz8zts/o+R3N5/dTGRYlE3LcIKaeo="
+        }
+      ]
+    },
+    {
+      "Route": "css/slider.yt8qezhghb.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygaBzJ6uB6KVyXIz8zts/o+R3N5/dTGRYlE3LcIKaeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 15:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yt8qezhghb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slider.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygaBzJ6uB6KVyXIz8zts/o+R3N5/dTGRYlE3LcIKaeo="
         }
       ]
     },
@@ -8612,6 +8633,88 @@
       ]
     },
     {
+      "Route": "js/drop.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
+        }
+      ]
+    },
+    {
+      "Route": "js/drop.qum6ndg61g.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qum6ndg61g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/drop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
+        }
+      ]
+    },
+    {
       "Route": "js/drop_character.js",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "Selectors": [],
@@ -8694,8 +8797,8 @@
       ]
     },
     {
-      "Route": "js/drop2.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
+      "Route": "js/slider.bxkk0gvlx7.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\slider.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8704,7 +8807,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "642"
+          "Value": "355"
         },
         {
           "Name": "Content-Type",
@@ -8712,48 +8815,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
+          "Value": "\"Eem7vMLllzu+Aw9t5kmMmdbvCO7JHoBt9+e++aylt+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
-        }
-      ]
-    },
-    {
-      "Route": "js/drop2.qum6ndg61g.js",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "642"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:44:41 GMT"
+          "Value": "Wed, 04 Dec 2024 14:16:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8763,15 +8829,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qum6ndg61g"
+          "Value": "bxkk0gvlx7"
         },
         {
           "Name": "label",
-          "Value": "js/drop2.js"
+          "Value": "js/slider.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MgRkhFEBgZhzV76bwMryl7EkrRBH8Y2rOXi6rgZt0cA="
+          "Value": "sha256-Eem7vMLllzu+Aw9t5kmMmdbvCO7JHoBt9+e++aylt+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/slider.js",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\slider.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eem7vMLllzu+Aw9t5kmMmdbvCO7JHoBt9+e++aylt+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:16:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eem7vMLllzu+Aw9t5kmMmdbvCO7JHoBt9+e++aylt+U="
         }
       ]
     },

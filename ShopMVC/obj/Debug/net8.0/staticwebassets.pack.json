@@ -153,12 +153,16 @@
       "PackagePath": "staticwebassets\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop2.js",
-      "PackagePath": "staticwebassets\\js\\drop2.js"
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
+      "PackagePath": "staticwebassets\\js\\drop.js"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop_character.js",
       "PackagePath": "staticwebassets\\js\\drop_character.js"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\text.js",
