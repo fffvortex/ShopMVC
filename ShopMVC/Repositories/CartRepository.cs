@@ -26,7 +26,7 @@ namespace ShopMVC.Repositories
             {
                 if (string.IsNullOrEmpty(userId))
                 {
-                    throw new Exception("user is not logged-in");
+                    throw new UnauthorizedAccessException("user is not logged-in");
                 }
                 var cart = await GetCart(userId);
 
@@ -77,18 +77,18 @@ namespace ShopMVC.Repositories
             {
                 if (string.IsNullOrEmpty(userId))
                 {
-                    throw new Exception("user is not logged-in");
+                    throw new UnauthorizedAccessException("user is not logged-in");
                 }
                 var cart = await GetCart(userId);
 
                 if (cart == null)
                 {
-                    throw new Exception("invalid cart");
+                    throw new InvalidOperationException("invalid cart");
                 }
                 var cartItem = _dbContext.CartDetails.FirstOrDefault(c => c.ShopCartId == cart.Id && c.ItemId == itemId);
                 if (cartItem == null)
                 {
-                    throw new Exception("not finded items in cart");
+                    throw new InvalidOperationException("not finded items in cart");
                 }
                 else if (cartItem.Quantity == 1)
                 {
@@ -113,10 +113,13 @@ namespace ShopMVC.Repositories
             var userId = GetUserId();
             if (userId == null)
             {
-                throw new Exception("Invalid user Id");
+                throw new InvalidOperationException("Invalid user Id");
             }
             var shopCart = await _dbContext.ShopCarts
                 .Include(a => a.CartDetails)
+                .ThenInclude(a => a.Item)
+                .ThenInclude(a=> a.Stock)
+                .Include(a=> a.CartDetails)
                 .ThenInclude(a => a.Item)
                 .ThenInclude(a => a.ItemType)
                 .Where(a => a.UserId == userId)
@@ -154,20 +157,20 @@ namespace ShopMVC.Repositories
                 var userId = GetUserId();
                 if (string.IsNullOrEmpty(userId))
                 {
-                    throw new Exception("User is not logged-in");
+                    throw new UnauthorizedAccessException("User is not logged-in");
                 }
-                var cart = await GetCart(userId) ?? throw new Exception("Invalid cart");
+                var cart = await GetCart(userId) ?? throw new InvalidOperationException("Invalid cart");
                 var cartDetail = _dbContext.CartDetails
                     .Where(a => a.ShopCartId == cart.Id).ToList();
 
                 if (cartDetail.Count == 0)
                 {
-                    throw new Exception("Cart is empty");
+                    throw new InvalidOperationException("Cart is empty");
                 }
                 var pendingRecord = _dbContext.OrderStatuses.FirstOrDefault(s => s.StatusName == "Pending");
                 if (pendingRecord == null)
                 {
-                    throw new Exception("Order status does not have Pending status");
+                    throw new InvalidOperationException("Order status does not have Pending status");
                 }
                 var order = new Order
                 {
@@ -193,8 +196,15 @@ namespace ShopMVC.Repositories
                         UnitPrice = item.UnitPrice
                     };
                     _dbContext.OrderDetails.Add(orderDetail);
+
+                    var stock = await _dbContext.Stocks.FirstOrDefaultAsync(a=>a.ItemId == item.ItemId);
+                    if (item.Quantity > stock.Quantity)
+                    {
+                        throw new InvalidOperationException($"Only {stock.Quantity} items are available in the stock");
+
+                    }
+                    stock.Quantity -= item.Quantity;
                 }
-                _dbContext.SaveChanges();
 
                 _dbContext.CartDetails.RemoveRange(cartDetail);
 

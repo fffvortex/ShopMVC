@@ -1,9 +1,131 @@
-﻿@{
+﻿@model IEnumerable<Item>
+@{
     ViewData["Title"] = "";
 }
-
+<link rel="stylesheet" href="/css/Card.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/search.css" asp-append-version="true" />
+<link rel="stylesheet" href="/css/slider.css" asp-append-version="true" />
 <script defer src="/js/text.js"></script>
+<script defer src="/js/drop_character.js"></script>
 <link rel="stylesheet" href="/css/text.css" asp-append-version="true" />
 <div class="typing">
     <p class="text">WELCOME TO THE ASP MVC SHOP</p>
 </div>
+
+<div>
+
+    <section class="cards">
+        <div class="container_div container_cards">
+            @foreach (var item in Model)
+            {
+                <div class="card_item">
+                    <div onclick="" class="card_top">
+                        <div class="card_img">
+                            <div class="type_tag">
+                                @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length - 1)
+                            </div>
+                            @if (item.Quantity > 0)
+                            {
+                                <div class="quantity_tag">
+                                    @item.Quantity
+                                </div>
+                            }
+                            else
+                            {
+                                <div style="color:#921616" class="quantity_tag">
+                                    @item.Quantity
+                                </div>
+                            }
+                            @if (string.IsNullOrEmpty(item.Image))
+                            {
+                                <img src="~/img/no image.png" />
+                            }
+                            else
+                            {
+                                <img src="@item.Image" alt="@item.ItemTitle" />
+                            }
+
+                            <div class="btn_character $class{@item.Id}">stats</div>
+                            <div id="@item.Id" class="down_character">
+                                @item.Stats
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_bottom">
+                        <div class="card_price">@item.Price</div>
+                        <p class="card_title">@item.ItemTitle</p>
+                        <div class="card_description">
+                            @item.Description
+                        </div>
+                        @if (item.Quantity > 0)
+                        {
+                            <div class="button_div">
+                                <button type="button" onclick="add(@item.Id)" class="card_button">add to cart</button>
+                            </div>
+                        }
+                        else
+                        {
+                            <button disabled type="button" class="out_stock_btn">out of stock</button>
+                        }
+                    </div>
+                </div>
+            }
+
+
+    </section>
+</div>
+
+@section Scripts {
+    <script>
+        let openedCharacters = document.getElementsByClassName("down_character")
+        for (let i = 0; i <= openedCharacters.length; i++) {
+            openedCharacters[i].onclick = function () {
+                if(openedCharacters[i].classList.contains('openCharacter')){
+                    openedCharacters[i].classList.remove('openCharacter')
+                    let items = document.getElementsByClassName('btn_character');
+                    for (let j = 0; j < items.length; j++){
+                        if(i===j){
+                            items[i].classList.remove('es')
+                        }
+                    }
+                }
+            }
+        }
+        //
+         
+
+
+        //
+        var userNameEl = document.getElementById("username");
+
+        if(userNameEl == null){
+            window.location.href="/Identity/Account/Login";
+        }
+        async function add(itemId){
+
+            function resetClass(){
+                cartIcon.classList.remove('anim');
+                cartCountEl.classList.remove("change");
+            }
+            var response = await fetch(`/Cart/AddItem?itemId=${itemId}`);
+            try {
+                if(response.status == 200){
+                var result = await response.json();
+                cartIcon = document.getElementById('cart-icon');
+                var cartCountEl = document.getElementById("cartCount");
+                cartCountEl.innerHTML = result;
+                window.location.href="#cartCount";
+                cartIcon.classList.add('anim');
+                cartCountEl.classList.add("change");
+                setTimeout(resetClass,500);
+            }
+            }
+            catch(err){
+                console.log(err);
+            }
+        }
+
+    </script>
+}
+
+

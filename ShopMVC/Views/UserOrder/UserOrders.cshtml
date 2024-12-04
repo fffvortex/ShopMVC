@@ -3,61 +3,68 @@
     ViewData["Title"] = "User Cart ";
 }
 <link rel="stylesheet" href="/css/cart.css" asp-append-version="true" />
-<div style="margin-block: 1rem;width: 10%;display:block; margin-inline: auto;">
-    <a class="btn-primary back_to_manage" href="/Identity/Account/Manage">back</a>
+<div style="margin-block: 1rem;width: 100%;">
+    <a style="width: 5rem;margin-inline:auto;" class="btn-primary back_to_manage" href="/Identity/Account/Manage">back</a>
 </div>
 <br />
 @if (Model != null && Model.Count() > 0)
 {
     <h1 style="text-align:center; margin:1rem;">My orders</h1>
+    <div class="my_cart" style=" width:100%;display:flex; justify-content:center;" >
+        <table style="border-collapse:separate;width: 100%;margin-inline:auto;" class="user_table">
 
-    <table style="border-collapse:separate;" class="table">
-        
-        @foreach (var order in Model)
-        {
-            <tr style="text-align: center; color: greenyellow ; font-weight: bolder; font-size:larger;"><td>order# @order.Id <div>Status: @order.OrderStatus.StatusName</div></td></tr>
-            <tr style="color:antiquewhite;text-align:center;">
-                
-                <td>Created order at @order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</td>
-            </tr>
-            @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+            @foreach (var order in Model)
             {
+                <tr style="text-align: center; color: greenyellow ; font-weight: bolder; font-size:larger;"><td>order# @order.Id <div>Status: @order.OrderStatus.StatusName</div></td></tr>
                 <tr style="color:antiquewhite;text-align:center;">
-                    <td>
-                        <p>Total price this order: @(order.OrderDetail.Select(item => item.Item.Price * item.Quantity).Sum())</p>
-                    </td>
+
+                    <td>Created order at @order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</td>
                 </tr>
-                <tr>
-                    <td>
-                        <div class="my_cart">
-                            <table class="user_table">
-                                @foreach (var item in order.OrderDetail)
-                                {
-                                    <tr>
-                                        <td><div class="title_item_td">@item.Item.ItemTitle</div></td>
-                                        <td>
-                                            @if (string.IsNullOrEmpty(item.Item.Image))
-                                            {
-                                                <img style="height: 40px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
-                                            }
-                                            else
-                                            {
-                                                <img style="height: 40px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
-                                            }
-                                        </td>
-                                        <td>@item.Item.ItemType.TypeTitle</td>
-                                        <td>@item.Quantity</td>
-                                        <td style="color:#5eb522">@(Math.Round(item.Item.Price * item.Quantity, 2))</td>
-                                    </tr>
-                                }
-                            </table>
-                        </div>
-                        <div style="border-top: solid 5px green "></div>
-                    </td>
-                </tr>
+                @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+                {
+
+                    <tr>
+                        <td>
+                            <div style="max-width: 90%;margin:0;padding-inline:auto;">
+                                <table class="user_table">
+                                    @foreach (var item in order.OrderDetail)
+                                    {
+                                        <tr>
+                                            <td><div class="title_item_td">@item.Item.ItemTitle</div></td>
+                                            <td>
+                                                @if (string.IsNullOrEmpty(item.Item.Image))
+                                                {
+                                                    <img style="height: 40px; " src="/img/no image.png" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                                }
+                                                else
+                                                {
+                                                    <img style="height: 40px; " src="@item.Item.Image" alt="@item.Item.ItemTitle type: @item.Item.TypeName" />
+                                                }
+                                            </td>
+                                            <td>@item.Item.ItemType.TypeTitle</td>
+                                            <td>@item.Quantity</td>
+                                            <td>@item.Item.Price</td>
+                                            <td style="color:#5eb522">@(Math.Round(item.Item.Price * item.Quantity, 2))</td>
+
+                                        </tr>
+
+                                    }
+                                </table>
+                                <p style="color:antiquewhite;text-align:center;">Total price this order: @Math.Round((order.OrderDetail.Select(item => item.Item.Price * item.Quantity).Sum()), 4)</p>
+                            </div><div style="border-top: solid 5px green "></div>
+                        </td>
+                    </tr>
+                    <tr style="color:antiquewhite;text-align:center;">
+                        <td>
+                        </td>
+                    </tr>
+
+                }
             }
-        }
-    </table>
+        </table>
+    </div>
+    
+    
 }
 else
 {

@@ -6,6 +6,7 @@ wwwroot\css\LoginPartial.css
 wwwroot\css\modal.css
 wwwroot\css\My_nav_bar.css
 wwwroot\css\search.css
+wwwroot\css\slider.css
 wwwroot\css\text.css
 wwwroot\favicon.ico
 wwwroot\Fonts\Bender\COPYRIGHT.txt

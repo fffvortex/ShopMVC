@@ -16,9 +16,10 @@ namespace ShopMVC.Controllers
             _itemRepository = itemRepository;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<Item> items = await _itemRepository.GetLatestDropItems();
+            return View(items);
         }
 
         public async Task<IActionResult> Items(string sTerm = "", int typeId = 0)

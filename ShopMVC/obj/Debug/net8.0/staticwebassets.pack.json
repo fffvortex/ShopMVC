@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\css\\search.css"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
+      "PackagePath": "staticwebassets\\css\\slider.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\text.css",
       "PackagePath": "staticwebassets\\css\\text.css"
     },

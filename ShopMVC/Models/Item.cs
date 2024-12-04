@@ -32,5 +32,7 @@ namespace ShopMVC.Models
 
         [NotMapped]
         public string TypeName { get; set; }
+        [NotMapped]
+        public int Quantity { get; set; }
     }
 }

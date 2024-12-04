@@ -103,7 +103,6 @@ header{
     justify-content: center;
 }
     .dropdown_menu.open {
-/*        swap height*/
         height: 9rem; 
         border: 2px #52814d solid;
     }
