@@ -1,0 +1,27 @@
+﻿@model IEnumerable<TypeItem>
+@{
+    ViewData["Title"] = "Types ";
+}
+
+
+<div style="display: block;justify-content: center;">
+    <h1 style="text-align:center; margin-block:1rem;">Types</h1>
+    <a style="text-align:center; margin-inline: auto;" asp-action="AddType" asp-controller="ItemTypes">add more</a>
+
+</div>
+<table>
+    <tr>
+        @foreach (var type in Model)
+        {
+        <tr>
+            <td>
+                @type.TypeTitle
+                <a asp-action="UpdateType" asp-controller="ItemTypes" asp-route-id="@type.Id">edit</a>
+                <a asp-action="DeleteType" asp-controller="ItemTypes" asp-route-id="@type.Id" onclick="return window.confirm('Are you sure?')">delete</a>
+            </td>
+        </tr>
+
+        }
+    </tr>
+</table>
+

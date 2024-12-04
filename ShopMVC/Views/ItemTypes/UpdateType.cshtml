@@ -1,0 +1,28 @@
+﻿@model TypeDTO
+@{
+    ViewData["Title"] = "UpdateType";
+}
+
+<h1>UpdateType</h1>
+
+<div>
+    <a asp-action="Index" asp-controller="ItemTypes">back</a>
+</div>
+
+<form asp-action="UpdateType" >
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+       <label>
+           type
+       </label>
+        <input type="text" asp-for="TypeTitle" />
+        <span asp-validation-for="TypeTitle"></span>
+    </div>
+
+    <div>
+        <button type="submit" >update</button>
+    </div>
+</form>
+
+

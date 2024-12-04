@@ -6,6 +6,7 @@
     <li class="nav-item"><a class="nav-link" href="/UserOrder/UserOrders">My orders</a></li>
     @if(User.IsInRole(Roles.Admin.ToString())){
         <li class="nav-item"><a class="nav-link" href="/Stock/Index">Stock</a></li>
+        <li class="nav-item"><a class="nav-link" href="/ItemTypes/Index">Types</a></li>
     }
 
     <li class="nav-item"><a class="nav-link @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">Profile</a></li>
