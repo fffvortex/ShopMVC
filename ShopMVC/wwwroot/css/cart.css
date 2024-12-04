@@ -109,6 +109,10 @@ td {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-break: break-all;
 }
 @media (min-width: 537px) {
     .my_cart {

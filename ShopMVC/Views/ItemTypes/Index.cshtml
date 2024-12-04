@@ -6,22 +6,27 @@
 
 <div style="display: block;justify-content: center;">
     <h1 style="text-align:center; margin-block:1rem;">Types</h1>
-    <a style="text-align:center; margin-inline: auto;" asp-action="AddType" asp-controller="ItemTypes">add more</a>
+    <div style="display: flex; justify-content: center;">
+        <a href="/Identity/Account/Manage" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
+        <a class="btn btn-primary" asp-action="AddType" asp-controller="ItemTypes">add type</a>
+    </div>
+
 
 </div>
-<table>
-    <tr>
+<table style="width: 90%; margin-inline:auto;">
         @foreach (var type in Model)
-        {
+    {
         <tr>
-            <td>
+            <td style="text-align:center;">
                 @type.TypeTitle
-                <a asp-action="UpdateType" asp-controller="ItemTypes" asp-route-id="@type.Id">edit</a>
-                <a asp-action="DeleteType" asp-controller="ItemTypes" asp-route-id="@type.Id" onclick="return window.confirm('Are you sure?')">delete</a>
+                <div>
+                    <a asp-action="UpdateType" asp-controller="ItemTypes" asp-route-id="@type.Id">edit</a>
+                </div>
+                <div>
+                    <a asp-action="DeleteType" asp-controller="ItemTypes" asp-route-id="@type.Id" onclick="return window.confirm('Are you sure?')">delete</a>
+                </div>
             </td>
         </tr>
-
-        }
-    </tr>
+    }
 </table>
 

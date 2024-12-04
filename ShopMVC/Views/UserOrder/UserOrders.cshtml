@@ -10,7 +10,7 @@
 @if (Model != null && Model.Count() > 0)
 {
     <h1 style="text-align:center; margin:1rem;">My orders</h1>
-    <div class="my_cart" style=" width:100%;display:flex; justify-content:center;" >
+    <div class="my_cart" style=" width:100%;display:flex; justify-content:center;">
         <table style="border-collapse:separate;width: 100%;margin-inline:auto;" class="user_table">
 
             @foreach (var order in Model)
@@ -25,12 +25,14 @@
 
                     <tr>
                         <td>
-                            <div style="max-width: 90%;margin:0;padding-inline:auto;">
-                                <table class="user_table">
+                            <div style="max-width: 98%;margin:0;margin-inline:1%;">
+                                <table style="margin-inline:auto;text-align: center;" class="user_table">
                                     @foreach (var item in order.OrderDetail)
                                     {
                                         <tr>
-                                            <td><div class="title_item_td">@item.Item.ItemTitle</div></td>
+                                            <td>
+                                                <div class="title_item_td">@item.Item.ItemTitle</div>
+                                            </td>
                                             <td>
                                                 @if (string.IsNullOrEmpty(item.Item.Image))
                                                 {
@@ -63,8 +65,8 @@
             }
         </table>
     </div>
-    
-    
+
+
 }
 else
 {

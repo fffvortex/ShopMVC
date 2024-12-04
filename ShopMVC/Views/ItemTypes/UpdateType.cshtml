@@ -1,28 +1,32 @@
 ﻿@model TypeDTO
 @{
-    ViewData["Title"] = "UpdateType";
+    ViewData["Title"] = "Update Type ";
 }
 
-<h1>UpdateType</h1>
+<link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
+
+
 
 <div>
-    <a asp-action="Index" asp-controller="ItemTypes">back</a>
+    <h1 style="text-align: center; margin-block:1rem;">Update Type</h1>
+    <div style="display: flex; justify-content: center;">
+        <a href="/ItemTypes/Index" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
+    </div>
 </div>
 
-<form asp-action="UpdateType" >
-    <input type="hidden" asp-for="Id" />
+<div style="display: flex; justify-content: center;">
+    <form style="text-align:center;" asp-action="UpdateType">
+        <input type="hidden" asp-for="Id" />
 
-    <div>
-       <label>
-           type
-       </label>
-        <input type="text" asp-for="TypeTitle" />
+
+        <input class="form-select" type="text" asp-for="TypeTitle" />
         <span asp-validation-for="TypeTitle"></span>
-    </div>
 
-    <div>
-        <button type="submit" >update</button>
-    </div>
-</form>
+        <div style="display: flex; justify-content: center;">
+            <button class="btn btn-primary" type="submit">update</button>
+        </div>
+    </form>
+
+</div>
 
 

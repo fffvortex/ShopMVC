@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3zk28z2sc8</Fingerprint>
-      <Integrity>UZXDeRFSlkO6E7xTrM9S1LD7aMO6VsOz8s42mkzPQ6c=</Integrity>
+      <Fingerprint>12oah7lx5j</Fingerprint>
+      <Integrity>SVU5YOU8MbZPBObB7oPsOgLG+ymkHrcehqtcTIVpzXc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cart.css'))</OriginalItemSpec>

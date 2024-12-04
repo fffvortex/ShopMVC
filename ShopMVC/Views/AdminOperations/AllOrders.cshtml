@@ -38,7 +38,7 @@
                                 @order.OrderStatus.StatusName
                             </div>
                         </td>
-                        <td>
+                        <td >
                             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-@order.Id">details</button>
                             @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",
                                      new OrderDetailModelDTO { DivId = order.Id.ToString(), OrderDetail = order.OrderDetail })
@@ -51,9 +51,9 @@
         <div class="all_orders_table_mobile">
             @foreach (var order in Model)
             {
-                <div style="font-size: small; border: solid 1px white; display: block">
+                <div style="font-size: small; border: solid 1px gray; display: block">
                     <div style="border: solid 1px green; padding: 0.2em; margin: 0.2em;"><h4 style="text-align: center;">order @order.Id</h4></div>
-                    <div class="div_mobile_table">
+                    <div style="border: solid 1px gray;" class="div_mobile_table">
                         <div style="padding: 0.2em; margin: 0.2em;">order date</div>
                         <div style="padding: 0.2em; margin: 0.2em;">@order.CreatedAt.ToString("MM/dd/yyyy h:mm tt")</div>
                     </div>
@@ -63,7 +63,7 @@
                             @order.Name
                         </div>
                     </div>
-                    <div class="div_mobile_table">
+                    <div style="border: solid 1px gray;" class="div_mobile_table">
                         <div style="padding: 0.2em; margin: 0.2em;">email</div>
                         <div style="padding: 0.2em; margin: 0.2em;">
                             @order.Email
@@ -75,10 +75,10 @@
                             @order.MobileNumber
                         </div>
                     </div>
-                    <div class="div_mobile_table">
+                    <div style="border: solid 1px gray;" class="div_mobile_table">
                         <div style="padding: 0.2em; margin: 0.2em;">address</div>
-                        <div style="padding: 0.2em; margin: 0.2em;">
-                            @order.Address
+                        <div style="display: inline-block;padding: 0.1em; margin: 0.2em; white-space: pre-line; text-align:center;">
+                            <p style="text-align: center;vertical-align: middle; margin-left:1rem;">@order.Address</p>
                         </div>
                     </div>
                     <div class="div_mobile_table">
@@ -87,7 +87,7 @@
                             @order.PaymentMethod | @(order.IsPaid ? "paid" : "no paid")
                         </div>
                     </div>
-                    <div class="div_mobile_table">
+                    <div style="border: solid 1px gray;" class="div_mobile_table">
                         <a asp-action="UpdatePaymentStatus" asp-route-orderId="@order.Id">order_status</a>
                         <div style="padding: 0.2em; margin: 0.2em;">
                             @order.OrderStatus.StatusName
