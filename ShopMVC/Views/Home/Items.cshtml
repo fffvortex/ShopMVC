@@ -47,17 +47,19 @@
                         <div class="type_tag">
                             @item.TypeName.Replace("_", " ").Remove(item.TypeName.Length - 1)
                         </div>
-                        @if(item.Quantity > 0){
+                        @if (item.Quantity > 0)
+                        {
                             <div class="quantity_tag">
                                 @item.Quantity
                             </div>
                         }
-                        else{
+                        else
+                        {
                             <div style="color:#921616" class="quantity_tag">
                                 @item.Quantity
                             </div>
                         }
-                        
+
                         @if (string.IsNullOrEmpty(item.Image))
                         {
                             <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
@@ -79,12 +81,14 @@
                     <div class="card_description">
                         @item.Description
                     </div>
-                    @if(item.Quantity > 0){
+                    @if (item.Quantity > 0)
+                    {
                         <div class="button_div">
                             <button type="button" onclick="add(@item.Id)" class="card_button">add to cart</button>
                         </div>
                     }
-                    else{
+                    else
+                    {
                         <button disabled type="button" class="out_stock_btn">out of stock</button>
                     }
                 </div>

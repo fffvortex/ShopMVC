@@ -25,7 +25,7 @@ namespace ShopMVC.Repositories
             var count = allItems.Count();
             IEnumerable<Item> latestItems = await (from item in _applicationDbContext.Items
                                                   join types in _applicationDbContext.ItemTypes on item.TypeId equals types.Id
-                                                  where item.Id > count - 4
+                                                  where item.Id > count - 5
                                                    select new Item
                                                    {
                                                        Id = item.Id,

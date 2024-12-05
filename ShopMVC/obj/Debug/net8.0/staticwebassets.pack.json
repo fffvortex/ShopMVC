@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\backSlider.gif",
+      "PackagePath": "staticwebassets\\img\\backSlider.gif"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
       "PackagePath": "staticwebassets\\img\\empty_cart.png"
     },

@@ -18,6 +18,7 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
+wwwroot\img\backSlider.gif
 wwwroot\img\empty_cart.png
 wwwroot\img\no image.png
 wwwroot\img\pistols\G291-CO2 pistol replica.png
