@@ -3289,51 +3289,6 @@
       ]
     },
     {
-      "Route": "css/body.01p3n95mnx.css",
-      "AssetFile": "css/body.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "425"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "01p3n95mnx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
-        },
-        {
-          "Name": "label",
-          "Value": "css/body.css"
-        }
-      ]
-    },
-    {
       "Route": "css/body.css",
       "AssetFile": "css/body.css",
       "Selectors": [],
@@ -3356,17 +3311,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
+          "Value": "\"KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
+          "Value": "Thu, 05 Dec 2024 17:46:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
+          "Value": "sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="
+        }
+      ]
+    },
+    {
+      "Route": "css/body.j5xscy7mzd.css",
+      "AssetFile": "css/body.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:46:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5xscy7mzd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="
+        },
+        {
+          "Name": "label",
+          "Value": "css/body.css"
         }
       ]
     },
@@ -3453,51 +3453,6 @@
       ]
     },
     {
-      "Route": "css/confirm.4w450bdwsm.css",
-      "AssetFile": "css/confirm.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4w450bdwsm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
-        },
-        {
-          "Name": "label",
-          "Value": "css/confirm.css"
-        }
-      ]
-    },
-    {
       "Route": "css/confirm.css",
       "AssetFile": "css/confirm.css",
       "Selectors": [],
@@ -3512,7 +3467,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2958"
+          "Value": "2999"
         },
         {
           "Name": "Content-Type",
@@ -3520,17 +3475,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
+          "Value": "\"awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
+          "Value": "Thu, 05 Dec 2024 12:43:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
+          "Value": "sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.dul4bhqhe0.css",
+      "AssetFile": "css/confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 12:43:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dul4bhqhe0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M="
+        },
+        {
+          "Name": "label",
+          "Value": "css/confirm.css"
         }
       ]
     },
@@ -3699,51 +3699,6 @@
       ]
     },
     {
-      "Route": "css/slider.6bsidou2bh.css",
-      "AssetFile": "css/slider.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1424"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 09:00:09 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6bsidou2bh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s="
-        },
-        {
-          "Name": "label",
-          "Value": "css/slider.css"
-        }
-      ]
-    },
-    {
       "Route": "css/slider.css",
       "AssetFile": "css/slider.css",
       "Selectors": [],
@@ -3758,7 +3713,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1424"
+          "Value": "1425"
         },
         {
           "Name": "Content-Type",
@@ -3766,17 +3721,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s=\""
+          "Value": "\"4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 09:00:09 GMT"
+          "Value": "Thu, 05 Dec 2024 09:03:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s="
+          "Value": "sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78="
+        }
+      ]
+    },
+    {
+      "Route": "css/slider.oy8684as8y.css",
+      "AssetFile": "css/slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 09:03:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy8684as8y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78="
+        },
+        {
+          "Name": "label",
+          "Value": "css/slider.css"
         }
       ]
     },
@@ -3941,6 +3941,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/02ebaf9d-7740-4685-99e3-deae3819c773.m8vm73aazy.png",
+      "AssetFile": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:51:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8vm73aazy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "AssetFile": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:51:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.hbsrvsegey.png",
+      "AssetFile": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbsrvsegey"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "AssetFile": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
+        }
+      ]
+    },
+    {
+      "Route": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "AssetFile": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:55:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.zjonm1mez2.png",
+      "AssetFile": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:55:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjonm1mez2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.3hs1fjmp96.png",
+      "AssetFile": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:53:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hs1fjmp96"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "AssetFile": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:53:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.15vjmwtuys.png",
+      "AssetFile": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:54:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15vjmwtuys"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        },
+        {
+          "Name": "label",
+          "Value": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "AssetFile": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:54:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/da25199f-6d70-46da-b657-703e65902d51.l9pqochb5y.png",
+      "AssetFile": "images/da25199f-6d70-46da-b657-703e65902d51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:45:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9pqochb5y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/da25199f-6d70-46da-b657-703e65902d51.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/da25199f-6d70-46da-b657-703e65902d51.png",
+      "AssetFile": "images/da25199f-6d70-46da-b657-703e65902d51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:45:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "AssetFile": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:48:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.xfs0heljs8.png",
+      "AssetFile": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:48:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfs0heljs8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"
         }
       ]
     },
@@ -4191,1236 +4765,6 @@
       ]
     },
     {
-      "Route": "img/pistols/G291-CO2 pistol replica.m8vm73aazy.png",
-      "AssetFile": "img/pistols/G291-CO2 pistol replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "268780"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:09:01 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m8vm73aazy"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
-        },
-        {
-          "Name": "label",
-          "Value": "img/pistols/G291-CO2 pistol replica.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/pistols/G291-CO2 pistol replica.png",
-      "AssetFile": "img/pistols/G291-CO2 pistol replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "268780"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:09:01 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.2lw71pxi9r.png",
-      "AssetFile": "img/rifles/Airsoft assault rifle Cyma CM028.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2lw71pxi9r"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft assault rifle Cyma CM028.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.png",
-      "AssetFile": "img/rifles/Airsoft assault rifle Cyma CM028.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.3hs1fjmp96.png",
-      "AssetFile": "img/rifles/Airsoft rifle JG Works 4015T Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3hs1fjmp96"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle JG Works 4015T Black.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.png",
-      "AssetFile": "img/rifles/Airsoft rifle JG Works 4015T Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "290318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.zjonm1mez2.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "290318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zjonm1mez2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 10:57:20 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.xfs0heljs8.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 10:57:20 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xfs0heljs8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.ndm8h4vhkh.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "306356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ndm8h4vhkh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "306356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.4ylmdezebq.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "267766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4ylmdezebq"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "AssetFile": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "267766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM042A Carbine Replica.ig9mpymii6.png",
-      "AssetFile": "img/rifles/CM042A Carbine Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ig9mpymii6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/CM042A Carbine Replica.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM042A Carbine Replica.png",
-      "AssetFile": "img/rifles/CM042A Carbine Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM048A assault airsoft rifle.15vjmwtuys.png",
-      "AssetFile": "img/rifles/CM048A assault airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97983"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15vjmwtuys"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/CM048A assault airsoft rifle.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM048A assault airsoft rifle.png",
-      "AssetFile": "img/rifles/CM048A assault airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97983"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "AssetFile": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "337568"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.qr69yvg5zc.png",
-      "AssetFile": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "337568"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qr69yvg5zc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png",
-      "AssetFile": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "392616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.uit956vcfc.png",
-      "AssetFile": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "392616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uit956vcfc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H02 ONE.l9pqochb5y.png",
-      "AssetFile": "img/rifles/SA-H02 ONE.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326340"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 09:28:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l9pqochb5y"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/SA-H02 ONE.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H02 ONE.png",
-      "AssetFile": "img/rifles/SA-H02 ONE.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326340"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 09:28:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.9f1sj3gnq9.png",
-      "AssetFile": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9f1sj3gnq9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png",
-      "AssetFile": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "AssetFile": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227095"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.upsru0r8gl.png",
-      "AssetFile": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227095"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "upsru0r8gl"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/sniper rifles/MB4410D replica with scope and bipod.hbsrvsegey.png",
-      "AssetFile": "img/sniper rifles/MB4410D replica with scope and bipod.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "75365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:03:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hbsrvsegey"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
-        },
-        {
-          "Name": "label",
-          "Value": "img/sniper rifles/MB4410D replica with scope and bipod.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/sniper rifles/MB4410D replica with scope and bipod.png",
-      "AssetFile": "img/sniper rifles/MB4410D replica with scope and bipod.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "75365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:03:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
-        }
-      ]
-    },
-    {
       "Route": "js/drop.js",
       "AssetFile": "js/drop.js",
       "Selectors": [],
@@ -5585,7 +4929,7 @@
       ]
     },
     {
-      "Route": "js/slider.8oimsnpjs3.js",
+      "Route": "js/slider.ar6ik0aqjm.js",
       "AssetFile": "js/slider.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5599,7 +4943,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -5607,21 +4951,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8=\""
+          "Value": "\"tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 08:53:53 GMT"
+          "Value": "Thu, 05 Dec 2024 17:57:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8oimsnpjs3"
+          "Value": "ar6ik0aqjm"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8="
+          "Value": "sha256-tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="
         },
         {
           "Name": "label",
@@ -5644,7 +4988,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -5652,17 +4996,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8=\""
+          "Value": "\"tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 08:53:53 GMT"
+          "Value": "Thu, 05 Dec 2024 17:57:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8="
+          "Value": "sha256-tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="
         }
       ]
     },

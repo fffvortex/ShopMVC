@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4XSkHoW0BykmFIi2ygqH5pRL2IksgkHQzvsICBG50/A=",
+  "Hash": "4DVhS+u2mpilYG836cbg3LWt8ZacbToj0Nq9GfhvmC4=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "01p3n95mnx",
-      "Integrity": "dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=",
+      "Fingerprint": "j5xscy7mzd",
+      "Integrity": "KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\body.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4w450bdwsm",
-      "Integrity": "BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=",
+      "Fingerprint": "dul4bhqhe0",
+      "Integrity": "awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\confirm.css"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6bsidou2bh",
-      "Integrity": "0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s=",
+      "Fingerprint": "oy8684as8y",
+      "Integrity": "4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\slider.css"
@@ -1739,6 +1739,153 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\Bender\\Jovanny Lemonad - Bender-LightItalic.otf"
     },
     {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/02ebaf9d-7740-4685-99e3-deae3819c773#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8vm73aazy",
+      "Integrity": "WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hbsrvsegey",
+      "Integrity": "HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/996e58bc-fd72-4edf-aecd-3934613e0e29#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjonm1mez2",
+      "Integrity": "8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hs1fjmp96",
+      "Integrity": "Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "15vjmwtuys",
+      "Integrity": "ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/da25199f-6d70-46da-b657-703e65902d51#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l9pqochb5y",
+      "Integrity": "l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png"
+    },
+    {
+      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfs0heljs8",
+      "Integrity": "A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"
+    },
+    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\backSlider.gif",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -1802,321 +1949,6 @@
       "OriginalItemSpec": "wwwroot\\img\\no image.png"
     },
     {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\pistols\\G291-CO2 pistol replica.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/pistols/G291-CO2 pistol replica#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "m8vm73aazy",
-      "Integrity": "WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pistols\\G291-CO2 pistol replica.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft assault rifle Cyma CM028#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "2lw71pxi9r",
-      "Integrity": "SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft rifle JG Works 4015T Black#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3hs1fjmp96",
-      "Integrity": "Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zjonm1mez2",
-      "Integrity": "8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xfs0heljs8",
-      "Integrity": "A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ndm8h4vhkh",
-      "Integrity": "tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4ylmdezebq",
-      "Integrity": "nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/CM042A Carbine Replica#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ig9mpymii6",
-      "Integrity": "YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\CM042A Carbine Replica.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/CM048A assault airsoft rifle#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "15vjmwtuys",
-      "Integrity": "ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qr69yvg5zc",
-      "Integrity": "evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/SA-H01 ONE™ Assault Rifle Replica#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "uit956vcfc",
-      "Integrity": "tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/SA-H02 ONE#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "l9pqochb5y",
-      "Integrity": "l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\SA-H02 ONE.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Specna Arms SA-C19 Daniel Defense®#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9f1sj3gnq9",
-      "Integrity": "y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "upsru0r8gl",
-      "Integrity": "3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
-    },
-    {
-      "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
-      "SourceId": "ShopMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\",
-      "BasePath": "_content/ShopMVC",
-      "RelativePath": "img/sniper rifles/MB4410D replica with scope and bipod#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hbsrvsegey",
-      "Integrity": "HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
-    },
-    {
       "Identity": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -2173,8 +2005,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8oimsnpjs3",
-      "Integrity": "+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8=",
+      "Fingerprint": "ar6ik0aqjm",
+      "Integrity": "tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\slider.js"
@@ -3400,51 +3232,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/body.01p3n95mnx.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "425"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "01p3n95mnx"
-        },
-        {
-          "Name": "label",
-          "Value": "css/body.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
-        }
-      ]
-    },
-    {
       "Route": "css/body.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
       "Selectors": [],
@@ -3463,11 +3250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\""
+          "Value": "\"KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Nov 2024 14:50:56 GMT"
+          "Value": "Thu, 05 Dec 2024 17:46:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3477,7 +3264,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dKx/CH2m+HlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="
+          "Value": "sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="
+        }
+      ]
+    },
+    {
+      "Route": "css/body.j5xscy7mzd.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\body.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5xscy7mzd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/body.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="
         }
       ]
     },
@@ -3646,51 +3478,6 @@
       ]
     },
     {
-      "Route": "css/confirm.4w450bdwsm.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4w450bdwsm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/confirm.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
-        }
-      ]
-    },
-    {
       "Route": "css/confirm.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
       "Selectors": [],
@@ -3701,7 +3488,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2958"
+          "Value": "2999"
         },
         {
           "Name": "Content-Type",
@@ -3709,11 +3496,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\""
+          "Value": "\"awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 09:32:43 GMT"
+          "Value": "Thu, 05 Dec 2024 12:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3723,7 +3510,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="
+          "Value": "sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.dul4bhqhe0.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 12:43:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dul4bhqhe0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/confirm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J+fm0UYemK1+M="
         }
       ]
     },
@@ -4056,51 +3888,6 @@
       ]
     },
     {
-      "Route": "css/slider.6bsidou2bh.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1424"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 09:00:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6bsidou2bh"
-        },
-        {
-          "Name": "label",
-          "Value": "css/slider.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s="
-        }
-      ]
-    },
-    {
       "Route": "css/slider.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
       "Selectors": [],
@@ -4111,7 +3898,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1424"
+          "Value": "1425"
         },
         {
           "Name": "Content-Type",
@@ -4119,11 +3906,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s=\""
+          "Value": "\"4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 09:00:09 GMT"
+          "Value": "Thu, 05 Dec 2024 09:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4133,7 +3920,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0kyZnZZsMfUf8+LykWpR+STOee8UblWBDGZqpCUzh4s="
+          "Value": "sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78="
+        }
+      ]
+    },
+    {
+      "Route": "css/slider.oy8684as8y.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 09:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy8684as8y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slider.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv+jz4jEY29ahmt78="
         }
       ]
     },
@@ -7260,6 +7092,580 @@
       ]
     },
     {
+      "Route": "images/02ebaf9d-7740-4685-99e3-deae3819c773.m8vm73aazy.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8vm73aazy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
+        }
+      ]
+    },
+    {
+      "Route": "images/02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.hbsrvsegey.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbsrvsegey"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
+        }
+      ]
+    },
+    {
+      "Route": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.zjonm1mez2.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjonm1mez2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/996e58bc-fd72-4edf-aecd-3934613e0e29.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.3hs1fjmp96.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:53:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hs1fjmp96"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:53:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.15vjmwtuys.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15vjmwtuys"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/da25199f-6d70-46da-b657-703e65902d51.l9pqochb5y.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9pqochb5y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/da25199f-6d70-46da-b657-703e65902d51.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/da25199f-6d70-46da-b657-703e65902d51.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.xfs0heljs8.png",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 15:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfs0heljs8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
+        }
+      ]
+    },
+    {
       "Route": "img/backSlider.asazeisigu.gif",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\backSlider.gif",
       "Selectors": [],
@@ -7506,1236 +7912,6 @@
       ]
     },
     {
-      "Route": "img/pistols/G291-CO2 pistol replica.m8vm73aazy.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\pistols\\G291-CO2 pistol replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "268780"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:09:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m8vm73aazy"
-        },
-        {
-          "Name": "label",
-          "Value": "img/pistols/G291-CO2 pistol replica.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
-        }
-      ]
-    },
-    {
-      "Route": "img/pistols/G291-CO2 pistol replica.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\pistols\\G291-CO2 pistol replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "268780"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:09:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WkVMwc3ZMKbo5TS1+2FE3bthR1dmbqkRGD9aRwxdOa0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.2lw71pxi9r.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2lw71pxi9r"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft assault rifle Cyma CM028.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft assault rifle Cyma CM028.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:26:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.3hs1fjmp96.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3hs1fjmp96"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle JG Works 4015T Black.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle JG Works 4015T Black.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:47:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z4GsrFWYbXh9zc+He8XdP/WDoNqaitUaUDTUU8wZEFo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "290318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.zjonm1mez2.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "290318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:53:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zjonm1mez2"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ckygvv4397vcBFkTfHktNkCxYD/u+byjKPpMBodEOQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 10:57:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.xfs0heljs8.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 10:57:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xfs0heljs8"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7dvINWrdV+0bDVdgwEN37ktP92US8/Q8JCAh0muigY="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.ndm8h4vhkh.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "306356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ndm8h4vhkh"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "306356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.4ylmdezebq.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "267766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4ylmdezebq"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "267766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:16:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM042A Carbine Replica.ig9mpymii6.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ig9mpymii6"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/CM042A Carbine Replica.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM042A Carbine Replica.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:35:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM048A assault airsoft rifle.15vjmwtuys.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97983"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15vjmwtuys"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/CM048A assault airsoft rifle.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/CM048A assault airsoft rifle.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97983"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:49:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "337568"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.qr69yvg5zc.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "337568"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 16:36:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qr69yvg5zc"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-evfMH+eN32HjXdCgKxAe+Am8+IcQqXgLvcOpZ6SMSO4="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "392616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.uit956vcfc.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "392616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:05:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uit956vcfc"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/SA-H01 ONE™ Assault Rifle Replica.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H02 ONE.l9pqochb5y.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326340"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 09:28:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l9pqochb5y"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/SA-H02 ONE.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/SA-H02 ONE.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326340"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 09:28:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.9f1sj3gnq9.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9f1sj3gnq9"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-C19 Daniel Defense®.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 15:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227095"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
-        }
-      ]
-    },
-    {
-      "Route": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.upsru0r8gl.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227095"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 14:57:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "upsru0r8gl"
-        },
-        {
-          "Name": "label",
-          "Value": "img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qden80X+0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="
-        }
-      ]
-    },
-    {
-      "Route": "img/sniper rifles/MB4410D replica with scope and bipod.hbsrvsegey.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "75365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:03:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hbsrvsegey"
-        },
-        {
-          "Name": "label",
-          "Value": "img/sniper rifles/MB4410D replica with scope and bipod.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
-        }
-      ]
-    },
-    {
-      "Route": "img/sniper rifles/MB4410D replica with scope and bipod.png",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "75365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 11:03:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="
-        }
-      ]
-    },
-    {
       "Route": "js/drop.js",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",
       "Selectors": [],
@@ -8900,7 +8076,7 @@
       ]
     },
     {
-      "Route": "js/slider.8oimsnpjs3.js",
+      "Route": "js/slider.ar6ik0aqjm.js",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\slider.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8910,7 +8086,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -8918,11 +8094,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8=\""
+          "Value": "\"tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 08:53:53 GMT"
+          "Value": "Thu, 05 Dec 2024 17:57:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8932,7 +8108,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8oimsnpjs3"
+          "Value": "ar6ik0aqjm"
         },
         {
           "Name": "label",
@@ -8940,7 +8116,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8="
+          "Value": "sha256-tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="
         }
       ]
     },
@@ -8955,7 +8131,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -8963,11 +8139,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8=\""
+          "Value": "\"tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 08:53:53 GMT"
+          "Value": "Thu, 05 Dec 2024 17:57:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8977,7 +8153,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+E/++QmuCjnR6eVDW5YlsSYtgEFLh0pzx+TSQ811wi8="
+          "Value": "sha256-tqZBn5N+LVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="
         }
       ]
     },

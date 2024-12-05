@@ -118,6 +118,8 @@ label{
     background: #000;
     border: 2px #347e17 solid;
     opacity: 1;
+    width: 0.9rem;
+    height: 0.8rem;
 }
     .btn.btn-close:focus {
         border: solid #00ff21 2px;

@@ -1,0 +1,60 @@
+﻿@model ItemDTO
+@{
+    ViewData["Title"] = "Update Item ";
+}
+
+<div style="display: block;justify-content: center;">
+    <h1 style="text-align:center; margin-block:1rem;">Edit</h1>
+    <div style="display: flex; justify-content: center;">
+        <a href="/Item/Index" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
+    </div>
+</div>
+
+<form asp-action="UpdateItem" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="Image" />
+
+    <div>
+        <label>title</label>
+        <input type="text" class="form-control" asp-for="ItemTitle" />
+        <span asp-validation-for="ItemTitle"></span>
+    </div>
+
+    <div>
+        <label>description</label>
+        <input type="text" class="form-control" asp-for="Description" />
+        <span asp-validation-for="Description"></span>
+    </div>
+
+    <div>
+        <label>stats</label>
+        <input type="text" class="form-control" asp-for="Stats" />
+        <span asp-validation-for="Stats"></span>
+    </div>
+
+    <div>
+        <label>type</label>
+        <select class="form-control" asp-for="TypeId" asp-items="Model.TypeList">
+            <option value="">select..</option>
+        </select>
+        <span asp-validation-for="TypeId"></span>
+    </div>
+
+    <div>
+        <label>price</label>
+        <input type="number" class="form-control" asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+    </div>
+
+    <div>
+        <label>image</label>
+        @if(!string.IsNullOrEmpty(Model.Image)){
+            <img src="/images/@Model.Image" style="width: 80px;height: 40px;" />
+        }
+        <input type="file" class="form-control" asp-for="ImageFile" />
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary">update</button>
+    </div>
+</form>

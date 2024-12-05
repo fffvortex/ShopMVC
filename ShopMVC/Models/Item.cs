@@ -9,7 +9,7 @@ namespace ShopMVC.Models
         public int Id { get; set; }
         [Required]
         [MaxLength(40)]
-        public string ItemTitle { get; set; }
+        public string? ItemTitle { get; set; }
 
         [Required]
         public double Price { get; set; }

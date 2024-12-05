@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/body.01p3n95mnx.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"01p3n95mnx"},{"Name":"integrity","Value":"sha256-dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="},{"Name":"label","Value":"_content/ShopMVC/css/body.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 14:50:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/body.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dKx/CH2m\u002BHlIhgdkfctiCl7REA4I2u8GyKgX7xvzkqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 14:50:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 17:46:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/body.j5xscy7mzd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\body.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j5xscy7mzd"},{"Name":"integrity","Value":"sha256-KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4="},{"Name":"label","Value":"_content/ShopMVC/css/body.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KSU0w083icrhOSkHoGdpWlAukK7aMf5KbGXVu4GS5R4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 17:46:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/Card.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Card.css'))</AssetFile>
@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SVU5YOU8MbZPBObB7oPsOgLG\u002BymkHrcehqtcTIVpzXc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3057"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SVU5YOU8MbZPBObB7oPsOgLG\u002BymkHrcehqtcTIVpzXc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 11:05:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/confirm.4w450bdwsm.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4w450bdwsm"},{"Name":"integrity","Value":"sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="},{"Name":"label","Value":"_content/ShopMVC/css/confirm.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2958"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 30 Nov 2024 09:32:43 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/confirm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2958"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BIRojkHLGZBMlPtX2wvnioLeFcK1nK25sNA4DtKKMt0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 30 Nov 2024 09:32:43 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J\u002Bfm0UYemK1\u002BM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2999"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J\u002Bfm0UYemK1\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 12:43:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/confirm.dul4bhqhe0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dul4bhqhe0"},{"Name":"integrity","Value":"sha256-awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J\u002Bfm0UYemK1\u002BM="},{"Name":"label","Value":"_content/ShopMVC/css/confirm.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2999"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022awmGnsM/xIbzwCFEoXM5/jYvsB8iT/J\u002Bfm0UYemK1\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 12:43:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/LoginPartial.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartial.css'))</AssetFile>
@@ -96,17 +96,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rrbx50f7mo"},{"Name":"integrity","Value":"sha256-145DQ7fYOu1Lggb4llzyVSWCfnIw0K\u002BtrxFGX2rThWA="},{"Name":"label","Value":"_content/ShopMVC/css/search.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1640"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022145DQ7fYOu1Lggb4llzyVSWCfnIw0K\u002BtrxFGX2rThWA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 29 Nov 2024 09:21:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/slider.6bsidou2bh.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\slider.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6bsidou2bh"},{"Name":"integrity","Value":"sha256-0kyZnZZsMfUf8\u002BLykWpR\u002BSTOee8UblWBDGZqpCUzh4s="},{"Name":"label","Value":"_content/ShopMVC/css/slider.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220kyZnZZsMfUf8\u002BLykWpR\u002BSTOee8UblWBDGZqpCUzh4s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 09:00:09 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/slider.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\slider.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0kyZnZZsMfUf8\u002BLykWpR\u002BSTOee8UblWBDGZqpCUzh4s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220kyZnZZsMfUf8\u002BLykWpR\u002BSTOee8UblWBDGZqpCUzh4s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 09:00:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv\u002Bjz4jEY29ahmt78="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224KoxBql2L7JQ9wpEHHJoxyihNOdv\u002Bjz4jEY29ahmt78=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 09:03:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/css/slider.oy8684as8y.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\slider.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oy8684as8y"},{"Name":"integrity","Value":"sha256-4KoxBql2L7JQ9wpEHHJoxyihNOdv\u002Bjz4jEY29ahmt78="},{"Name":"label","Value":"_content/ShopMVC/css/slider.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1425"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224KoxBql2L7JQ9wpEHHJoxyihNOdv\u002Bjz4jEY29ahmt78=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 09:03:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/css/text.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\text.css'))</AssetFile>
@@ -240,6 +240,90 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbmx0rj04q"},{"Name":"integrity","Value":"sha256-s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ="},{"Name":"label","Value":"_content/ShopMVC/Fonts/Bender/Jovanny Lemonad - Bender.otf"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52536"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022s5T\u002BDDo6qFeE6ZKLOgKIxXi0OKDbeqFPvMaG2mQUNEQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 Jul 2021 10:44:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/02ebaf9d-7740-4685-99e3-deae3819c773.m8vm73aazy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\02ebaf9d-7740-4685-99e3-deae3819c773.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m8vm73aazy"},{"Name":"integrity","Value":"sha256-WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0="},{"Name":"label","Value":"_content/ShopMVC/images/02ebaf9d-7740-4685-99e3-deae3819c773.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"268780"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:51:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/02ebaf9d-7740-4685-99e3-deae3819c773.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\02ebaf9d-7740-4685-99e3-deae3819c773.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"268780"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:51:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.hbsrvsegey.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hbsrvsegey"},{"Name":"integrity","Value":"sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="},{"Name":"label","Value":"_content/ShopMVC/images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"75365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/996e58bc-fd72-4edf-aecd-3934613e0e29.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\996e58bc-fd72-4edf-aecd-3934613e0e29.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"290318"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:55:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/996e58bc-fd72-4edf-aecd-3934613e0e29.zjonm1mez2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\996e58bc-fd72-4edf-aecd-3934613e0e29.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zjonm1mez2"},{"Name":"integrity","Value":"sha256-8ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ="},{"Name":"label","Value":"_content/ShopMVC/images/996e58bc-fd72-4edf-aecd-3934613e0e29.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"290318"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:55:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.3hs1fjmp96.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hs1fjmp96"},{"Name":"integrity","Value":"sha256-Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo="},{"Name":"label","Value":"_content/ShopMVC/images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"279021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:53:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/bf14e413-0ac1-4f44-8fef-88a62389b5ce.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"279021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:53:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/cc38d44a-124a-4a9f-93a9-4207d29837d0.15vjmwtuys.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cc38d44a-124a-4a9f-93a9-4207d29837d0.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"15vjmwtuys"},{"Name":"integrity","Value":"sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="},{"Name":"label","Value":"_content/ShopMVC/images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97983"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:54:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/cc38d44a-124a-4a9f-93a9-4207d29837d0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cc38d44a-124a-4a9f-93a9-4207d29837d0.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97983"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:54:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/da25199f-6d70-46da-b657-703e65902d51.l9pqochb5y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\da25199f-6d70-46da-b657-703e65902d51.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l9pqochb5y"},{"Name":"integrity","Value":"sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="},{"Name":"label","Value":"_content/ShopMVC/images/da25199f-6d70-46da-b657-703e65902d51.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"326340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/da25199f-6d70-46da-b657-703e65902d51.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\da25199f-6d70-46da-b657-703e65902d51.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"326340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"280225"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:48:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.xfs0heljs8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xfs0heljs8"},{"Name":"integrity","Value":"sha256-A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY="},{"Name":"label","Value":"_content/ShopMVC/images/ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280225"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 15:48:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/img/backSlider.asazeisigu.gif">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\backSlider.gif'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -276,186 +360,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QPT\u002B/H/4w45VEJ8Augj/o/0WXFetTcC23Zp7VfbOGCg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70419"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QPT\u002B/H/4w45VEJ8Augj/o/0WXFetTcC23Zp7VfbOGCg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 11:15:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/pistols/G291-CO2 pistol replica.m8vm73aazy.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pistols\G291-CO2 pistol replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m8vm73aazy"},{"Name":"integrity","Value":"sha256-WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0="},{"Name":"label","Value":"_content/ShopMVC/img/pistols/G291-CO2 pistol replica.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"268780"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 11:09:01 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/pistols/G291-CO2 pistol replica.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pistols\G291-CO2 pistol replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"268780"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WkVMwc3ZMKbo5TS1\u002B2FE3bthR1dmbqkRGD9aRwxdOa0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 11:09:01 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft assault rifle Cyma CM028.2lw71pxi9r.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft assault rifle Cyma CM028.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2lw71pxi9r"},{"Name":"integrity","Value":"sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft assault rifle Cyma CM028.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289989"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:26:40 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft assault rifle Cyma CM028.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft assault rifle Cyma CM028.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289989"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SiqQYAgueu6f2b/oLONVGHI2OOxZqdBlDTu2NP1Xa7o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:26:40 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle JG Works 4015T Black.3hs1fjmp96.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle JG Works 4015T Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hs1fjmp96"},{"Name":"integrity","Value":"sha256-Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft rifle JG Works 4015T Black.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"279021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:47:18 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle JG Works 4015T Black.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle JG Works 4015T Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"279021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z4GsrFWYbXh9zc\u002BHe8XdP/WDoNqaitUaUDTUU8wZEFo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:47:18 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms RRA SA-E03.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"290318"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:53:32 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms RRA SA-E03.zjonm1mez2.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms RRA SA-E03.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zjonm1mez2"},{"Name":"integrity","Value":"sha256-8ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms RRA SA-E03.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"290318"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228ckygvv4397vcBFkTfHktNkCxYD/u\u002BbyjKPpMBodEOQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:53:32 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-A33 ONE™.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"280225"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 10:57:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-A33 ONE™.xfs0heljs8.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-A33 ONE™.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xfs0heljs8"},{"Name":"integrity","Value":"sha256-A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-A33 ONE\u2122.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280225"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A7dvINWrdV\u002B0bDVdgwEN37ktP92US8/Q8JCAh0muigY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 10:57:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.ndm8h4vhkh.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ndm8h4vhkh"},{"Name":"integrity","Value":"sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"306356"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:11:10 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"306356"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tWuuG5qUVHuHpIzk76FVzFIq8FLoKy2uxsYiBlBivuE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:11:10 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.4ylmdezebq.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4ylmdezebq"},{"Name":"integrity","Value":"sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX\u2122 GATE X-ASR Black.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"267766"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:16:08 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"267766"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nO2bDy1yDZpjmNCXuhHXKmLzXWFnMt9RN94B7kIEGMQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:16:08 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/CM042A Carbine Replica.ig9mpymii6.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\CM042A Carbine Replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ig9mpymii6"},{"Name":"integrity","Value":"sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/CM042A Carbine Replica.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:35:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/CM042A Carbine Replica.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\CM042A Carbine Replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"93444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022YjoQyRKmhd51/D0Hy0QIRLQ1XG4XYU1TTZfrOZq7DFk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:35:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/CM048A assault airsoft rifle.15vjmwtuys.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\CM048A assault airsoft rifle.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"15vjmwtuys"},{"Name":"integrity","Value":"sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/CM048A assault airsoft rifle.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97983"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:49:11 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/CM048A assault airsoft rifle.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\CM048A assault airsoft rifle.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97983"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZcroGbf3O6chVjHyg/zxN1TvrETRNZ26JPOjcalgx1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:49:11 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/RRA &amp; SI SA-E17 EDGE™ PDW Carbine Replica - Black.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\RRA &amp; SI SA-E17 EDGE™ PDW Carbine Replica - Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-evfMH\u002BeN32HjXdCgKxAe\u002BAm8\u002BIcQqXgLvcOpZ6SMSO4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"337568"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022evfMH\u002BeN32HjXdCgKxAe\u002BAm8\u002BIcQqXgLvcOpZ6SMSO4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:36:40 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/RRA &amp; SI SA-E17 EDGE™ PDW Carbine Replica - Black.qr69yvg5zc.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\RRA &amp; SI SA-E17 EDGE™ PDW Carbine Replica - Black.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qr69yvg5zc"},{"Name":"integrity","Value":"sha256-evfMH\u002BeN32HjXdCgKxAe\u002BAm8\u002BIcQqXgLvcOpZ6SMSO4="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/RRA \u0026 SI SA-E17 EDGE\u2122 PDW Carbine Replica - Black.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"337568"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022evfMH\u002BeN32HjXdCgKxAe\u002BAm8\u002BIcQqXgLvcOpZ6SMSO4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 16:36:40 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/SA-H01 ONE™ Assault Rifle Replica.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\SA-H01 ONE™ Assault Rifle Replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"392616"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:05:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/SA-H01 ONE™ Assault Rifle Replica.uit956vcfc.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\SA-H01 ONE™ Assault Rifle Replica.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uit956vcfc"},{"Name":"integrity","Value":"sha256-tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/SA-H01 ONE\u2122 Assault Rifle Replica.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"392616"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tupz2/ksMpEZHKoc8L11eWl6r0DJu1BQmjGuYPKoTB0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:05:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/SA-H02 ONE.l9pqochb5y.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\SA-H02 ONE.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l9pqochb5y"},{"Name":"integrity","Value":"sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/SA-H02 ONE.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"326340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 09:28:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/SA-H02 ONE.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\SA-H02 ONE.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"326340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l2UczECRx9K9rcRa14mZjyIpbuKtsg0qkOHGWOB0Xjo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 09:28:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Specna Arms SA-C19 Daniel Defense®.9f1sj3gnq9.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Specna Arms SA-C19 Daniel Defense®.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9f1sj3gnq9"},{"Name":"integrity","Value":"sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Specna Arms SA-C19 Daniel Defense\u00AE.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"333046"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:01:41 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Specna Arms SA-C19 Daniel Defense®.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Specna Arms SA-C19 Daniel Defense®.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"333046"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022y2rOUWxYQCLRTjRpPMkjz1eHvgUIOOvns/6Pgqw85D0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 15:01:41 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3qden80X\u002B0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"227095"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223qden80X\u002B0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:57:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/rifles/Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.upsru0r8gl.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\rifles\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"upsru0r8gl"},{"Name":"integrity","Value":"sha256-3qden80X\u002B0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg="},{"Name":"label","Value":"_content/ShopMVC/img/rifles/Specna Arms SA-F21 FLEX\u2122 ETU\u2122 Tan airsoft rifle.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"227095"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223qden80X\u002B0GK3ucss9cMsoObopp2XdgxNOW9z0O/dHg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 14:57:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/sniper rifles/MB4410D replica with scope and bipod.hbsrvsegey.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\sniper rifles\MB4410D replica with scope and bipod.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hbsrvsegey"},{"Name":"integrity","Value":"sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="},{"Name":"label","Value":"_content/ShopMVC/img/sniper rifles/MB4410D replica with scope and bipod.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 11:03:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/img/sniper rifles/MB4410D replica with scope and bipod.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\sniper rifles\MB4410D replica with scope and bipod.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"75365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HRflwLkHspty4DBZusC4x8hHzqUhhzWiY9QLLmZk0s0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 11:03:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/js/drop.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\drop.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -480,17 +384,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ws21l6s7jq"},{"Name":"integrity","Value":"sha256-cFFvUwyYdPQz7s0lwZspQA\u002Be3TbCB/shNBk\u002B8nf5BIY="},{"Name":"label","Value":"_content/ShopMVC/js/drop_character.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"520"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cFFvUwyYdPQz7s0lwZspQA\u002Be3TbCB/shNBk\u002B8nf5BIY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 27 Nov 2024 17:41:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMVC/js/slider.8oimsnpjs3.js">
+    <StaticWebAssetEndpoint Include="_content/ShopMVC/js/slider.ar6ik0aqjm.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\slider.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8oimsnpjs3"},{"Name":"integrity","Value":"sha256-\u002BE/\u002B\u002BQmuCjnR6eVDW5YlsSYtgEFLh0pzx\u002BTSQ811wi8="},{"Name":"label","Value":"_content/ShopMVC/js/slider.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"445"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BE/\u002B\u002BQmuCjnR6eVDW5YlsSYtgEFLh0pzx\u002BTSQ811wi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 08:53:53 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ar6ik0aqjm"},{"Name":"integrity","Value":"sha256-tqZBn5N\u002BLVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="},{"Name":"label","Value":"_content/ShopMVC/js/slider.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tqZBn5N\u002BLVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 17:57:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/js/slider.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\slider.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BE/\u002B\u002BQmuCjnR6eVDW5YlsSYtgEFLh0pzx\u002BTSQ811wi8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"445"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BE/\u002B\u002BQmuCjnR6eVDW5YlsSYtgEFLh0pzx\u002BTSQ811wi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 08:53:53 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tqZBn5N\u002BLVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tqZBn5N\u002BLVUKxeDGr0iZwAa9ChkzyvHaH2IXMIaHtfs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 17:57:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMVC/js/text.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\text.js'))</AssetFile>

@@ -1,1 +1,9 @@
-C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\img\flashing gif cw.gif
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\789254e2-3491-4317-926e-884b592768bb.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\Airsoft assault rifle Cyma CM028.png.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\Airsoft rifle JG Works 4015T Black.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\Airsoft rifle Specna Arms RRA SA-E03.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\Airsoft rifle Specna Arms SA-A33 ONE™.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\CM048A assault airsoft rifle.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\G291-CO2 pistol replica.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\MB4410D replica with scope and bipod.png
+C:\Users\mi162\source\repos\ShopMVC\ShopMVC\wwwroot\images\SA-H02 ONE.png

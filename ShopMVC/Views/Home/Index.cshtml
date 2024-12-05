@@ -25,11 +25,11 @@
                         <div class="swiper_image">
                             @if (string.IsNullOrEmpty(item.Image))
                             {
-                                <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
+                                <img src="/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
                             }
                             else
                             {
-                                <img src="@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
+                                <img src="/images/@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
                             }
                         </div>
                         <div class="card_content">

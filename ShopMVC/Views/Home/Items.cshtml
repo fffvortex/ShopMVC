@@ -62,11 +62,11 @@
 
                         @if (string.IsNullOrEmpty(item.Image))
                         {
-                            <img src="~/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
+                            <img src="/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
                         }
                         else
                         {
-                            <img src="@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
+                            <img src="/images/@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
                         }
 
                         <div class="btn_character $class{@item.Id}">stats</div>

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ShopMVC;
+using ShopMVC.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,9 +20,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IItemRepository, ItemRepository>();
 builder.Services.AddTransient<ICartRepository, CartRepository>();
-builder.Services.AddTransient<IUserOrderRepository,UserOrderRepository>();
+builder.Services.AddTransient<IUserOrderRepository, UserOrderRepository>();
 builder.Services.AddTransient<IStockRepository, StockRepository>();
 builder.Services.AddTransient<IItemTypesRepository, ItemTypesRepository>();
+builder.Services.AddTransient<IFileService, FileService>();
+builder.Services.AddTransient<IServiceItemsRepository, ServiceItemsRepository>();
 
 var app = builder.Build();
 

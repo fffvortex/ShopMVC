@@ -18,24 +18,16 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-BoldItalic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
+wwwroot\images\02ebaf9d-7740-4685-99e3-deae3819c773.png
+wwwroot\images\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png
+wwwroot\images\996e58bc-fd72-4edf-aecd-3934613e0e29.png
+wwwroot\images\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png
+wwwroot\images\cc38d44a-124a-4a9f-93a9-4207d29837d0.png
+wwwroot\images\da25199f-6d70-46da-b657-703e65902d51.png
+wwwroot\images\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png
 wwwroot\img\backSlider.gif
 wwwroot\img\empty_cart.png
 wwwroot\img\no image.png
-wwwroot\img\pistols\G291-CO2 pistol replica.png
-wwwroot\img\rifles\Airsoft assault rifle Cyma CM028.png
-wwwroot\img\rifles\Airsoft rifle JG Works 4015T Black.png
-wwwroot\img\rifles\Airsoft rifle Specna Arms RRA SA-E03.png
-wwwroot\img\rifles\Airsoft rifle Specna Arms SA-A33 ONE™.png
-wwwroot\img\rifles\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png
-wwwroot\img\rifles\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png
-wwwroot\img\rifles\CM042A Carbine Replica.png
-wwwroot\img\rifles\CM048A assault airsoft rifle.png
-wwwroot\img\rifles\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png
-wwwroot\img\rifles\SA-H01 ONE™ Assault Rifle Replica.png
-wwwroot\img\rifles\SA-H02 ONE.png
-wwwroot\img\rifles\Specna Arms SA-C19 Daniel Defense®.png
-wwwroot\img\rifles\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png
-wwwroot\img\sniper rifles\MB4410D replica with scope and bipod.png
 wwwroot\js\drop.js
 wwwroot\js\drop_character.js
 wwwroot\js\slider.js

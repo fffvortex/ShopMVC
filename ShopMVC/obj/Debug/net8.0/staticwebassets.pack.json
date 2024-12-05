@@ -85,6 +85,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png",
+      "PackagePath": "staticwebassets\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
+      "PackagePath": "staticwebassets\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png",
+      "PackagePath": "staticwebassets\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
+      "PackagePath": "staticwebassets\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
+      "PackagePath": "staticwebassets\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png",
+      "PackagePath": "staticwebassets\\images\\da25199f-6d70-46da-b657-703e65902d51.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
+      "PackagePath": "staticwebassets\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\backSlider.gif",
       "PackagePath": "staticwebassets\\img\\backSlider.gif"
     },
@@ -95,66 +123,6 @@
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",
       "PackagePath": "staticwebassets\\img\\no image.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\pistols\\G291-CO2 pistol replica.png",
-      "PackagePath": "staticwebassets\\img\\pistols\\G291-CO2 pistol replica.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft assault rifle Cyma CM028.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft assault rifle Cyma CM028.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle JG Works 4015T Black.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms RRA SA-E03.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-A33 ONE™.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-F01 FLEX GATE X-ASR Black.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Airsoft rifle Specna Arms SA-F02 FLEX™ GATE X-ASR Black.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM042A Carbine Replica.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\CM042A Carbine Replica.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\CM048A assault airsoft rifle.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\CM048A assault airsoft rifle.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\RRA & SI SA-E17 EDGE™ PDW Carbine Replica - Black.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\SA-H01 ONE™ Assault Rifle Replica.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\SA-H02 ONE.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\SA-H02 ONE.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Specna Arms SA-C19 Daniel Defense®.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png",
-      "PackagePath": "staticwebassets\\img\\rifles\\Specna Arms SA-F21 FLEX™ ETU™ Tan airsoft rifle.png"
-    },
-    {
-      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\sniper rifles\\MB4410D replica with scope and bipod.png",
-      "PackagePath": "staticwebassets\\img\\sniper rifles\\MB4410D replica with scope and bipod.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\js\\drop.js",

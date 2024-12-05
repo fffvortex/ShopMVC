@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Item>
+@{
+    ViewData["Title"] = "Items ";
+}
+
+<div style="display: block;justify-content: center;">
+    <h1 style="text-align:center; margin-block:1rem;">Items</h1>
+    <div style="display: flex; justify-content: center;">
+        <a href="/Identity/Account/Manage" style="padding-inline:0.4rem; text-align: center;" class="btn btn-primary">back</a>
+        <a class="btn btn-primary" asp-action="AddItem" asp-controller="Item">add item</a>
+    </div>
+</div>
+
+@if(Model?.Count()> 0){
+    <table style="width: 90%; margin-inline:auto;">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="text-align:center;">
+                    @item.ItemTitle
+                    <br />
+                    id: @item.Id
+                </td>
+                <td>
+                    @item.Image
+                    <br />
+                    @if (string.IsNullOrEmpty(item.Image))
+                    {
+                        <img style="height: 40px; " src="/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
+                    }
+                    else
+                    {
+                        <img style="height: 40px; " src="/images/@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
+                    }
+                    <br />
+                    type: @item.ItemType.TypeTitle
+                </td>
+                <td>
+                    @item.Price
+                </td>
+                <td style="font-size: small;">
+                    @item.Description
+                </td>
+                <td style="font-size: small;">
+                    @item.Stats
+                </td>
+                <td>
+                    <a asp-action="DeleteItem" asp-controller="Item" asp-route-id="@item.Id" onclick="return window.confirm('Are you sure?')" >delete</a>
+                    <a asp-action="UpdateItem" asp-controller="Item" asp-route-id="@item.Id">update</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else{
+    <h1 style="text-align:center; margin-block:1rem;">No items</h1>
+}
