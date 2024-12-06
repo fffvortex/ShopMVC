@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EwV5vfwJLFO7IR2ZxXH9ehRVWaKwaPIyrKC9AB1l9jU=",
+  "Hash": "VW9+RgB91Dfptyaz4do3oGvLcDGLCgJ/gQb3y57O6p4=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "83zcdw2tos",
-      "Integrity": "pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg=",
+      "Fingerprint": "wegs8l3sv1",
+      "Integrity": "GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\confirm.css"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dij6bp27g3",
-      "Integrity": "RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI=",
+      "Fingerprint": "3t1rua8uwy",
+      "Integrity": "54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\slider.css"
@@ -4066,51 +4066,6 @@
       ]
     },
     {
-      "Route": "css/confirm.83zcdw2tos.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3192"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 14:26:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "83zcdw2tos"
-        },
-        {
-          "Name": "label",
-          "Value": "css/confirm.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg="
-        }
-      ]
-    },
-    {
       "Route": "css/confirm.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
       "Selectors": [],
@@ -4121,7 +4076,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3192"
+          "Value": "3216"
         },
         {
           "Name": "Content-Type",
@@ -4129,11 +4084,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg=\""
+          "Value": "\"GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 14:26:26 GMT"
+          "Value": "Fri, 06 Dec 2024 14:34:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4143,7 +4098,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg="
+          "Value": "sha256-GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/confirm.wegs8l3sv1.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\confirm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 14:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wegs8l3sv1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/confirm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y="
         }
       ]
     },
@@ -4558,6 +4558,51 @@
       ]
     },
     {
+      "Route": "css/slider.3t1rua8uwy.css",
+      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 15:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t1rua8uwy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slider.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q="
+        }
+      ]
+    },
+    {
       "Route": "css/slider.css",
       "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
       "Selectors": [],
@@ -4568,7 +4613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1413"
+          "Value": "1962"
         },
         {
           "Name": "Content-Type",
@@ -4576,11 +4621,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI=\""
+          "Value": "\"54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 11:59:44 GMT"
+          "Value": "Fri, 06 Dec 2024 15:19:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4590,52 +4635,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI="
-        }
-      ]
-    },
-    {
-      "Route": "css/slider.dij6bp27g3.css",
-      "AssetFile": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1413"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 11:59:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dij6bp27g3"
-        },
-        {
-          "Name": "label",
-          "Value": "css/slider.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI="
+          "Value": "sha256-54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q="
         }
       ]
     },

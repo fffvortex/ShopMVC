@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>83zcdw2tos</Fingerprint>
-      <Integrity>pEkeZMe8UAMOerK803YkaxSsYeNXMbRKSiEpA8Uaagg=</Integrity>
+      <Fingerprint>wegs8l3sv1</Fingerprint>
+      <Integrity>GO5vi1eucOMtHfDFfYeV/DkEWx6I8NYAUVNIekV+09Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\confirm.css'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dij6bp27g3</Fingerprint>
-      <Integrity>RXfGEbB1gg9yGnw9aAPezggTEzK6G8jIQ9fEr3RI8TI=</Integrity>
+      <Fingerprint>3t1rua8uwy</Fingerprint>
+      <Integrity>54dKlHbYq/o6Q+H0DcPKmY4sOyX3QiHUuUaUKaznA7Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\slider.css'))</OriginalItemSpec>
