@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Items ";
 }
-
+<link rel="stylesheet" href="/css/table_items.css" asp-append-version="true" />
 <div style="display: block;justify-content: center;">
     <h1 style="text-align:center; margin-block:1rem;">Items</h1>
     <div style="display: flex; justify-content: center;">
@@ -12,7 +12,7 @@
 </div>
 
 @if(Model?.Count()> 0){
-    <table style="width: 90%; margin-inline:auto;">
+    <table class="table_items">
         @foreach (var item in Model)
         {
             <tr>
@@ -51,6 +51,39 @@
             </tr>
         }
     </table>
+
+    <div class="mobile_table_items">
+        @foreach (var item in Model)
+        {
+            <div class="mobile_div">
+                @item.ItemTitle
+                <br />
+                <span class="column_items">id: </span> @item.Id
+            </div>
+            <div class="mobile_div">
+                <span class="column_items">url image:</span> @item.Image
+                <br />
+                @if (string.IsNullOrEmpty(item.Image))
+                {
+                    <img style="height: 40px; " src="/img/no image.png" alt="@item.ItemTitle type: @item.TypeName" />
+                }
+                else
+                {
+                    <img style="height: 40px; " src="/images/@item.Image" alt="@item.ItemTitle type: @item.TypeName" />
+                }
+                <br />
+                <span class="column_items">type: </span> @item.ItemType.TypeTitle
+            </div>
+            <div class="mobile_div"><span class="column_items" >price:</span> @item.Price</div>
+            <div class="mobile_div" style="font-size: small;"><span class="column_items">description:</span> @item.Description</div>
+            <div class="mobile_div" style="font-size: small;"><span class="column_items">stats:</span> @item.Stats</div>
+            <div class="mobile_div" style="display: flex; justify-content: space-between; padding:0.2em;">
+                <a asp-action="DeleteItem" asp-controller="Item" asp-route-id="@item.Id" onclick="return window.confirm('Are you sure?')">delete</a>
+                <a asp-action="UpdateItem" asp-controller="Item" asp-route-id="@item.Id">update</a>
+            </div>
+            <div style="border-top: solid 18px black"></div>
+        }
+    </div>
 }
 else{
     <h1 style="text-align:center; margin-block:1rem;">No items</h1>

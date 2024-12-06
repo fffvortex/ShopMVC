@@ -69,12 +69,20 @@
       "PackagePath": "staticwebassets\\css\\modal.css"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\orderSucces.css",
+      "PackagePath": "staticwebassets\\css\\orderSucces.css"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\search.css",
       "PackagePath": "staticwebassets\\css\\search.css"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\slider.css",
       "PackagePath": "staticwebassets\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\table_items.css",
+      "PackagePath": "staticwebassets\\css\\table_items.css"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\css\\text.css",
@@ -89,28 +97,128 @@
       "PackagePath": "staticwebassets\\images\\02ebaf9d-7740-4685-99e3-deae3819c773.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1394dd28-98b1-4c99-b0cb-c2d680f4b73d.png",
+      "PackagePath": "staticwebassets\\images\\1394dd28-98b1-4c99-b0cb-c2d680f4b73d.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png",
       "PackagePath": "staticwebassets\\images\\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\2a33ccf3-d5e7-4976-b53d-bff99a5456fa.png",
+      "PackagePath": "staticwebassets\\images\\2a33ccf3-d5e7-4976-b53d-bff99a5456fa.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\38440e21-39d1-4896-89d5-7399e581fa23.png",
+      "PackagePath": "staticwebassets\\images\\38440e21-39d1-4896-89d5-7399e581fa23.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\3dc1e6f6-72f3-489f-ba66-2f49ad793d1c.png",
+      "PackagePath": "staticwebassets\\images\\3dc1e6f6-72f3-489f-ba66-2f49ad793d1c.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\4bfc2852-bc93-485d-b62b-7196dd713f64.png",
+      "PackagePath": "staticwebassets\\images\\4bfc2852-bc93-485d-b62b-7196dd713f64.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\527839b6-a3c1-42be-baed-8bec21740e35.png",
+      "PackagePath": "staticwebassets\\images\\527839b6-a3c1-42be-baed-8bec21740e35.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\57dd62d6-2f64-4994-a88a-e274b035dd09.png",
+      "PackagePath": "staticwebassets\\images\\57dd62d6-2f64-4994-a88a-e274b035dd09.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\5b31f654-7469-4a8b-90e8-2f62886911e3.png",
+      "PackagePath": "staticwebassets\\images\\5b31f654-7469-4a8b-90e8-2f62886911e3.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\631a1bdc-7d54-4b4c-9d51-b56d36fb3da5.png",
+      "PackagePath": "staticwebassets\\images\\631a1bdc-7d54-4b4c-9d51-b56d36fb3da5.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\663e38f9-3406-4198-9985-dc3f8b29cfb1.png",
+      "PackagePath": "staticwebassets\\images\\663e38f9-3406-4198-9985-dc3f8b29cfb1.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\726e83bc-4000-433a-8d75-b213d3f79e05.png",
+      "PackagePath": "staticwebassets\\images\\726e83bc-4000-433a-8d75-b213d3f79e05.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\7d372973-be39-4e33-88a3-ce807672f671.png",
+      "PackagePath": "staticwebassets\\images\\7d372973-be39-4e33-88a3-ce807672f671.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\9200df18-6d06-44c1-8fc5-cbd6d2677408.png",
+      "PackagePath": "staticwebassets\\images\\9200df18-6d06-44c1-8fc5-cbd6d2677408.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\95a46ac5-69cc-411c-b15f-5806b7bf9c9e.png",
+      "PackagePath": "staticwebassets\\images\\95a46ac5-69cc-411c-b15f-5806b7bf9c9e.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png",
       "PackagePath": "staticwebassets\\images\\996e58bc-fd72-4edf-aecd-3934613e0e29.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\a57815f5-39ed-4834-8804-91caad5bade1.png",
+      "PackagePath": "staticwebassets\\images\\a57815f5-39ed-4834-8804-91caad5bade1.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ae33346c-59f1-4513-8a86-c52f325e8f12.png",
+      "PackagePath": "staticwebassets\\images\\ae33346c-59f1-4513-8a86-c52f325e8f12.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\b42341fd-1948-4bc1-a614-2ddd39e0c435.png",
+      "PackagePath": "staticwebassets\\images\\b42341fd-1948-4bc1-a614-2ddd39e0c435.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png",
       "PackagePath": "staticwebassets\\images\\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\c136f579-11cb-4e0e-a2c2-502b437eaf6e.png",
+      "PackagePath": "staticwebassets\\images\\c136f579-11cb-4e0e-a2c2-502b437eaf6e.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\c13fbb30-d902-4716-8b20-8078c8046b45.png",
+      "PackagePath": "staticwebassets\\images\\c13fbb30-d902-4716-8b20-8078c8046b45.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\c3243111-c0f5-4fa7-b5b0-6fd494c41d8c.png",
+      "PackagePath": "staticwebassets\\images\\c3243111-c0f5-4fa7-b5b0-6fd494c41d8c.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\c427c4d2-ccbb-44cd-9bdf-025d1b516736.png",
+      "PackagePath": "staticwebassets\\images\\c427c4d2-ccbb-44cd-9bdf-025d1b516736.png"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png",
       "PackagePath": "staticwebassets\\images\\cc38d44a-124a-4a9f-93a9-4207d29837d0.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\d6e0f7b5-1a61-431d-b044-1682e2564d32.png",
+      "PackagePath": "staticwebassets\\images\\d6e0f7b5-1a61-431d-b044-1682e2564d32.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\d96eebce-7c0a-4879-9a5b-ebca5038f9b4.png",
+      "PackagePath": "staticwebassets\\images\\d96eebce-7c0a-4879-9a5b-ebca5038f9b4.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\da25199f-6d70-46da-b657-703e65902d51.png",
       "PackagePath": "staticwebassets\\images\\da25199f-6d70-46da-b657-703e65902d51.png"
     },
     {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ea793e41-0796-47f5-9152-08f6591466a2.png",
+      "PackagePath": "staticwebassets\\images\\ea793e41-0796-47f5-9152-08f6591466a2.png"
+    },
+    {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png",
       "PackagePath": "staticwebassets\\images\\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\animation.gif.mp4",
+      "PackagePath": "staticwebassets\\img\\animation.gif.mp4"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\backSlider.gif",
@@ -119,6 +227,10 @@
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\empty_cart.png",
       "PackagePath": "staticwebassets\\img\\empty_cart.png"
+    },
+    {
+      "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\flashing gif cw.gif",
+      "PackagePath": "staticwebassets\\img\\flashing gif cw.gif"
     },
     {
       "Id": "C:\\Users\\mi162\\source\\repos\\ShopMVC\\ShopMVC\\wwwroot\\img\\no image.png",

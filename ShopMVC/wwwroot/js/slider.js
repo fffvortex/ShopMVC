@@ -1,11 +1,11 @@
-var swiper = new Swiper(".swiper", {
+let swiper = new Swiper(".swiper", {
+    centeredSlides: true,
     effect: "coverflow",
     grabCursor: true,
-    loop: true,
-    centeredSlides: true,
     slidesPerView: 'auto',
+    loop: true,
     autoplay: {
-        delay: 3000,
+        delay: 2000,
     },
     speed: 500,
     coverflowEffect: {
@@ -13,8 +13,5 @@ var swiper = new Swiper(".swiper", {
         stretch: 0,
         depth: 400,
         slideShadows: true,
-    },
-    pagination: {
-        el: ".swiper-pagination"
     }
 })

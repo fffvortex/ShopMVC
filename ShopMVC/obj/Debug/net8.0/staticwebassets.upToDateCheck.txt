@@ -5,8 +5,10 @@ wwwroot\css\confirm.css
 wwwroot\css\LoginPartial.css
 wwwroot\css\modal.css
 wwwroot\css\My_nav_bar.css
+wwwroot\css\orderSucces.css
 wwwroot\css\search.css
 wwwroot\css\slider.css
+wwwroot\css\table_items.css
 wwwroot\css\text.css
 wwwroot\favicon.ico
 wwwroot\Fonts\Bender\COPYRIGHT.txt
@@ -19,14 +21,40 @@ wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Italic.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-Light.otf
 wwwroot\Fonts\Bender\Jovanny Lemonad - Bender-LightItalic.otf
 wwwroot\images\02ebaf9d-7740-4685-99e3-deae3819c773.png
+wwwroot\images\1394dd28-98b1-4c99-b0cb-c2d680f4b73d.png
 wwwroot\images\1f08c8b3-e7af-4535-be1c-55fab8ccb19e.png
+wwwroot\images\2a33ccf3-d5e7-4976-b53d-bff99a5456fa.png
+wwwroot\images\38440e21-39d1-4896-89d5-7399e581fa23.png
+wwwroot\images\3dc1e6f6-72f3-489f-ba66-2f49ad793d1c.png
+wwwroot\images\4bfc2852-bc93-485d-b62b-7196dd713f64.png
+wwwroot\images\527839b6-a3c1-42be-baed-8bec21740e35.png
+wwwroot\images\57dd62d6-2f64-4994-a88a-e274b035dd09.png
+wwwroot\images\5b31f654-7469-4a8b-90e8-2f62886911e3.png
+wwwroot\images\631a1bdc-7d54-4b4c-9d51-b56d36fb3da5.png
+wwwroot\images\663e38f9-3406-4198-9985-dc3f8b29cfb1.png
+wwwroot\images\726e83bc-4000-433a-8d75-b213d3f79e05.png
+wwwroot\images\7d372973-be39-4e33-88a3-ce807672f671.png
+wwwroot\images\9200df18-6d06-44c1-8fc5-cbd6d2677408.png
+wwwroot\images\95a46ac5-69cc-411c-b15f-5806b7bf9c9e.png
 wwwroot\images\996e58bc-fd72-4edf-aecd-3934613e0e29.png
+wwwroot\images\a57815f5-39ed-4834-8804-91caad5bade1.png
+wwwroot\images\ae33346c-59f1-4513-8a86-c52f325e8f12.png
+wwwroot\images\b42341fd-1948-4bc1-a614-2ddd39e0c435.png
 wwwroot\images\bf14e413-0ac1-4f44-8fef-88a62389b5ce.png
+wwwroot\images\c136f579-11cb-4e0e-a2c2-502b437eaf6e.png
+wwwroot\images\c13fbb30-d902-4716-8b20-8078c8046b45.png
+wwwroot\images\c3243111-c0f5-4fa7-b5b0-6fd494c41d8c.png
+wwwroot\images\c427c4d2-ccbb-44cd-9bdf-025d1b516736.png
 wwwroot\images\cc38d44a-124a-4a9f-93a9-4207d29837d0.png
+wwwroot\images\d6e0f7b5-1a61-431d-b044-1682e2564d32.png
+wwwroot\images\d96eebce-7c0a-4879-9a5b-ebca5038f9b4.png
 wwwroot\images\da25199f-6d70-46da-b657-703e65902d51.png
+wwwroot\images\ea793e41-0796-47f5-9152-08f6591466a2.png
 wwwroot\images\ed070e60-5369-4a87-9ce0-6c8b9372e3cc.png
+wwwroot\img\animation.gif.mp4
 wwwroot\img\backSlider.gif
 wwwroot\img\empty_cart.png
+wwwroot\img\flashing gif cw.gif
 wwwroot\img\no image.png
 wwwroot\js\drop.js
 wwwroot\js\drop_character.js

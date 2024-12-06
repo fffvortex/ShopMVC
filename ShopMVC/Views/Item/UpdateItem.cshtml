@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Update Item ";
 }
-
+<link rel="stylesheet" href="/css/confirm.css" asp-append-version="true" />
 <div style="display: block;justify-content: center;">
     <h1 style="text-align:center; margin-block:1rem;">Edit</h1>
     <div style="display: flex; justify-content: center;">
@@ -14,47 +14,49 @@
     <input type="hidden" asp-for="Id" />
     <input type="hidden" asp-for="Image" />
 
-    <div>
+    <div class="div_forms">
         <label>title</label>
-        <input type="text" class="form-control" asp-for="ItemTitle" />
+        <input style="text-align: center; maxlength:40;" type="text" class="form-select" asp-for="ItemTitle" />
         <span asp-validation-for="ItemTitle"></span>
     </div>
 
-    <div>
+    <div class="div_forms">
         <label>description</label>
-        <input type="text" class="form-control" asp-for="Description" />
-        <span asp-validation-for="Description"></span>
+        <textarea style="text-align: center; maxlength:371;" class="form-select" asp-for="Description" rows="5"></textarea>
+        <span asp-validation-for="Description" class=""></span>
     </div>
 
-    <div>
+    <div class="div_forms">
         <label>stats</label>
-        <input type="text" class="form-control" asp-for="Stats" />
-        <span asp-validation-for="Stats"></span>
+        <textarea style="text-align: center; maxlength:170;" class="form-select" asp-for="Stats" rows="5"></textarea>
+        <span asp-validation-for="Stats" class=""></span>
     </div>
 
-    <div>
+    <div class="div_forms" >
         <label>type</label>
-        <select class="form-control" asp-for="TypeId" asp-items="Model.TypeList">
+        <select style="text-align: center;" class="form-select" asp-for="TypeId" asp-items="Model.TypeList">
             <option value="">select..</option>
         </select>
         <span asp-validation-for="TypeId"></span>
     </div>
 
-    <div>
+    <div class="div_forms">
         <label>price</label>
-        <input type="number" class="form-control" asp-for="Price" />
+        <input style="text-align: center;" class="form-select" type="number" asp-for="Price" />
         <span asp-validation-for="Price"></span>
     </div>
 
-    <div>
-        <label>image</label>
+    <div class="div_forms">
         @if(!string.IsNullOrEmpty(Model.Image)){
             <img src="/images/@Model.Image" style="width: 80px;height: 40px;" />
         }
-        <input type="file" class="form-control" asp-for="ImageFile" />
+        <label for="file-upload" class="custom-file-upload">
+            upload png
+        </label>
+        <input id="file-upload" class="form-select" type="file" class="form-control" asp-for="ImageFile" />
     </div>
 
-    <div>
-        <button type="submit" class="btn btn-primary">update</button>
+    <div class="div_forms">
+        <button style="padding:0.6rem;" type="submit" class="btn btn-primary">update</button>
     </div>
 </form>

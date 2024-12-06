@@ -1,0 +1,27 @@
+﻿
+.table_items {
+    display: block;
+    width: 90%;
+    margin-inline:auto;
+}
+
+.mobile_table_items {
+    display: none;
+    padding: 0.2em;
+}
+.mobile_div {
+    text-align: center;
+    border: solid #808080 2px;
+    padding: 0.2em;
+}
+.column_items{
+    color: #3e8e1d;
+}
+@media(max-width: 1200px) {
+    .table_items{
+        display: none;
+    }
+    .mobile_table_items{
+        display: block;
+    }
+}

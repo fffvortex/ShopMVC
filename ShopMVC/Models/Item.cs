@@ -19,12 +19,10 @@ namespace ShopMVC.Models
         [MaxLength(371)]
         public string? Description { get; set; }
 
-        [Required]
-        public int TypeId { get; set; }
-
         [MaxLength(170)]
         public string Stats { get; set; }
-
+        [Required]
+        public int TypeId { get; set; }
         public TypeItem ItemType { get; set; }
         public List<OrderDetail> OrderDetail { get; set; }
         public List<CartDetail> CartDetail { get; set; }

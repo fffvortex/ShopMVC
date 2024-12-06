@@ -80,6 +80,7 @@ namespace ShopMVC.Controllers
                     Price = itemToAdd.Price,
                     TypeId = itemToAdd.TypeId,
                     Image = itemToAdd.Image
+
                 };
                 await _itemsRepository.AddItem(item);
                 TempData["succesMessage"] = "Item is added!";
